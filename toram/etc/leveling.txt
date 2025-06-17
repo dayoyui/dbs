@@ -1,0 +1,22 @@
+1-20 Lavarca : Dataran Rakau
+20-40 Pova : Ngarai Lonogo
+40-56 Bone Dragon : Makam Ratu Kuno: Area 1
+56-67 Flare Volg (Hard) : Lereng Merapi: Jejak lava
+67-79 Flare Volg (Nightmare) : Lereng Merapi: Jejak lava
+79-97 Masked Warrior (Nightmare) : Tanah Pertanian: Tanah Tinggi
+97-112 Don Yeti : Lembah Es Polde
+112-126 Cerberus (Nightmare) : Mata Air Kelahiran: Puncak
+126-133 Dukun Lapin : Sungai Kegelapan
+133-144 Cerberus (Ultimate) : Mata Air Kelahiran: Puncak
+144-157 Commander Golem : Mansion Lufenas: Pintu Masuk
+157-163 Venena (Hard) : Istana Ultimea: Takhta
+163-179 Venena (Nightmare) : Istana Ultimea: Takhta
+179-182 Altoblepas : Dataran Rokoko
+182-199 Venena (Ultimate) : Istana Ultimea: Takhta
+199-215 Finstern (Ultimate) : Kuil Naga Kegelapan: Tengah
+215-225 Kuzto (Ultimate) : Distrik Labilans: Alun-alun / Roh org mati : Lembah Arche: Area 1
+225-245 Arachnidemon (Ultimate) : Lembah Arche: Area Terdalam
+245-255 Ferzen (Ultimate) : Hutan Lindung: Pohon Raksasa
+255-265 Mimyugon (Nightmare) : Zona Kemudi: Area Kokpit
+265-270 Naga Abu Merah Rudis (Hard) : Kubah Espuma Depan Gerbang
+270-280 Mimyugon (Ultimate) : Zona Kemudi: Area Kokpit

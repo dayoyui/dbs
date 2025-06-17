@@ -1,0 +1,87 @@
+*NOTE*
+Elematch dan nonmatch cukup isi 1
+Ele default fire karna ga ngaruh ke cost
+Pot: potensial eq (wajib di isi)
+Prof: lvl proff bs (opsional)
+Maksimal 6 stats untuk masing" plus dan nega stas
+
+*Enhance Stats*
+str : STR
+str% : STR%
+int : INT
+int% : INT%
+vit : VIT
+vit% : VIT%
+agi : AGI
+agi% : AGI%
+dex : DEX
+dex% : DEX%
+
+*Enhance HP/MP*
+hpreg : Natural HP regen
+hpreg% : Natural HP regen%
+mpreg : Natural MP regen
+mpreg% : Natural MP regen%
+hp : MaxHP
+maxhp% : MaxHP%
+maxmp : MaxMP
+
+*Enhance Attack*
+atk : ATK
+atk% : ATK%
+matk : MATK
+matk% : MATK%
+stab% : Stability%
+pp%  : PhysicalPierce %
+mp% : Magic Pierce %
+
+*Enhance Defense*
+def : DEF
+mdef : MDEF
+def% : DEF%
+mdef% : MDEF%
+pres% : PhysicalResistance %
+mres% : Magic Resistance %
+foe% : % Reduce Dmg (Foe Epicenter)
+bow% : % Reduce Dmg (Bowling)
+bull% : % Reduce Dmg (Bullet)
+flo% : % Reduce Dmg (Floor)
+line : % Reduce Dmg (Straight Line)
+Charge% : % Reduce Dmg (Charge)
+epic% : % Reduce Dmg (Player Epicenter)
+mete% : % Reduce Dmg (Meteor)
+
+*Enhance Accuracy*
+acc : Accuracy
+acc% : Accuracy %
+
+*Enhance Dodge*
+dodge : Dodge
+dodge% : Dodge %
+
+*Enhance Speed*
+aspd : ASPD
+aspd% : ASPD%
+cspd : CSPD
+cspd% : CSPD%
+
+*Enhance Critical*
+cr : Critical Rate
+cr% : Critical Rate%
+cd : Critical Damage
+cd% : Critical Damage%
+
+*Enhance Elements*
+dte% : % Stronger Against ele
+rte% : ele Resistance %
+
+*Special Enhancement*
+ail% : Ailment Resistance %
+eva% : Evasion Rate %
+guard : Guard Power
+guard% : Guard Rate %
+aggro% : Aggro %
+
+*Awaken Elements*
+elematch : Element(matching)
+elenon : Element(not matching)

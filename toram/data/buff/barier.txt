@@ -1,0 +1,13 @@
+List kode buff Fractional Barier:
+1012222
+1074649 + DEX
+4010024 + STR
+53010043
+3190038 (9)
+3010003 (9)
+
+List kode buff Physical Barier:
+2020111 (7)
+
+List kode buff Magic Barier:
+2020505 (8)

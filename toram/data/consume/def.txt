@@ -1,0 +1,14 @@
+Defense Buffs
+
+Mystery Potion Y (10 min)
+ATK % +1
+Physical Defense % +10
+
+Ginkgo Nut Rice (15 min)
+Physical Resistance % +25
+Magic Resistance % +25
+
+Goodbye Hat (30 min)
+Guard Power % +10
+Guard Recharge % +10
+VIT +10

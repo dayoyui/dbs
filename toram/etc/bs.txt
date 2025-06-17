@@ -1,0 +1,30 @@
+TECH 225
+paruh tebal 0 -12
+tombak baskara 12 - 143
+bakung lelabang merah 143 - 170 (opsional)
+tongkat arus samudra 143/170 - 260
+Katana laut dalam 260 - 270
+
+Full DEX > STR / AGI
+paruh tebal 0 - 13
+tapal minotaur  13 - 33 (opsional)
+Hard knuckles 13/33 - 53
+pedang indigo 53 - 58
+tombak baskara 58 - 143
+bakung lelabang merah 143 - 173 (opsional)
+sarung lengan naga batu 143 - 178 / 173 - 178
+tongkat arus samudra 178 - 260
+Katana laut dalam 260 - 270
+
+FULL STR / AGI > DEX 
+paruh tebal 0 - 13
+tapal minotaur  13 - 33
+Hard knuckles 33 - 45 (opsional)
+pedang indigo 33/45 - 93
+baju diomedea 93 - 95
+tombak baskara 95 - 143
+bakung lelabang merah 144 - 173
+sarung lengan naga batu 173 - 210
+Kostum pengelabu 210 - 215/245
+tongkat arus samudra 215/245 - 260
+Katana laut dalam 260 - 270

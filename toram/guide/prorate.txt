@@ -1,0 +1,34 @@
+*Proration*
+Proration adalah efek pada boss atau mob ketika suatu jenis serangan digunakan terlalu sering. Hal ini membuat boss/mob menjadi terbiasa dengan jenis serangan tersebut, yang menyebabkan damage dari jenis serangan tersebut menurun hingga 0.5x. Sebaliknya, damage dari jenis serangan lain akan meningkat hingga 2.5x
+
+*Cara Kerja Proration*
+Setiap jenis serangan memengaruhi proration dengan cara berbeda:
+- `Basic Attack`:
+     🔻 Basic Proration: -1
+     🟢 Magic Proration: +1
+     🟢 Physical Proration: +1
+
+- `Magic Attack`:
+     🟢 Basic Proration: +1
+     🔻 Magic Proration: -1
+     🟢 Physical Proration: +1
+
+- `Physical Attack`:
+     🟢 Basic Proration: +1
+     🟢 Magic Proration: +1
+     🔻 Physical Proration: -1
+
+Contoh:
+jika Physical Proration memberikan +10% damage fisik ke boss, maka DPS fisik membutuhkan 15 Basic atau Magic Attack dari tim untuk mencapai +150% (2.5x) damage fisik maksimal.
+
+Beberapa skill memiliki interaksi unik dengan proration, Misalnya Soul Hunter diklasifikasikan sebagai skill fisik tetapi menggunakan magic proration, sedangkan Revenir menggunakan Physical Proration tanpa memengaruhinya.
+
+Aksi yang kamu lakukan akan memengaruhi damage semua anggota tim, bukan hanya diri sendiri. Jika kamu hanya spam skill fisik untuk meningkatkan magic proration tetapi tidak menggunakan serangan magic, maka damage tim yang menggunakan serangan fisik akan menurun.
+
+*Mengecek Proration Rate*
+gunakan equip dengan 100% stab lalu lakukan serangan non-critical atau non-graze. Lakukan dua kali dan perhatikan perbedaan damage-nya, Contoh:
+- Hit pertama menghasilkan 100k damage
+- Hit kedua hanya menghasilkan 90k damage
+Ini berarti ada 10% proration rate untuk tipe damage tersebut.
+
+Beberapa boss memiliki proration yang sangat rendah atau bahkan tidak ada untuk damage tertentu. Misalnya, Finstern hanya memiliki 1% proration rate untuk damage fisik. Guard Golem tidak memiliki proration sama sekali, sehingga pemain bisa melakukan spam serangan tanpa memengaruhi damage output.

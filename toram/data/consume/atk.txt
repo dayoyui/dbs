@@ -1,0 +1,32 @@
+ATK Buffs
+
+Penetrating Oil (30 min)
+Physical Pierce % +10
+ATK % +3
+
+Morning Star Gummy (10 min)
+Physical Pierce % +5
+Critical Rate % +40
+
+Energy Pill (30 min)
+ATK % +5
+ATK +50
+
+Lantern Cake (30 sec)
+ATK % +10
+:redown: Motion Speed % -10
+
+Blade Oil (30 min)
+Unsheathed ATK % +5
+Unsheathed ATK +100
+
+Matsutake Soup (15 min)
+Weapon ATK % +10
+Attack MP Recovery +10
+
+Pumpkie Parfait (15 min)
+ATK % +6
+
+Scorching Grass (2 min)
+Weapon Attack +9
+Damage to Earth % +2

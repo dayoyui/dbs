@@ -1,0 +1,116 @@
+Daftar Status Buruk (Ailments)
+1. Bergidik (Flinch)
+- Ke Musuh (Enemy): Membuat musuh tidak bisa menggunakan skill selama 1 detik dengan cooldown 3 detik dan break-chance 2 detik. Cooldown tergantung pada musuh, skill, dan tingkat kesulitan boss.
+- Ke Pemain (Player): Pemain tidak bisa menggunakan skill dan rentan terhadap serangan selama 1 detik, juga membatalkan combo yang sedang berlangsung.
+
+2. Jatuh (Tumble)
+- Ke Musuh (Enemy): Menonaktifkan skill musuh selama 3 detik dengan cooldown 15 detik dan break-chance 4 detik. Cooldown dapat berbeda tergantung musuh, skill, dan kesulitan boss.
+- Ke Pemain (Player): Pemain tidak bisa menggunakan skill, rentan terhadap serangan selama 3 detik, dan combo yang sedang berlangsung dibatalkan.
+
+3. Pingsan (Stun)
+- Ke Musuh (Enemy): Musuh tidak dapat bergerak, lumpuh, menggunakan skill. durasi 5 detik, cooldown 25 detik, durasi break 6 detik. Menggunakan ini sebelum status bergidik (flinch) dan jatuh (tumble) akan memperpanjang durasi break. cooldown bervariasi tergantung musuh, skill dan kesulitan boss.
+- Ke Pemain (Player): Tidak dapat bergerak, lumpuh, menggunakan skill dan rentan terhadap serangan musuh selama 5 detik, dan membatalkan combo yang sedang berjalan.
+
+4. Terpelanting Kebelakang (Knock Back)
+- Ke Musuh (Enemy): Terpelanting kebelakang. Jarak terpelanting bervariasi tergantung serangan. Jeda waktu (cooldown) tergantung pada jarak terpelanting.
+- Ke Pemain (Player): Jarak terpelanting tergantung pada jenis musuh dan skill yang digunakan.
+
+5. Racun (Poison)
+- Ke Musuh (Enemy): Menghasilkan damage fraksional setiap interval waktu tertentu berdasarkan HP target dan INT dan DEX pemain. Durasi 10 detik.
+- Ke Pemain (Player): Mengurangi 5% HP ketika menggunakan skill, durasi 10 detik.
+
+6. Lumpuh (Paralysis)
+- Ke Musuh (Enemy): Menunda serangan selama 2 detik (1 detik untuk boss). durasi 10 detik.
+- Ke Pemain (Player): Mengurangi 50% ASPD, durasi 10 detik.
+
+7. Buta (Blindness)
+- Ke Musuh (Enemy): Mengurangi hit sebesar 60% (20% untuk boss). durasi 10 detik.
+- Ke Pemain (Player): Mengurangi hit atau akurasi pemain. Jarak 8m atau lebih dari musuh mendapatkan pinalti hit 40%, 7m kurang mendapatkan pinalti hit 20%, durasi 10 detik.
+
+8. Terbakar (Ignition)
+- Ke Musuh (Enemy): Menghasilkan damage fraksional setiap interval waktu tertentu tergantung pada HP target. Durasi 10 detik.
+- Ke Pemain (Player): Mengurangi 15% HP saat ini setiap 3 detik, durasi 10 detik.
+
+9. Beku (Freeze)
+- Ke Musuh (Enemy): Menambah delay attack hingga 100% (50% untuk boss). durasi 10 detik.
+- Ke Pemain (Player): Mengurangi 50% moontion speed dan Godspeed Wield. durasi 10 detik.
+
+10. Pecah Zirah (Armor Break)
+- Ke Musuh (Enemy): Mengurangi M/DEF target sebesar 50%, total M/DEF dihitung dari bagian pertama Armor Break kemudian Penetrasi Sihir/Fisik (M/P Pierce) diterapkan. durasi 5 detik.
+- Ke Pemain (Player): Mengurangi 50% kekebalan fisik dan sihir, durasi 5 detik. Tidak dapat guard dan guard recharge terhenti.
+
+11. Lambat (Slow)
+- Ke Musuh (Enemy): Mengurangi kecepatan gerakan 50% (25% untuk boss). durasi 10 detik.
+- Ke Pemain (Player): Menurunkan kecepatan berjalan 50%, Tidak dapat evasion dan evasion recharge terhenti, durasi 10 detik.
+
+12. Berhenti (Stop)
+- Ke Musuh (Enemy): Musuh tidak bisa bergerak selama 10 detik (boss hanya melambat 50%), cooldown 50 detik. Pola serangan (attack) seperti lari secara linear dan rapalan dapat digunakan saat mendapatkan debuff berhenti.
+- Ke Pemain (Player): Tidak bisa bergerak, tapi bisa menggunakan beberapa skill dan rapalan, durasi 10 detik. evasion dan evasion recharge terhenti.
+
+13. Takut (Frear)
+- Ke Musuh (Enemy): 30% membatalkan serangan (10% untuk boss). durasi 10 detik.
+- Ke Pemain (Player): 30% Peluang gagal menggunakan skill atau serangan, durasi 10 detik.
+
+14. Pening (Dizzy)
+- Ke Musuh (Enemy): Memantikan evasion dan guard rate (50% untuk boss). durasi 10 detik.
+- Ke Pemain (Player): Mengurangi 50% evasion dan guard rate, durasi 10 detik.
+
+15. Lesu (Letheargy)
+- Ke Musuh (Enemy): Mengurangi damage yang diberikan sebesar 30%. durasi 10 detik.
+- Ke Pemain (Player): Mengurangi 30% damage kepada musuh, durasi 10 detik.
+
+16. Lemah (Weaken)
+- Ke Musuh (Enemy): Mengurangi MDEF sebesar 25%.
+- Ke Pemain (Player): Menambah konsumsi MP +100, durasi 5 detik.
+
+17. Diam (Silence)
+- Ke Musuh (Enemy): Tidak bisa menggunakan skill sihir, durasi 5 detik.
+- Ke Pemain (Player): Tidak bisa menggunakan skill sihir, durasi 5 detik.
+
+18. Berdarah (Bleed)
+- Ke Musuh (Enemy): Tidak bisa menggunakan skill fisik, durasi 5 detik.
+- Ke Pemain (Player): Tidak bisa menggunakan skill fisik, durasi 5 detik.
+
+20. Lelah (Fatigue)
+- Ke Musuh (Enemy): Mengurangi stabilitas 50%, pada serangan durasi terakhir akan mengalami graze.
+- Ke Pemain (Player): Mengurangi stabilitas 50%, pada serangan durasi terakhir akan mengalami graze.
+
+21. Silau (Dazzled)
+- Ke Musuh (Enemy): Mendapatkan peluang tidak terjadinya graze 50%. durasi 10 detik. Jeda waktu (cooldown) selama 50 detik.
+- Ke Pemain (Player):
+
+22. Ledakan Mana (Mana Explosion)
+- Ke Musuh (Enemy):
+- Ke Pemain (Player): Memberikan damage diakhir durasi dan mp menjadi 0. damage = MP * 10.
+
+23. Tidur (Sleep)
+- Ke Musuh (Enemy): Tidak bisa bergerak, menyerang, atau menggunakan skill, bangun saat menerima serangan, Bos memulihkan 3% dari HP maksimal saat bangun.
+- Ke Pemain (Player): Tidak bisa bergerak, menyerang, atau menggunakan skill, bangun saat menerima serangan, mengaktifkan regenerasi alami.
+
+24. Lari (Overdrive)
+- Ke Musuh (Enemy):
+- Ke Pemain (Player): Mengubah seluruh tag didalam combo menjadi gigih (tenancity).
+
+25. Sakit (Sick)
+- Ke Musuh (Enemy):
+- Ke Pemain (Player): Mengurangi resistensi status buruk sebanyak 50% selama 30 detik. meskipun resistensi 100%, tetap bisa terkena debuff.
+
+26. Terkutuk (Curse)
+- Ke Musuh (Enemy):
+- Ke Pemain (Player): Mengurangi critical damage sebanyak 50%. durasi 10 detik.
+
+27. Item Disable
+- Ke Musuh (Enemy):
+- Ke Pemain (Player): Tidak dapat menggunakan consume item
+
+28. Pengisapan (Suction )
+- Ke Musuh (Enemy): Menarik ke pusat serangan (50% untuk Bos)
+- Ke Pemain (Player): Menarik ke pusat serangan, menonaktifkan evasion dan Guard selama 1 detik
+
+29. Kaku (Petrified )
+- Ke Musuh (Enemy):
+- Ke Pemain (Player): Menghindar Mutlak +100%, & menghapus aggro saat ini sebesar 99%
+
+30. (Inversion)
+- Ke Musuh (Enemy):
+- Ke Pemain (Player): Mengganti HP% dan MP% Anda saat ini

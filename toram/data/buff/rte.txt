@@ -1,0 +1,27 @@
+List kode buff RTE Dark:
+5010092
+2020707 (9) + INT
+
+List kode buff RTE Light:
+2020909 + AMPR
+1023040 (9) + AMPR
+1020001 (7) + PRES
+1112220 (7) + DEX
+4220777 (4)
+
+List kode buff RTE Fire:
+2020101 (9) + MP
+
+List kode buff RTE Water:
+2020606 (8) + AGGRO
+
+List kode buff RTE Wind:
+2020222 (9)
+
+List kode buff RTE Earth:
+6150029 (9)
+2020404 (9)
+
+List kode buff RTE Neutral:
+2020303 + STR
+7220777 (9)

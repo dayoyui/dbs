@@ -1,0 +1,67 @@
+*AGGRO*
+Aggro adalah mekanisme di mana musuh menentukan player mana yang akan menjadi target. Karakter yang menghasilkan aggro paling tinggi akan menjadi target utama serangan musuh.  
+Inilah alasan mengapa Aggro adalah stat penting, terutama bagi tank.  
+
+*Bagaimana Aggro Dihasilkan?*  
+Aggro dapat dihasilkan dengan Menyerang musuh pertama kali, basiic atack, Menggunakan skill dan Mencuri aggro dari pemain lain.  
+Dulu, aggro dihitung dengan rumus 1 MP = 1 Aggro (berdasarkan teori pemain). Namun, saat ini nilai aggro yang sebenarnya adalah 1 MP = 10 Aggro, berdasarkan bukti dari "Mega Wcos registlet" dan "Round Down Aggro".  
+
+*Rumus Aggro (1MP = 10 Aggro):*  
+* Orang pertama yang menyerang musuh: 2000 Aggro (tidak terpengaruh oleh % aggro dari equipment).  
+* 1 Auto Attack: 100 Aggro
+* 100 MP Skill: 1000 Aggro
+* 500 MP Skill: 5000 Aggro
+* 1600 MP Skill: 16000 Aggro
+* Ketika berhasil mencuri aggro: (2000 + MP yang digunakan saat mencuri * 2) Aggro (tidak terpengaruh oleh % aggro dari equipment).
+* Setiap Support Aura pada caster: 30 + (30 * jumlah pemain yang terhubung)  (tidak terpengaruh oleh % aggro dari equipment).
+* Guardian Aura pada caster: 50 + (32 + ShieldRefine + MAX(0; ShieldRefine - 12)) * jumlah pemain yang terhubung  (tidak terpengaruh oleh % aggro dari equipment).
+
+*Catatan Penting:*
+* Auto Attack yang melenceng/miss atau dihindari/evade tidak akan menghasilkan aggro. Namun, skill tetap menghasilkan aggro meskipun miss/evade.  
+* Perhitungan aggro terjadi sebelum efek pengurangan MP dari combo tag atau buff Impact. Namun, untuk skill yang menggunakan seluruh MP (seperti Qi Charge, Arcane, dll.), perhitungan terjadi sebelum combo tag tetapi setelah buff pengurangan MP.  
+* Aggro akan dibulatkan ke bawah. Jika hasil perhitungan aggro adalah 1365.5 x 2, maka dianggap 1365 x 2 = 2730 
+* Beberapa skill memiliki tambahan aggro seperti Provoke, Rage Sword, P.def, Binding Strike.  
+
+*Contoh Perhitungan Aggro (1MP = 10 Aggro)*  
+* Pemain A menyerang musuh pertama kali → 2000 Aggro.  
+* A menggunakan skill 100MP → Aggro A = 3000.  
+* Pemain B (yang awalnya 0 Aggro) menggunakan 400MP → Aggro B = 4000 → B otomatis mencuri aggro, Bonus mencuri aggro = (2000 + (400 x 2)) = 2800 Aggro. Total Aggro B = 6800 Aggro.  
+* A menggunakan skill 1600MP →  Aggro A naik jadi 19000 → otomatis mencuri aggro dari B. Bonus mencuri aggro = (2000 + (1600 x 2)) = 3200.  Total Aggro A = 24200 Aggro.  
+* B sekarang punya 6800 Aggro → Butuh (24200 - 6800 = 17400) Aggro untuk mencuri Aggro A.  
+> Catatan: Dulu 1 MP = 1 Aggro, sekarang 1 MP = 10 Aggro. Untuk menghindari kebingungan, lebih baik menyebutnya sebagai "MP Aggro".  Seperti 6800 Aggro (1MP=10Aggro) = 680 MP Aggro  atau 1023 Aggro = 102.3 MP Aggro  
+
+*Jenis Skill yang Menghasilkan Aggro*  
+
+Attack Skill  
+* Menghasilkan aggro hanya pada musuh yang terkena serangan.  
+* Jika skill tidak mencapai target (bukan karena miss/evade), maka tidak akan menghasilkan aggro.  
+* Contoh: Smash, Spiral Air, Meteor Breaker.  
+
+Non-Attack Target Skill  
+* Menghasilkan aggro hanya pada musuh yang ditargetkan, tidak pada musuh lain.  
+* Contoh: Backstep, Slide.  
+
+Party-Buff Skill  
+* Menghasilkan aggro pada musuh yang sebelumnya memiliki aggro terhadap kamu atau rekan party yang menerima buff.  
+* Contoh: War Cry, Sanctuary, Guardian (jika ada pemain dekatmu), Heal/Recovery (jika buff diberikan ke orang lain, bukan ke diri sendiri), Ad-lib.  
+
+Self-Buff Skill  
+* Menghasilkan aggro hanya jika musuh sudah memiliki aggro terhadapmu sebelumnya.  
+* Jika kamu belum menyerang musuh sebelumnya, self-buff tidak akan menghasilkan aggro.  
+* Bisa menggunakan trik Shukuchi Attack-Cancel untuk tetap menghasilkan aggro.  
+* Contoh: Berserk, Fareth, CF/Goliath Charge, Heal/Recovery (buff ke diri sendiri).  
+
+*Aggro pada Bodyguard*
+Perhitungan aggro mirip dengan pemain, tetapi ada perbedaan:  
+* Auto attack Defender Mercenary = 500 Aggro.  
+* Defender Merc mendapatkan bonus Aggro 3x saat musuh belum memiliki aggro pada Mercenary.  
+Contoh:  
+* Auto Attack Merc = 500 x 3 = 1500 Aggro
+* Skill 100 MP = 1000 x 3 = 3000 Aggro
+* Serangan Merc yang melenceng/miss juga tidak menghasilkan aggro seperti pemain.  
+* Namun, skill Merc tidak menghasilkan aggro sama sekali jika miss/evade (berbeda dengan pemain yang tetap mendapatkan aggro meskipun skill meleset).  
+
+*Fakta Tentang Aggro*  
+* Aggro akan hilang (reset ke 0) jika jarak antara kamu dan musuh lebih dari 24 meter. Namun, ini tidak berlaku di Boss Room, Dungeon, Guild Maze, dll.  Jika ada pemain lain yang menyerang musuh, aggro tetap terjaga meskipun kamu berada lebih dari 100 meter.  
+* Kamu masih bisa menghasilkan aggro dari jarak lebih dari 24 meter, tetapi tidak bisa mencuri aggro di jarak tersebut.  Jika kamu berhasil mencuri aggro dari jarak lebih dari 24 meter, aggro akan langsung hilang dan diberikan kepada pemain dengan aggro tertinggi kedua dalam party.  (Aturan ini juga tidak berlaku di Boss Room).  
+* Skill Guardian memberikan multiplier aggro % per anggota party dan juga mengurangi aggro anggota party lainnya.  Guardian memiliki sistem aggro yang berbeda dari aggro % biasa pada equipment atau skill, tetapi efeknya bisa ditumpuk.

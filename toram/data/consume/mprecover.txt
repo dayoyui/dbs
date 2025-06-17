@@ -1,0 +1,34 @@
+MP Recovery Buffs
+
+Forbidden Nut
+Recover MP 300
+Max HP % -99
+💬 Must be used at full health to avoid death.
+
+Coryn's Present
+Recover MP 300
+
+Pom Biscuits
+Recover MP 150
+
+Sakura Liqueur
+Recover MP 100
+
+Whipped Cream
+Recover MP 100
+
+Mellow Mushroom
+Recover MP 75
+
+Champagne (30 min)
+Recover MP 100 every 10 seconds
+
+Snow Wine (15 min)
+Recover MP % 10 every 10 seconds
+💬 Capped to recover a maximum of 100 MP per tick.
+
+Mana Catalyst (30 min)
+AMPR +8
+
+Premium Coffee (3 min)
+Recover MP 50 every 5 seconds.

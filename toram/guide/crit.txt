@@ -1,0 +1,46 @@
+*CRITIAL RATE*
+Stat Pribadi (CRT) : Setiap 3,4 poin stat CRT menambah 1 crit rate.
+Base crit rate adalah 25.
+255 CRT = +75 base crit rate (total 100 base crit rate).
+CR% dalam equip atau skill didasarkan pada base crit rate kita.
+Jadi, total crit rate akan menjadi : (Base critical rate + CRT/3,4) x (100% + CR%) + flat CR.
+
+*CRITICAL DAMAGE*
+Base Critical Damage
+* JIKA STR > AGI = 150 + (Total STR/5)
+* JIKA AGI > STR = 150 + ((Total STR + Total AGI)/10)
+Total crit dmg (CD) = Base critical dmg x (100% + CD%) + flat CD.
+Namun, ada soft cap setelah 300 total crit dmg. Crit damage berikutnya akan dibagi dua setelah Total Cd mencapai 300.
+Jadi, rumusnya jika total cd lebih dari 300: 300 + (Total Cd - 300)/2.
+
+*Magic critical rate dan damage*
+Untuk mendapatkan magic crit, kamu akan membutuhkan salah satu dari berikut ini: senjata [Staff Magic Neutral dmg], weaken ailment, Pasif Spellburst dari Battle Skill Tree dan dual Bringer. Beberapa skill sihir memiliki absolute critical, seperti Imperial Rays, qadal, dan lain-lain.
+
+*MAGIC CRITICAL RATE (MCR)*
+* Dengan (spellburst) level 10 = Mengonversi 25% dari total CR menjadi MCR.
+* Dengan [Staff Magic Neutral dmg] = mengonversi 25% dari total CR menjadi MCR.
+* Dengan [Staff Magic Neutral dmg] + (spellburst) = mengonversi 50% dari total CR menjadi MCR. Bahkan lebih +25% konversi untuk skill MW dengan buff Dual Bringer level 10 jika stats STR > INT.
+
+Efek tersebut dapat ditumpuk, sehingga menjadi:
+* Dengan (spellburst) => perlu 400 CR x 25% = 100%
+* Dengan [Staff Magic Neutral dmg] => perlu 400 CR x 25% = 100%
+* Dengan [Staff Magic Neutral dmg] + (spellburst) => perlu 200 CR x 50% = 100%
+* Dengan weaken ailment => perlu 200 CR x 50% = 100%
+* Dengan weaken ailment + (spellburst) => perlu 134 CR x 75% = 100%
+* Dengan weaken ailment + Dual Bringer STR => MW perlu 134 CR x 75% = 100%
+* Dengan weaken ailment + (spellburst) + Dual Bringer STR => MW perlu 100 CR x 100% = 100%
+
+Catatan:
+* [Staff Magic Neutral dmg] didapat dari staff non elemen atau menggunakan Skill Elemen Netral dengan staff (seperti Finale).
+* Perhitungan magic CR ini didasarkan pada total CR terlebih dahulu, baaru resistensi crit diterapkan setelah mengonversi CR menjadi MCR. Oleh karena itu, build crit mage lemah terhadap jenis resistensi crit.
+
+Catatan untuk weaken ailment
+* kamu harus memiliki elemen yang unggul terhadap target. Jika tidak ada elemen yang unggul, maka tidak ada bonus magic CR dari Weaken. Weaken lemah terhadap netral, karena netral tidak memiliki elemen lemah. Selain itu, skill sihir yang memiliki elemen tetap seperti Finale Neutral tidak dapat memperoleh manfaat MCR dari Weaken.
+* Bonus persentase MCR Dual Bringer sekarang bekerja seperti kondisi Weaken untuk beberapa alasan... yaitu... tidak memberikan bonus persentase MCR terhadap netral karena memerlukan elemen yang unggul
+
+*MAGIC CRITICAL DAMAGE (MCD)*
+Total Magic CD (MCD) = 100 + (total CD - 100) x (rasio CDMG), Rasio CDMG dasar adalah 50%
+* Jika kamu memiliki spellburst level 10, maka (2,5 x Skill Lvl) adalah 25% rasio CDMG tambahan, sehingga dengan 50% dasar => 75% rasio CDMG akhir.
+* Jika kamu berada di buff Dual Bringer level 10 dengan stats INT > STR, maka skill MW kamu mendapatkan tambahan +25% rasio CDMG ekstra. Jadi, jika dipasangkan dengan SB level 10, maka kamu mendapatkan rasio CDMG akhir 100%.
+
+Tentang total magic crit damage softcap, Total CD dihitung dan softcap terlebih dahulu, kemudian dikonversi menjadi Total Magic CD.

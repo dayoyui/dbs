@@ -1,0 +1,88 @@
+*HIT, AKURASI, dan GRAZE*
+
+*HIT*
+Hit berarti seberapa besar kemungkinan seranganmu mengenai target. Bisa juga disebut sebagai akurasi serangan. Semakin tinggi nilai Hit yang kamu miliki, semakin besar kemungkinan seranganmu berhasil mengenai musuh.
+Musuh dan boss memiliki nilai dodge (penghindaran), mirip dengan stat flee pada karakter kita. Ini menghasilkan formula berikut:
+
+Hit Chance dari Sudut Pandang Pemain:
+`100 - (Dodge Monster - Hit Pemain)/3+ MP cost of skill/10`
+> Nilai ini tidak bisa lebih dari 100% atau kurang dari 0%.
+Jika terkena Blind, maka ada penalti -25% Hit Chance jika menyerang dalam jarak 0-7m dan -50% Hit Chance jika menyerang dari jarak 8m ke atas. Jadi, Hit Chance x 0.75 (0-7m) atau Hit Chance x 0.5 (8m ke atas).
+
+Hit Chance dari Sudut Pandang Monster:
+Rumusnya hampir sama, hanya saja mengganti beberapa variabel:
+`100 - (Flee Pemain - Hit Monster)/3 + Bonus atau Penalti Akurasi dari Serangan` 
+> Nilai ini juga tidak bisa lebih dari 100% atau kurang dari 0%.
+> Jika monster terkena Blind, maka akan terkena penalti sebesar 60%.
+
+> Untuk Hit Chance pemain, MP Cost skill dalam rumus akurasi dihitung setelah efek combo tag dan buff pengurangan MP. Jadi penggunaan Save, Cons, atau Impact akan mengurangi bonus akurasi dibandingkan penggunaan manual.
+
+*Apakah Akurasi Penting?*
+Tidak terlalu, Jika kamu memiliki 100% Critical Rate, maka seranganmu akan selalu mengenai target meskipun nilai Hit-mu -999999. Namun, ada musuh yang memiliki Critical Rate Resistance
+
+*"Serangan sihir tidak pernah meleset."*
+ini hanya berlaku untuk pemain, bukan monster. Selain itu, serangan sihir tidak bisa dihindari seperti serangan fisik.
+Namun, serangan sihir tidak memiliki critical secara alami, kecuali jika kamu memiliki efek seperti Spellburst, Weaken, atau negatif critical resistance (seperti fase terakhir Finstern saat dia terkena interrupt).
+Bahkan jika serangan sihir bisa critical, damage critical sihir jauh lebih rendah dibandingkan serangan fisik.
+
+*Graze*
+Graze terjadi jika akurasi seranganmu lebih rendah dari Flee monster, dan juga jika Hit Chance lebih kecil dari threshold Graze.
+Graze Threshold (Batasan Graze) untuk Setiap Senjata:
+* OHS (One-Handed Sword): 25%
+* THS (Two-Handed Sword): 15%
+* BOW (Bow): 20%
+* BWG (Bowgun): 5%
+* STF (Staff): 30%
+* MD (Magic Device): 10%
+* KNU (Knuckle): 10%
+* HB (Halberd): 20%
+* KTN (Katana): 30%
+* BH (Bare Hand): 50%
+Nilai ini tetap, tidak bisa ditingkatkan kecuali terkena efek "Dazzled". Maka Hit Chance dihitung berdasarkan 2x Graze Threshold jika nilai Hit Chance lebih kecil dari nilai itu.
+Crit dmg atau skill yang punya tag kombo mind akan membuat miss selalu Graze.
+
+*Efek dari Graze Hit*
+Serangan Graze akan mengalami penalti stabilitas -50%  (dibagi dua, bukan dikurangi langsung).
+Artinya, meskipun total stabilitasmu mencapai 180%, jika terkena Graze, stabilitas akhirnya tetap 50% (karena stabilitas total dihitung dahulu, lalu batas maksimal stab di set ke 100% baru di kurangi dengan graze).
+
+*Absolute Hit Chance (Akurasi Mutlak)*
+* Absolute Hit Chance hanya akan aktif saat seranganmu terkena Graze atau Miss.
+* Beberapa equipment memberikan Absolute Hit%.
+* Mind's Eye (combo tag) juga memiliki efek ini, dengan tambahan +10% per slot dalam combo. Jika ada 10 slot, maka 100% Absolute Hit.
+> Absolute Accuracy/Mind’s Eye Absolute Hit bukan Perfect Aim, Perfect Aim akan selalu menghasilkan Hit (Putih) atau Crit (Kuning) tanpa bisa meleset sedangkan Absolute Hit Chance tetap bisa menghasilkan Graze atau White Hit jika kondisi lainnya tidak terpenuhi.
+
+*Urutan Perhitungan Hit Chance:*
+1. Hit Chance = 100 - (Dodge Monster - Hit Pemain)/3 + MP cost of skill/10 (Dibatasi maksimal 100% dan minimal 0%)
+2. Apakah terkena Blind?
+* Jika ya, maka terkena penalti 20% jika menyerang dari 0-7m atau 40% jika menyerang dari 8m ke atas
+3. Apakah target terkena Dazzled?
+* Jika ya, maka Hit Chance = MAX(Hit Chance, 2x Graze Threshold).
+4. Sistem menentukan angka acak X antara 0-100 saat serangan dilakukan.
+5. Apakah Hit Chance lebih besar dari angka acak X?
+* Ya: Serangan mengenai target.
+* Tidak: Serangan meleset.
+6. Apakah terkena Dazzled?
+* Jika ya, ada dua kemungkinan:
+* Jika tadi "Hit" → Menjadi White Graze atau Yellow Graze (jika crit)
+* Jika tadi "Miss" → Tetap Miss (skip crit/graze threshold)
+7. Apakah serangan ini Critical?
+* Jika ya, serangan menjadi Yellow Graze.
+* Jika tidak, lanjut ke langkah berikutnya.
+8. Apakah Mind's Eye Absolute Hit aktif?
+* Jika ya, serangan Hit.
+* Jika tidak, tetap seperti hasil sebelumnya.
+9. Apakah serangan memiliki combo tag Mind's Eye?
+* Jika ya, serangan menjadi White Graze.
+10. Apakah nilai Graze Threshold lebih besar dari angka acak X?
+* Jika ya, serangan menjadi White Graze.
+* Jika tidak, serangan menjadi Miss.
+11. Apakah kamu memiliki "Perfect Aim"?
+* Jika ya, serangan selalu White Hit atau Yellow Crit, bahkan jika harusnya Graze atau Miss.
+* Jika tidak, serangan tetap mengikuti hasil sebelumnya.
+
+*Mekanisme Evasion (Menghindari Serangan):*
+Setelah semua perhitungan Hit Chance, langkah berikutnya adalah Evasion Chance.
+* Jika musuh berhasil menghindar, serangan tetap gagal meskipun Hit atau Crit.
+* Anticipate bisa menggagalkan evasion, tetapi harus roll terlebih dahulu.
+> Satu-satunya cara menurunkan evasion musuh adalah dengan Dizzy, yang bisa mengurangi evasion/guard hingga 50% pada boss atau menonaktifkan evasion pada minion.
+> Alternatif lain adalah meningkatkan Anticipate lewat equipment, meskipun bisa mengurangi damage.

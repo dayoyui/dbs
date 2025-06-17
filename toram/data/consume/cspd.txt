@@ -1,0 +1,13 @@
+Cast Speed Buffs
+
+Spell Headphones (30 min)
+CSPD +700
+
+Grape Jelly (15 min)
+CSPD +300
+Max MP +300
+
+Inari Sushi (30 min)
+CSPD +500
+CSPD % +25
+MDEF +75

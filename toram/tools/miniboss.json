@@ -1,0 +1,972 @@
+[
+    {
+      "name": "Dark Mushroom",
+      "lvl": "30",
+      "element": "Gelap",
+      "hp": "17500",
+      "xp": "440",
+      "leveling": "27 s/d 33",
+      "map": "Tanah Genting Kaus",
+      "drops": "Dark Mushroom, Spora Jamur, Jamur Beracun, Kristal Keruh"
+    },
+    {
+      "name": "Colon Komandan",
+      "lvl": "33",
+      "element": "Api",
+      "hp": "22000",
+      "xp": "440",
+      "leveling": "30 s/d 36",
+      "map": "Jalan Strum",
+      "drops": "Baju Pengelana, Colon Met, Colon Komandan, Kulit Colon, Revita I, Setumpuk Daun, Helm Kayu Terbelah"
+    },
+    {
+      "name": "Crimsosch",
+      "lvl": "37",
+      "element": "Api",
+      "hp": "22500",
+      "xp": "500",
+      "leveling": "34 s/d 40",
+      "map": "Reruntuhan Athema: Area 2",
+      "drops": "Baju Pengelana, Topi Bulu Angsa, Batu Mengilap, Kulit Kodok Tebal, Batu Athema, Crimsosch"
+    },
+    {
+      "name": "Tortuga",
+      "lvl": "40",
+      "element": "Air",
+      "hp": "13500",
+      "xp": "560",
+      "leveling": "37 s/d 43",
+      "map": "Danau Icule",
+      "drops": "Perisai Tempurung, Baju Pengelana, Tortuga, Bijih Baja, Tempurung Penyu, Kulit Lemas Reptil"
+    },
+    {
+      "name": "Silver Roar",
+      "lvl": "42",
+      "element": "Air",
+      "hp": "14,570",
+      "xp": "590",
+      "leveling": "39 s/d 45",
+      "map": "Kanal Debakcy: B1",
+      "drops": "Baju Pengelana, Crystal Earrings, Silver Roar, Sayap Peri, Serbuk Bersinar"
+    },
+    {
+      "name": "Potum Ajaib",
+      "lvl": "42",
+      "element": "Cahaya",
+      "hp": "29000",
+      "xp": "600",
+      "leveling": "39 s/d 45",
+      "map": "Kuil Runtuh: Area 2",
+      "drops": "★ Save Point, Bintang Kejora, Baju Pengelana, Potum Ajaib, Kuku Potum, Apel Keras"
+    },
+    {
+      "name": "Tikus Pasir",
+      "lvl": "50",
+      "element": "Bumi",
+      "hp": "20,000",
+      "xp": "380",
+      "leveling": "47 s/d 53",
+      "map": "Tanah Tinggi Centerio",
+      "drops": "Lensa Hiasan, Daging Tikus Pasir, Kristal Pasir, Kulit Tikus Pasir"
+    },
+    {
+      "name": "Celeng Raksasa",
+      "lvl": "52",
+      "element": "Bumi",
+      "hp": "12832948",
+      "xp": "800",
+      "leveling": "49 s/d 55",
+      "map": "Gunung Nisel",
+      "drops": "Baju Pengelana, Celeng Raksasa, Bijih Baja, Bulu Awet, Surai Lebat"
+    },
+    {
+      "name": "Tengkorak Emas",
+      "lvl": "54",
+      "element": "Netral",
+      "hp": "12832948",
+      "xp": "840",
+      "leveling": "51 s/d 57",
+      "map": "Reruntuhan Zoktzda",
+      "drops": "Baju Pengelana, Tengkorak Emas, Arwah Penasaran, Tulang Manusia, Koin Emas Kuno"
+    },
+    {
+      "name": "Seltirio",
+      "lvl": "60",
+      "element": "Gelap",
+      "hp": "60000",
+      "xp": "960",
+      "leveling": "57 s/d 63",
+      "map": "Menara Kuno Aulada",
+      "drops": "Jubah Vampir, Seltirios, Sayap Naga Kecil, Cakar Merah, Pecahan Kristal Merah"
+    },
+    {
+      "name": "Tentara Batu",
+      "lvl": "60",
+      "element": "Bumi",
+      "hp": "12832948",
+      "xp": "960",
+      "leveling": "57 s/d 63",
+      "map": "Reruntuhan Zoktzda: Ruang Abnormal",
+      "drops": "Mirror Shield, Bijih Baja, Kerikil, Batu Zoktzda"
+    },
+    {
+      "name": "Coryn Besar",
+      "lvl": "60",
+      "element": "Cahaya",
+      "hp": "12832948",
+      "xp": "1730",
+      "leveling": "57 s/d 63",
+      "map": "Dusun Douce",
+      "drops": "Baju Pengelana, Flower Headband, Coryn Besar, Apel, Palu Ajaib, Ranting Muda"
+    },
+    {
+      "name": "Big Mask",
+      "lvl": "70",
+      "element": "Angin",
+      "hp": "12832948",
+      "xp": "2400",
+      "leveling": "67 s/d 73",
+      "map": "Ngarai Haotas",
+      "drops": "Stier (boss ver), sulur tebal, Embun Lembah, Kulit Besi Biji"
+    },
+    {
+      "name": "Arcoiris",
+      "lvl": "70",
+      "element": "Netral",
+      "hp": "12832948",
+      "xp": "2400",
+      "leveling": "67 s/d 73",
+      "map": "Tanah Tinggi Yorl",
+      "drops": "Pecahan Manik, Baju Pengelana, Arcoiris, Sayap Burung, bulu bianglala"
+    },
+    {
+      "name": "Serigala Luar",
+      "lvl": "70",
+      "element": "Cahaya",
+      "hp": "12832948",
+      "xp": "4800",
+      "leveling": "67 s/d 73",
+      "map": "Gerbang Dunia Lain: Area 2",
+      "drops": "Oracle Robe, Cakar Anjing Alien, Kulit Serigala Alien, Tanduk Anjing Alien"
+    },
+    {
+      "name": "Serigala Luar",
+      "lvl": "70",
+      "element": "Cahaya",
+      "hp": "12832948",
+      "xp": "4800",
+      "leveling": "67 s/d 73",
+      "map": "Gerbang Dunia Lain: Area 1",
+      "drops": "Oracle Robe, Cakar Anjing Alien, Kulit Serigala Alien, Tanduk Anjing Alien"
+    },
+    {
+      "name": "Potum Rembulan",
+      "lvl": "72",
+      "element": "Gelap",
+      "hp": "12832948",
+      "xp": "1860",
+      "leveling": "69 s/d 75",
+      "map": "Kastil Setan Bulan: Kamar Dalam",
+      "drops": "Bor, Baju Pengelana, Potum Rembulan, Kuku Potum, Apel, Bunga Rembulan"
+    },
+    {
+      "name": "Ksatriaja",
+      "lvl": "76",
+      "element": "Bumi",
+      "hp": "12832948",
+      "xp": "2680",
+      "leveling": "73 s/d 79",
+      "map": "Kawah Saham",
+      "drops": "Tomahawk, Baju Pengelana, Ksatriaja, Bijih Damaskus, Batu Kukuh"
+    },
+    {
+      "name": "Caspy",
+      "lvl": "77",
+      "element": "Gelap",
+      "hp": "12832948",
+      "xp": "2720",
+      "leveling": "74 s/d 80",
+      "map": "Makam Ratu Kuno: Area 2",
+      "drops": "Baju Pengelana, Cat-Ear Hood, Caspy, Kain Sobek, Sheeting Fabric, Permata Jiwa"
+    },
+    {
+      "name": "Violaccoon",
+      "lvl": "80",
+      "element": "Bumi",
+      "hp": "12832948",
+      "xp": "5472",
+      "leveling": "77 s/d 83",
+      "map": "Padang Darkanon",
+      "drops": "Hero Scarf, Violacoon, Nektar, Bulu Beruang, Cakar Beruang"
+    },
+    {
+      "name": "Baron Bling-Bling",
+      "lvl": "82",
+      "element": "Cahaya",
+      "hp": "12832948",
+      "xp": "6000",
+      "leveling": "79 s/d 85",
+      "map": "Kota Hilang: Alun-Alun",
+      "drops": "Pistol, Baju Pengelana, Baron Bling-bling, Tongkat Hilang, Kain Polister"
+    },
+    {
+      "name": "Metal Stinger",
+      "lvl": "82",
+      "element": "Bumi",
+      "hp": "12832948",
+      "xp": "4050",
+      "leveling": "79 s/d 85",
+      "map": "Gurun Akaku: Area 2",
+      "drops": "Metal Stinger, Capit Keras, Ekor Kalajengking, Piroksen Pasir"
+    },
+    {
+      "name": "Metal Stinger",
+      "lvl": "82",
+      "element": "Bumi",
+      "hp": "12832948",
+      "xp": "4050",
+      "leveling": "79 s/d 85",
+      "map": "Gurun Akaku: Area 1",
+      "drops": "Metal Stinger, Capit Keras, Ekor Kalajengking, Piroksen Pasir"
+    },
+    {
+      "name": "Colon Maut",
+      "lvl": "84",
+      "element": "Gelap",
+      "hp": "12832948",
+      "xp": "4620",
+      "leveling": "81 s/d 87",
+      "map": "Tanah Ternoda Vyshed: Area 2",
+      "drops": "Bijih Mithril, Afro Wig, Colon Maut, Kulit Colon Busuk, Daun Kering"
+    },
+    {
+      "name": "Nini",
+      "lvl": "88",
+      "element": "Bumi",
+      "hp": "12832948",
+      "xp": "3818",
+      "leveling": "85 s/d 91",
+      "map": "Neraka Abadi: Area 3",
+      "drops": "Ranting Sihir, Jiwa Pohon, Pohon Kuno, Bloom of Peace, Nini"
+    },
+    {
+      "name": "Grylle",
+      "lvl": "90",
+      "element": "Gelap",
+      "hp": "12832948",
+      "xp": "1720",
+      "leveling": "87 s/d 93",
+      "map": "Padang Kelana",
+      "drops": "Eyepatch (Cat), Grylle, Laras Bedil Kecil, Minyak Sihir, Zirah Hasil Tempa"
+    },
+    {
+      "name": "Potum Emas",
+      "lvl": "100",
+      "element": "Netral",
+      "hp": "12832948",
+      "xp": "12832948",
+      "leveling": "97 s/d 103",
+      "map": "Padang Kelana",
+      "drops": "Baju Pengelana, Potum Emas, Bubuk Tempa, Bubuk Tempa Super, Bubuk Tempa Wahid, Koin Perunggu Potum, Koin Perak Potum, Koin Emas Potum, Revita V"
+    },
+    {
+      "name": "Don Yeti",
+      "lvl": "103",
+      "element": "Bumi",
+      "hp": "12832948",
+      "xp": "9482",
+      "leveling": "100 s/d 106",
+      "map": "Lembah Es Polde",
+      "drops": "Bijih Mithril, Baju Pengelana, Sumbat Kuping, Don Yeti, Kapak Besar Retak, Bulu Halus"
+    },
+    {
+      "name": "Nightmare Potum",
+      "lvl": "120",
+      "element": "Gelap",
+      "hp": "1,500,000",
+      "xp": "15800",
+      "leveling": "117 s/d 123",
+      "map": "Halaman Awal Mula",
+      "drops": "Bijih Mithril, Palu Mainan, Baju Pengelana, Garam Pemurnian, Jiwa Potum, Nightmare Potum"
+    },
+    {
+      "name": "Daddy Finpen",
+      "lvl": "123",
+      "element": "Air",
+      "hp": "800,000",
+      "xp": "8000",
+      "leveling": "120 s/d 126",
+      "map": "Mata Air Kelahiran: Tengah",
+      "drops": "Paruh Kuning, Air Jernih, Daddy Soul, Daddy Finpen"
+    },
+    {
+      "name": "Dukun Lapin",
+      "lvl": "124",
+      "element": "Netral",
+      "hp": "1,665,000",
+      "xp": "17222",
+      "leveling": "121 s/d 127",
+      "map": "Sungai Kegelapan",
+      "drops": "Tudung Dukun, Dukun Lapin, Tapak Lembut, Tengkorak Retak, Roh Lapin, Baju Pengelana"
+    },
+    {
+      "name": "Kapten Karatan",
+      "lvl": "128",
+      "element": "Gelap",
+      "hp": "900,000",
+      "xp": "8738",
+      "leveling": "125 s/d 131",
+      "map": "Rumah Kegelapan: Area 1",
+      "drops": "Half Face Mask, Kapten Karatan, Pecahan Tameng Tajam, Stimulan, Lambang Kapten Terkoyak"
+    },
+    {
+      "name": "Salamander",
+      "lvl": "132",
+      "element": "Api",
+      "hp": "2,000,000",
+      "xp": "20242",
+      "leveling": "129 s/d 135",
+      "map": "Graben Membara: Atas",
+      "drops": "Tanduk Ignis, Salamander, Sirip Pedang Panas, Jeruk Membara, Sisik Membara"
+    },
+    {
+      "name": "Pedang Sihir Iblis",
+      "lvl": "134",
+      "element": "Gelap",
+      "hp": "1,983,000",
+      "xp": "19123",
+      "leveling": "131 s/d 137",
+      "map": "Reruntuhan Singolare: Lantai 2",
+      "drops": "Pedang Sihir Iblis, Bilah Bengkok, Pedang Iblis, Pedang Iblis Besar"
+    },
+    {
+      "name": "Builder Golem",
+      "lvl": "138",
+      "element": "Netral",
+      "hp": "1,823,000",
+      "xp": "17564",
+      "leveling": "135 s/d 141",
+      "map": "Pabrik Crysta Raksasa: Lantai 3",
+      "drops": "Kotak Alat Mencurigakan, Lensa Retak, Kunsi Pas Besar, Lentera Sihir Misterius, Builder Golem"
+    },
+    {
+      "name": "Dusk Machina",
+      "lvl": "142",
+      "element": "Gelap",
+      "hp": "1,895,000",
+      "xp": "17338",
+      "leveling": "139 s/d 145",
+      "map": "Pabrik Demi Machina Kecil: Area 2",
+      "drops": "Dusk Machina, Lengan Besar Monster, Jejak Tangan Raksasa, Tulang Raksasa Merah"
+    },
+    {
+      "name": "Odelon Machina",
+      "lvl": "146",
+      "element": "Cahaya",
+      "hp": "2,300,000",
+      "xp": "21357",
+      "leveling": "143 s/d 149",
+      "map": "Pabrik Demi Machina Besar: Area 2",
+      "drops": "Tentakel Tangguh, Bola Mata Raksasa, Lensa Sihir, Odelon Machina, Lezvie"
+    },
+    {
+      "name": "Jamur Super Mampus",
+      "lvl": "150",
+      "element": "Gelap",
+      "hp": "2,810,000",
+      "xp": "24871",
+      "leveling": "147 s/d 153",
+      "map": "Hutan Monster: Jalan Hewan",
+      "drops": "Baju Pengelana, Racun Jamur, Jamur Misterius, Super Costero, Jamur Super Mampus, Death Truffe"
+    },
+    {
+      "name": "Komandan Golem",
+      "lvl": "154",
+      "element": "Gelap",
+      "hp": "2,050,000",
+      "xp": "20580",
+      "leveling": "151 s/d 157",
+      "map": "Mansion Lufenas: Pintu Masuk",
+      "drops": "Baju Pengelana, Cawat Merah Tua, Kaca Keras, Radar Komando, Komandan Golem"
+    },
+    {
+      "name": "Kapten Lyark Spesialis",
+      "lvl": "157",
+      "element": "Angin",
+      "hp": "2,140,000",
+      "xp": "19089",
+      "leveling": "154 s/d 160",
+      "map": "Laboratorium Brahe: Gedung 2",
+      "drops": "Kain Lembu, Obat Penenang Lyark, Pin Pimpinan Prajurit, Kapten Lyark Spesialis"
+    },
+    {
+      "name": "Amoeba Machina",
+      "lvl": "158",
+      "element": "Air",
+      "hp": "4,000,000",
+      "xp": "29000",
+      "leveling": "155 s/d 161",
+      "map": "Saluran Bawah Tanah Ultimea: Tenggara",
+      "drops": "Kuku Bengkak Lunak, Kubus Misterius, Asam Nukleat Bengkok, Tonfa Master, Amoeba Machina"
+    },
+    {
+      "name": "Volotur",
+      "lvl": "160",
+      "element": "Gelap",
+      "hp": "2,510,000",
+      "xp": "24024",
+      "leveling": "157 s/d 163",
+      "map": "Suburb of Droma Square: Area 3",
+      "drops": "Taring Berduri, Kepala Penggigit, Lingkar Setan, Jiwa Rahasia Terkutuk, Volotur"
+    },
+    {
+      "name": "Roda Kelana",
+      "lvl": "163",
+      "element": "Angin",
+      "hp": "2,610,000",
+      "xp": "20223",
+      "leveling": "160 s/d 166",
+      "map": "Istana Ultimea: Gudang Demi Machina",
+      "drops": "Roda Berat, Lilin Lengket, Mesin Sihir, Baju Pengelana, Roda Kelana"
+    },
+    {
+      "name": "Seraph Machina",
+      "lvl": "167",
+      "element": "Cahaya",
+      "hp": "3,333,000",
+      "xp": "21073",
+      "leveling": "164 s/d 170",
+      "map": "Menara Penembus Bumi: Sisi Dalam",
+      "drops": "Pesawat Sihir Rusak, Kain Bercahaya, Hati Malaikat, Seraph Machina, Angel Halo"
+    },
+    {
+      "name": "Solopy",
+      "lvl": "169",
+      "element": "Bumi",
+      "hp": "3,000,000",
+      "xp": "23835",
+      "leveling": "166 s/d 172",
+      "map": "Tambang Turnus: Area 3",
+      "drops": "Solopy, Kain Tweed, Jamur Lezat, Kristal Turnus, Spora Halusinasi"
+    },
+    {
+      "name": "Bos Petapa Kadal",
+      "lvl": "171",
+      "element": "Netral",
+      "hp": "3,245,000",
+      "xp": "24360",
+      "leveling": "168 s/d 174",
+      "map": "Hutan Curonne: Area Utara 2",
+      "drops": "Topeng Retak, Dango Kadal, Batu Sakti Kadal, Bos Petapa Kadal"
+    },
+    {
+      "name": "Altoblepas",
+      "lvl": "174",
+      "element": "Netral",
+      "hp": "4,350,000",
+      "xp": "27500",
+      "leveling": "171 s/d 177",
+      "map": "Dataran Rokoko",
+      "drops": "Kantong Suara, Trompet Tanduk Retak, Laras Ganda, Trompet Squawker, Altoblepas"
+    },
+    {
+      "name": "Momok Gelembung",
+      "lvl": "177",
+      "element": "Api",
+      "hp": "3,377,000",
+      "xp": "26754",
+      "leveling": "174 s/d 180",
+      "map": "Koridor Barbaros",
+      "drops": "Halo Terputus, Kain Berkilau Misterius, Halo Merah Malaikat Jatuh, Pisau Malaikat Jatuh, Momok Gelembung"
+    },
+    {
+      "name": "Lynx Mithurna",
+      "lvl": "177",
+      "element": "Cahaya",
+      "hp": "3,128,000",
+      "xp": "25725",
+      "leveling": "174 s/d 180",
+      "map": "Reruntuhan G. Mithurna: Koridor Dasar",
+      "drops": "Cakar Kucing, Bulu Putih Cerah, Batu Arwah Putih Cerah, Penutup Mata Putih, Lynx Mithurna"
+    },
+    {
+      "name": "Carbuncle",
+      "lvl": "183",
+      "element": "Api",
+      "hp": "3,412,000",
+      "xp": "27200",
+      "leveling": "180 s/d 186",
+      "map": "Serambi Dewa Pembangunan",
+      "drops": "Carbuncle Edge, Carbuncle, Mantel Carbuncle, Cakar Carbuncle, Cermin Bersinar"
+    },
+    {
+      "name": "Goldenia",
+      "lvl": "187",
+      "element": "Angin",
+      "hp": "3,500,000",
+      "xp": "27930",
+      "leveling": "184 s/d 190",
+      "map": "Pegunungan Elf Area 3",
+      "drops": "Goldenia, Kulit Hitam Kelap, Tanduk Runcing, Bulu Sangat Emas"
+    },
+    {
+      "name": "Golem Preman",
+      "lvl": "191",
+      "element": "Air",
+      "hp": "12832948",
+      "xp": "29190",
+      "leveling": "188 s/d 194",
+      "map": "Kuil Naga Kegelapan: Tengah",
+      "drops": "Ingot Kuno, Monoeye Berbinar, Bunga Es Penekuk, Golem Preman"
+    },
+    {
+      "name": "Grimuckus",
+      "lvl": "195",
+      "element": "Air",
+      "hp": "12832948",
+      "xp": "29937",
+      "leveling": "192 s/d 198",
+      "map": "Jalan Wazeero",
+      "drops": "Bijih Mithril, Grimuckus, Buntalan Aneh, Batu Wazeero, Katar Rajapati"
+    },
+    {
+      "name": "Violangkara",
+      "lvl": "198",
+      "element": "Bumi",
+      "hp": "12832948",
+      "xp": "42126",
+      "leveling": "195 s/d 201",
+      "map": "Bongkahan Morthell: Area 3",
+      "drops": "Tengkorak Misterius, Bunga Penggoda, Violangkara, Enzim Merah Kehitaman"
+    },
+    {
+      "name": "Lobalawar",
+      "lvl": "200",
+      "element": "Bumi",
+      "hp": "12832948",
+      "xp": "44880",
+      "leveling": "197 s/d 203",
+      "map": "Wisma Zarth: Ruang Belajar (Halloween Event)",
+      "drops": "Nektar (Buket Bunga)"
+    },
+    {
+      "name": "Armasit",
+      "lvl": "201",
+      "element": "Api",
+      "hp": "12832948",
+      "xp": "33330",
+      "leveling": "198 s/d 204",
+      "map": "Distrik Fractum: Area 1",
+      "drops": "Armasit, Bunga Browallia, Duri Tanaman Termutasi, Tangkai Karatan"
+    },
+    {
+      "name": "Mega Alpoca",
+      "lvl": "204",
+      "element": "Netral",
+      "hp": "12832948",
+      "xp": "341000",
+      "leveling": "201 s/d 207",
+      "map": "Distrik Labilans: Area 3",
+      "drops": "Bijih Mithril, Rambut Tipis Lembut, Bulu Alpoca, Mega Alpoca"
+    },
+    {
+      "name": "Gopherga",
+      "lvl": "207",
+      "element": "Air",
+      "hp": "12832948",
+      "xp": "770000",
+      "leveling": "204 s/d 210",
+      "map": "Reruntuhan Dasar Laut",
+      "drops": "Bijih Orichalcum, Kerang Misterius, Tempurung Super Berat, Gopherga, Mutiara Ilusi"
+    },
+    {
+      "name": "Kristal Berdarah",
+      "lvl": "207",
+      "element": "Gelap",
+      "hp": "12832948",
+      "xp": "239960",
+      "leveling": "204 s/d 210",
+      "map": "Pos Depan Plastida: Area 1",
+      "drops": "Sari Berbahaya, Permata Merah Darah, Kristal Darah, Kristal Berlumur Darah"
+    },
+    {
+      "name": "Nemopirania",
+      "lvl": "210",
+      "element": "Cahaya",
+      "hp": "12832948",
+      "xp": "276122",
+      "leveling": "207 s/d 213",
+      "map": "Distrik Recetacula: Area 1",
+      "drops": "Sisik Tembaga Kuat, Taring Ikan Tajam, Kantong Kristal, Nemopirania, Pistol Asam"
+    },
+    {
+      "name": "Mata Jahanam",
+      "lvl": "212",
+      "element": "Angin",
+      "hp": "12832948",
+      "xp": "655200",
+      "leveling": "209 s/d 215",
+      "map": "Dea Ruinea",
+      "drops": "Kulit Pelik, Mata Jahat Terkutuk, Serum Demon, Mata Jahanam"
+    },
+    {
+      "name": "Tardigrademon",
+      "lvl": "213",
+      "element": "Api",
+      "hp": "12832948",
+      "xp": "36630",
+      "leveling": "210 s/d 216",
+      "map": "Reruntuhan Mansion Lufenas Tua",
+      "drops": "Kulit Tardigrada, Duri Ekor Karatan, Bola Kitin Merah, Tardigrademon"
+    },
+    {
+      "name": "Ketua Bandit Gurun",
+      "lvl": "215",
+      "element": "Bumi",
+      "hp": "12832948",
+      "xp": "48500",
+      "leveling": "212 s/d 218",
+      "map": "Gurun Pasir Geist: Area 3",
+      "drops": "Perban Bandit Gurun, Parang Berlumur Darah, Aksesori Rambut Ketua, Ketua Bandit Gurun, Topeng Bandit Gurun"
+    },
+    {
+      "name": "Ageladanios",
+      "lvl": "218",
+      "element": "Api",
+      "hp": "12832948",
+      "xp": "34350",
+      "leveling": "215 s/d 221",
+      "map": "Pesisir Ducia: Area 1",
+      "drops": "Ageladanios, Zirah Liar, Tanduk Arwah Jahat, Arwah Mengamuk, Api Sumber Malapetaka"
+    },
+    {
+      "name": "Pret",
+      "lvl": "218",
+      "element": "Gelap",
+      "hp": "12832948",
+      "xp": "112200",
+      "leveling": "215 s/d 221",
+      "map": "Reruntuhan Elban Urban",
+      "drops": "Debu Aneh, Keping Logam Geometris, Kerikil Berpendar, Pret"
+    },
+    {
+      "name": "Roh Orang Mati",
+      "lvl": "221",
+      "element": "Gelap",
+      "hp": "12832948",
+      "xp": "33600",
+      "leveling": "218 s/d 224",
+      "map": "Lembah Arche: Area 1",
+      "drops": "Belenggu Logam, Pecahan Topeng Tengkorak, Arwah Pendendam, Roh Orang Mati"
+    },
+    {
+      "name": "Orang2an Sawah Maut",
+      "lvl": "224",
+      "element": "Angin",
+      "hp": "12832948",
+      "xp": "35140",
+      "leveling": "221 s/d 227",
+      "map": "Rimba Penyihir: Area 2",
+      "drops": "Bulu Gagak, Poros Kokoh, Orang2an Sawah Maut, Perasaan Orang2an Sawah, Jubah Compang-Camping"
+    },
+    {
+      "name": "Datuk Nezim",
+      "lvl": "227",
+      "element": "Air",
+      "hp": "12832948",
+      "xp": "352800",
+      "leveling": "224 s/d 230",
+      "map": "Lahan Basah Nezim",
+      "drops": "Datuk Nezim, Daging Salamander Arang, Gigi Bergerigi Kuat, Jangat Berlendir"
+    },
+    {
+      "name": "Trokostida",
+      "lvl": "230",
+      "element": "Air",
+      "hp": "12832948",
+      "xp": "40000",
+      "leveling": "227 s/d 233",
+      "map": "Nov Diela: Area 1",
+      "drops": "Trokostida, Liposom Bersinar, Botol Tenaga EX, Inti Latebra Menggeliat"
+    },
+    {
+      "name": "Rhinosaurus",
+      "lvl": "233",
+      "element": "Bumi",
+      "hp": "12832948",
+      "xp": "41000",
+      "leveling": "230 s/d 236",
+      "map": "Rawa Danau Pelarian: Area 3",
+      "drops": "Rhinosaurus, Tatapan Lancang, Kulit Zirah Keras, Tanduk Adamantium, Tombak Bor"
+    },
+    {
+      "name": "Arbogazella",
+      "lvl": "236",
+      "element": "Angin",
+      "hp": "12832948",
+      "xp": "41820",
+      "leveling": "233 s/d 239",
+      "map": "Hutan Lindung: Rimba Sesat",
+      "drops": "Arbogazella, Panah Hutan Lindung, Tanduk Kayu Tajam, Belimbing, Suara Sakral Hutan"
+    },
+    {
+      "name": "Bullamius",
+      "lvl": "239",
+      "element": "Bumi",
+      "hp": "12832948",
+      "xp": "42800",
+      "leveling": "236 s/d 242",
+      "map": "Gudang Material: Area 2",
+      "drops": "Bullamius, Taring Kera, Tanduk Kera Runcing, Cakar Angkara Binatang Buas, Energi Kera"
+    },
+    {
+      "name": "Gordo",
+      "lvl": "242",
+      "element": "Cahaya",
+      "hp": "12832948",
+      "xp": "43700",
+      "leveling": "239 s/d 245",
+      "map": "Tanah Lapang Eumano",
+      "drops": "Gordo, Fragmen Mimpi, Topi Acorn Retak, Acorn Gede"
+    },
+    {
+      "name": "Blazingur",
+      "lvl": "245",
+      "element": "Api",
+      "hp": "12832948",
+      "xp": "43740",
+      "leveling": "242 s/d 248",
+      "map": "Lembah Divido: Area 3",
+      "drops": "Blazingur, Bandana Api, Batu Berdarah, Surai Membara, Cakar Kirmizi"
+    },
+    {
+      "name": "Glaucius",
+      "lvl": "248",
+      "element": "Gelap",
+      "hp": "12832948",
+      "xp": "44670",
+      "leveling": "245 s/d 251",
+      "map": "Arstida: Area 2",
+      "drops": "Knidoblas Berbahaya, Cakar Aneh, Inti Bola Termutasi, Glaucius"
+    },
+    {
+      "name": "Ignitrus",
+      "lvl": "251",
+      "element": "Api",
+      "hp": "12832948",
+      "xp": "49022",
+      "leveling": "248 s/d 254",
+      "map": "Kawah Dasar Vulcani",
+      "drops": "Riolit, Batu Vulcani, Pisau Combat, Hasrat Membara, Ignitrus"
+    },
+    {
+      "name": "Wolkissa",
+      "lvl": "257",
+      "element": "Air",
+      "hp": "12832948",
+      "xp": "40800",
+      "leveling": "254 s/d 260",
+      "map": "Kerongkongan Manusia Naga",
+      "drops": "Awan Putih Lembut, Tanduk Kucing Awan, Sinar Awan Pelangi, Wolkissa, Senapan Aksara Suci"
+    },
+    {
+      "name": "Naga Langkisau",
+      "lvl": "260",
+      "element": "Angin",
+      "hp": "12832948",
+      "xp": "42627",
+      "leveling": "257 s/d 263",
+      "map": "Boma Moja: Area 3",
+      "drops": "Sayap Naga Terbang, Jantung Naga Terbang, Badai Tak Berujung, Naga Langkisau"
+    },
+    {
+      "name": "Brassozard",
+      "lvl": "263",
+      "element": "Bumi",
+      "hp": "12832948",
+      "xp": "42200",
+      "leveling": "260 s/d 266",
+      "map": "Zona Kemudi: Area Kontrol Cuaca",
+      "drops": "Bijih Damaskus, Tanduk Naga Bersayap, Cakar Brassozard, Brassozard, Busur Naga Sayap Merah"
+    },
+    {
+      "name": "Exdocus",
+      "lvl": "266",
+      "element": "Gelap",
+      "hp": "12832948",
+      "xp": "49280",
+      "leveling": "263 s/d 269",
+      "map": "Tangga ke Titik Vital",
+      "drops": "Tulang Belakang Kuat, Kerikil Tangga, Mata Aneh, Exdocus"
+    },
+    {
+      "name": "Trus",
+      "lvl": "269",
+      "element": "Api",
+      "hp": "12832948",
+      "xp": "98000",
+      "leveling": "266 s/d 272",
+      "map": "Zona Mekanisme Penggerak: Tangki Daya",
+      "drops": "Sayap Kecil, Kaca Panas, Inti Membara, Trus"
+    },
+    {
+      "name": "Orictoceras",
+      "lvl": "272",
+      "element": "Bumi",
+      "hp": "12832948",
+      "xp": "5120",
+      "leveling": "269 s/d 275",
+      "map": "Kabla Jabali",
+      "drops": "Bijih Berkembang, Cakar Tajam Mematikan, Tulang Dada Batu, Orictoceras"
+    },
+    {
+      "name": "Charugon",
+      "lvl": "275",
+      "element": "Api",
+      "hp": "12832948",
+      "xp": "76600",
+      "leveling": "272 s/d 278",
+      "map": "Boma Konda: Area Bawah Tanah",
+      "drops": "Sisik Naga Panas, Papan Kayu Gosong, Kantung Api Ledakan, Charugon, Pedang Penumpas Naga"
+    },
+    {
+      "name": "Lilicarolla",
+      "lvl": "278",
+      "element": "Gelap",
+      "hp": "14,480,000",
+      "xp": "57750",
+      "leveling": "275 s/d 281",
+      "map": "Air Terjun Beku: Area 1",
+      "drops": "Lilicarolla, Kristal Segi 6, Lengan Jarum Aneh, Petal Geometris"
+    },
+    {
+      "name": "Vodre",
+      "lvl": "281",
+      "element": "Air",
+      "hp": "12832948",
+      "xp": "67680",
+      "leveling": "278 s/d 284",
+      "map": "Kepulauan Puerta: Area 2",
+      "drops": "Vodre, Sirip Tipis Lembab, Sayap Tipis Lembab, Mutiara Biru Maritim"
+    },
+    {
+      "name": "Fantica",
+      "lvl": "284",
+      "element": "Air",
+      "hp": "12832948",
+      "xp": "55153",
+      "leveling": "281 s/d 287",
+      "map": "Kubah Espuma: Area 2",
+      "drops": "Pelat Melingkar, Batu Karang, Fantica, Obat Cina Kuda Laut"
+    },
+    {
+      "name": "Capo Profundo",
+      "lvl": "287",
+      "element": "Air",
+      "hp": "12832948",
+      "xp": "60500",
+      "leveling": "284 s/d 290",
+      "map": "Kawasan Terlantar: Area 3",
+      "drops": "Sirip Ekor Tajam, Ganggang Laut Dalam, Taring Makhluk Abisal, Capo Profundo, Pedang Gada"
+    },
+    {
+      "name": "Limacina",
+      "lvl": "290",
+      "element": "Gelap",
+      "hp": "12832948",
+      "xp": "501200",
+      "leveling": "287 s/d 293",
+      "map": "Laut Dalam: Area 2",
+      "drops": "Sayap Maritim Imut, Bakteri Bercahaya, Ketenangan Dasar Laut, Limacina"
+    },
+    {
+      "name": "Jiva",
+      "lvl": "293",
+      "element": "Gelap",
+      "hp": "12832948",
+      "xp": "58291",
+      "leveling": "290 s/d 296",
+      "map": "Kuil Karunia Kecil: Area 2",
+      "drops": "Bahan Bangun Karunia, Daging Iga Bertulang, Tanduk Spiral Mematikan, Jiva"
+    },
+    {
+      "name": "Doridori",
+      "lvl": "296",
+      "element": "Gelap",
+      "hp": "12832948",
+      "xp": "74130",
+      "leveling": "293 s/d 299",
+      "map": "Kota marina: Area 2",
+      "drops": "Pecahan Merah Darah, Teripang, Cnidosac, Doridori"
+    },
+    {
+      "name": "Meteora",
+      "lvl": "302",
+      "element": "Api",
+      "hp": "12832948",
+      "xp": "79473",
+      "leveling": "299 s/d 305",
+      "map": "Dataran Menabra",
+      "drops": "Tektit, Besi Meteor, Cahaya Abisal, Pedang Meteor, Meteora"
+    },
+    {
+      "name": "Wiltileaf",
+      "lvl": "305",
+      "element": "Api",
+      "hp": "12832948",
+      "xp": "64730",
+      "leveling": "302 s/d 308",
+      "map": "Dataran Menabra",
+      "drops": "Akar Melilit, Kulit Pohon Spiral, Getah Pohon Tua, Busur Lira, Wiltileaf"
+    },
+    {
+      "name": "Dandolion",
+      "lvl": "308",
+      "element": "Angin",
+      "hp": "12832948",
+      "xp": "80510",
+      "leveling": "305 s/d 311",
+      "map": "Lembah Umidus Jalan Tebing",
+      "drops": "Bulu Kapas Dandelion, Kopi Dandelion, Gigi Dandelion, Dandolion"
+    },
+    {
+      "name": "Meduso",
+      "lvl": "311",
+      "element": "Air",
+      "hp": "-- unknow --",
+      "xp": "82817",
+      "leveling": "308 s/d 314",
+      "map": "Aquatisda: Area Dalam",
+      "drops": "Telapak Kulit Kerang, Payung Kenyal, Tentakel Berpendar, Meduso"
+    },
+    {
+      "name": "Martilantam",
+      "lvl": "314",
+      "element": "Air",
+      "hp": "-- unknow --",
+      "xp": "84468",
+      "leveling": "311 s/d 317",
+      "map": "Aquatisda: Area Dalam",
+      "drops": "Kayu Aqua, Palu Kayu Besar Retak, Piroksen Alami, Martilantam"
+    },
+    {
+      "name": "Lixy Monster Buas",
+      "lvl": "317",
+      "element": "Gelap",
+      "hp": "-- unknow --",
+      "xp": "84468",
+      "leveling": "314 s/d 320",
+      "map": "Aquatisda: Area Dalam",
+      "drops": "Ekor Merah Kehitaman, Air Mata Merah, Memori Mimpi Buruk, Lixy Monster Buas"
+    },
+    {
+      "name": "Tulangka",
+      "lvl": "320",
+      "element": "Cahatya",
+      "hp": "-- unknow --",
+      "xp": "87912",
+      "leveling": "317 s/d 324",
+      "map": "Dataran Vanek",
+      "drops": "Rahang Kokoh, Bahan Bakar Fosil, Inti Muda, Tulangka"
+    }
+  ]

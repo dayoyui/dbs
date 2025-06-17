@@ -1,0 +1,16 @@
+Accuracy Buffs
+
+Sauteed Butter Snails (30 min)
+Accuracy +30
+Critical Rate +5
+
+War Dead Bracelet (30 min)
+Accuracy +60
+
+Black Gelatin (3 min)
+Critical Rate +10
+Critical Damage % -10
+
+Battie Scone (15 min)
+Accuracy +5%
+Long Range Damage +1%

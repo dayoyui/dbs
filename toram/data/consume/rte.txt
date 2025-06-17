@@ -1,0 +1,53 @@
+Resistance to Elements Buffs
+
+Roasted Eggplant (15 min)
+Critical Rate +10
+Resistance to Neutral % +20
+
+Big Takoyaki (Salt) (20 min)
+Critical Rate +15
+Resistance to Light % +30
+
+Big Takoyaki (Ponzu) (20 min)
+Critical Rate +15
+Resistance to Dark % +30
+
+Big Takoyaki (Soy Sauce) (20 min)
+Critical Rate +15
+Resistance to Earth % +30
+
+Big Takoyaki (Dashi) (20 min)
+Critical Rate +15
+Resistance to Water % +30
+
+Big Takoyaki (Sauce) (20 min)
+Critical Rate +15
+Resistance to Fire % +30
+
+Iced Chocolate (15 min)
+Max MP +100
+Resistance to Light % +25
+
+Iced Coffee (15 min)
+Max MP +100
+Resistance to Dark % +25
+
+Fruit Cake (30 min)
+Max MP +100
+Resistance to Earth % +50
+
+Ice Cream Cake (30 min)
+Max MP +100
+Resistance to Water % +50
+
+Chocolate Cake (30 min)
+Max MP +100
+Resistance to Fire % +50
+
+Cheesecake (30 min)
+Max MP +100
+Resistance to Wind % +50
+
+Big Takoyaki (Scallion) (20 min)
+Critical Rate +15
+Resistance to Wind % +30

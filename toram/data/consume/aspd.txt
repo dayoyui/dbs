@@ -1,0 +1,24 @@
+Attack Speed Buffs
+
+Tera Speed Potion (30 min)
+ASPD +1000
+
+Solid Fuel (5 sec)
+Motion Speed % +10
+
+Pear Tart (15 min)
+ASPD +500
+AMPR +3
+
+Zombie Meat (30 min)
+:redown: ASPD -1000
+Max HP +10000
+
+Coryn's Present (30 sec)
+ASPD +10000
+:redown: Recoil Damage % +100
+
+Chirashi Sushi (30 min)
+ASPD +500
+ASPD % +25
+Defense +75

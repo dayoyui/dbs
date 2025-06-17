@@ -1,0 +1,16 @@
+Magic Defense Buffs
+
+Mystery Potion (P) (10 min)
+MATK % +1
+Magic Defense % +10
+
+Elf Berry Pot (30 min)
+Magic Resistance % +12
+
+Shiny Powder (30 min)
+Magic Defense +100
+Aggro % +10
+
+Warm Fur Sheet (30 min)
+Magic Defense % +15
+Reduce Damage Floor % +15

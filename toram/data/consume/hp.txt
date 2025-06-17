@@ -1,0 +1,42 @@
+Dragon Steak (30 min)
+Max HP +1500
+ASPD +250
+
+Deep-Fried Bean Curd (10 min)
+Max HP % +1
+Accuracy +15
+
+Iced Chicken Vita (30 min)
+Max HP +1000
+Aggro% -30
+
+Dondurma (10 min)
+Max HP % -15
+Aggro% +30
+
+Salt-Grilled Saury (30 min)
+Max HP +1000
+Natural HP Recovery % +100
+
+Eggplant Tempura (30 min)
+Max HP +1000
+Experience % +10
+ 
+Kiton's Meat (4 min)
+Max HP +5000
+
+Tough Lamb Meat (30 min)
+Max HP +750
+STR +5
+
+Bone-In Short Rib (20 min)
+Max HP % +10
+ATK +25
+
+Sugar Cookie (30 min)
+Max HP +1500
+Max MP +200
+
+Chilled Lamb (30 min)
+INT +3
+Max HP +1250

@@ -1,0 +1,69 @@
+*STATTING*
+kamu dapat menambahkan stats pada eq buatan pemain dengan cost poin material dan potensial (tergantung pada stats spesifiknya).  
+
+*Syarat char untuk Statting*
+- Stats TECH Penuh (255): Untuk mendapatkan lebih banyak potensial dari stats negatif.  
+- Level Karakter: Level karakter yang tinggi meningkatkan batas maksimum stats. Misalnya, level 205 memungkinkan penambahan hingga +20 poin stats, sedangkan level 13 hanya +1 poin stats. Jadi, lebih baik mencapai level maksimum untuk mendapatkan nilai stats tertinggi.  
+- Persyaratan Skill (cap level 200 untuk membuka semua tier): Maksimalkan skill *Perkuat Perlengkapan*, *Penguatan Akurat*, *Penguatan Ahli*, dan *Pengautan ahli II*.
+
+*Jenis Stat, Kategori, potensial, Material*  
+Stat yang dapat diisi dibagi menjadi 4 jenis:  
+1. Stat Elemen: Hanya untuk senjata dan terbatas satu jenis per senjata. Contoh: Tidak bisa menambahkan elemen Api dan Air dalam senjata yang sama.  
+2. Stat Ofensif: Untuk senjata. Bisa diisi di armor tapi akan memakan dua kali potensial.  
+3. Stat Defensif: Umumnya untuk armor. Bisa diisi di senjata tapi akan memakan dua kali potensial.
+4. Stat Universal: Bisa diisi di senjata maupun armor dengan potensial yang sama.  
+Stat juga dibagi dalam 11 kategori. Tabel diatas menunjukkan jenis, kategori, potensial, batas jumlah, dan material yang dibutuhkan. Beberapa stat tidak memiliki batas jumlah dan bisa ditingkatkan sebanyak [level statter /10] kali. Setelah melewati 20×, potensial yang dibutuhkan akan menjadi dua kali lipat.  
+
+*Cost Material*  
+- cost material untuk stat positif dan negatif sama.  
+- Semakin besar angka stats, semakin banyak material yang diperlukan.  
+- Setiap stat memiliki base cost yang ditampilkan saat menambahkan +1 stat.  
+- Formula cost material: `base cost × N^2`.
+- cost material dihitung per langkah. jika ingin menambahkan +5 stat, mats costnya hitung perlangkah, yaitu +1, +2, +3, +4, dan +5.
+Contoh:  
+cost +1 STR adalah 25 Beast, dan untuk +3 STR adalah: 25 + 25×2² + 25×3² = 25 + 100 + 225 = 350 Beast
+ 
+Pengurangan Cost Material:
+`Pengurangan_cost(%) = dibulatkan_kebawah(prof / 10) + dibulatkan_kebawah(prof / 50)`
+> prof adalah level keahlian Blacksmith, Semakin tinggi level profesi, semakin besar pengurangan material yang didapat.
+
+*Cost Potensial*  
+- Menambahkan stat positif akan mengurangi potensial.  
+- Stat negatif mengembalikan sebagian potensial, dengan pengembalian sebesar `(5 + TEC/10)%` dari potensial yang dikonsumsi stat positif.  
+
+*Stat Negatif yang Direkomendasikan*  
+- Armor: ATK%, MATK%, M. Pierce%, P. Pierce%, Akurasi, Akurasi%  
+- Senjata: Natural HP Regen, Natural HP Regen%, Natural MP Regen, Natural MP Regen%, DEF%, MDEF%, Dodge, Dodge%  
+> Catatan: Mulai dari Cap 210, stat positif ke-21 akan memerlukan potensial dua kali lipat dan stat negatif akan memberikan pengembalian potensial yang lebih kecil.  
+
+*Penalti Potensial untuk Kategori Sama*  
+Menambahkan dua atau lebih stat dari kategori yang sama akan mendapatkan penalti potensial sebesar `5% × N^2`.  
+
+*Tips Sebelum Statting*  
+- Sisakan minimal 1 potensial jika belum pada langkah akhir.  
+- Jangan mengisi semua 8 slot jika belum pada langkah akhir.  
+- Cek tingkat keberhasilan, material tertinggi per langkah, dan elemen yang cocok jika ingin mendapatkan *awaken element*.  
+
+*Success Rate Formula*
+Success Rate per slot
+`100 + Perkuat_Perlengkapan + 2×Penguatan_Akurat + 3×Penguatan_Ahli + (230×final_potential)/pot_sebelumnya`  
+
+Jika semua skill maksimal, maka:  
+`160 + (230×final_potential)/pot_sebelumnya`
+
+Ada kasus pengecualian untuk formula ini, yaitu ketika potensial sebelumnya lebih rendah dari pot dasar eq. pot dasar eq adalah angka yang tertera pada saat pembuatan. Misalnya, pedang pendek memiliki 15 potensial dasar. Dalam kasus seperti ini, rumus tingkat keberhasilan menjadi:
+160 + (230 × potensial akhir) / potensial dasar
+
+Sebagai contoh, Short Sword dengan total potensial 21 (15 potensial dasar + 6 potensial bonus). Ketika menambahkan STR +4, akan mengonsumsi 20 potensial, sehingga sisa potensial tinggal 1. Pada langkah berikutnya menambahkan INT +1, maka tingkat keberhasilannya dihitung sebagai:
+160 + (230 × -4) / 15 = 99%, bukan 0% (meskipun potensial sebelumnya hanya 1).
+
+> Catatan: Tingkat keberhasilan dihitung per slot stat. Artinya, jika kamu memiliki 8 slot dengan tingkat keberhasilan akhir 95,5%, maka peluang untuk berhasil di semua slot adalah: 95.5% × 95.5% × ... (8 kali) = sekitar 69% untuk semua stat berhasil tanpa gagal. Jika salah satu slot gagal, stat tersebut bisa Hilang, mendapatkan nilai acak, atau bahkan terbalik (positif jadi negatif atau sebaliknya).
+
+Perbedaan Stat +1×20 vs Stat +20×1  
+- Stat +1×20: Menambahkan 1 poin satu per satu sebanyak 20 kali.  
+- Stat +20×1: Menambahkan 20 poin sekaligus dalam satu langkah.  
+
+*Matching Element*
+- Untuk *awaken element*, perlu mengikuti elemen asli dari eq.  
+- Contoh: drop *Indigo Jet Sword* adalah elemen Gelap, maka versi buatan pemain juga elemen Gelap.  
+- *Matching element* hanya membutuhkan 10 potensial, sedangkan *non-matching element* memerlukan 100 potensial.

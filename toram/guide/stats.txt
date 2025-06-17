@@ -1,0 +1,151 @@
+Informasi Stat di TORAM Online:
+
+*BASIC STATS*
+STR
+- 10 STR → 1% Sukses rate untuk craft
+> STR > AGI
+- 5 STR → 1 Critical Damage
+> AGI > STR
+- 10 STR → 1 Critical Damage
+
+INT
+- Zirah normal : 1 INT → 1 MDEF
+- Zirah ringan : 1 INT → 0.25 MDEF
+- Zirah berat  : 1 INT → 2 MDEF
+- Tanpa Zirah  : 1 INT → 0.1 MDEF
+> Untuk serangan sihir, jika kamu memiliki elemen unggul terhadap musuh (contoh api)
+- 10 INT → 1% Damage ke elemen yang lemah terhadap elemenmu (1% dmg ke tanah)
+> Tongkat dan MD sebagai senjata utama dan memiliki elemen
+- 10 INT → 1% Damage ke semua element (termasuk Damage ke Neutral)
+
+DEX
+- 1 DEX → 1 HIT
+- 6 DEX → 1 difficulty
+
+AGI
+- Zirah normal : 1 AGI → 1 FLEE
+- Zirah ringan : 1 AGI → 1.75 FLEE
+- Zirah berat  : 1 AGI → 0.75 FLEE
+- Tanpa Zirah  : 1 AGI → 2 FLEE
+> AGI ≥ STR
+- 10 AGI → 1 Critical Damage
+
+VIT
+- 1 VIT → Level/3 MaxHP
+- Zirah normal : 1 VIT → 1 DEF
+- Zirah ringan : 1 VIT → 0.25 DEF
+- Zirah berat  : 1 VIT → 2 DEF
+- Tanpa Zirah  : 1 VIT → 0.1 DEF
+
+CRT
+- 3.4 CRT → 1 Critical Rate
+
+LUK
+- 10,2 LUK → 1% Drop Rate
+- 3.4 LUK → 1% chance to prevent degradation
+
+MTL
+- 3.4 MTL → 1 Resistensi status buruk
+
+TECH
+- 1 TEC → 1 MP
+- 2 TEC → 1 Difficulty
+
+
+*SECONDARY STATS*
+Max HP
+- Total HP, MaxHP 99.999 HP, dapat melebihi jika menggunakan life potion 
+
+Max MP
+- Total MP, 1 bar MP = 100 MP, 100 MP = 1 AMPR, MaxMP 2K, dapat melebihi jika menggunakan mana potion
+
+ATK (Serangan Fisik)
+- Total attack, semakin tinggi semakin besar luka fisik
+
+MATK (Serangan Shiri)
+- Total MATK, semakin tinggi semakin besar luka sihir
+
+DEF
+- Mengurangi luka yang diterima dari serangan fisik
+    0 - 250: pengurangan 0,8% per 10 DEF
+    250 - 1250: pengurangan 1% per 100 DEF
+    1250+: pengurangan 3% per 1000 DEF
+
+MDEF
+- Mengurangi luka yang diterima dari serangan sihir
+    0 - 250: pengurangan 0,8% per 10 MDEF
+    250 - 1250: pengurangan 1% per 100 MDEF
+    1250+: pengurangan 3% per 1000 MDEF
+
+HIT
+- Hit berpengaruh terhadap luka gores/miss, semakin besar hit semakin kecil peluang gores/miss
+
+ASPD
+- Semakin tinggi ASPD jeda dan motion speed semakin cepat, 1000 ASPD membuat jeda menjadi 0 detik, diatas 1000 ASPD setiap 180 ASPD mendapatkan 1% motion speed, max motion speed adalah 50%
+
+CSPD
+- Semakin tinggi CSPD waktu rapal dan himpun berkurang, setiap 20 CSPD mengurangi 1% waktu rapal, diatas 1000 CSPD setiap 180 CSPD mengurangi 1% waktu rapal
+
+FLEE
+- Berpeluang membuat serangan monster miss
+
+
+*STATS LAIN*
+Pierce
+- Stat ini untuk mengurangi sejumlah defense monster. Ada dua jenis Pierce:
+1. Physical Pierce: mengurangi defense fisik
+2. Magical Pierce: mengurangi defense sihir.
+> Catatan: Pierce hanya dapat menembus defense, bukan base resistensi.
+
+Attack MP Recovery (AMPR)
+- Mengembalikan MP saat mengenai target dengan basic attack.
+
+Stability
+- Stat yang terdapat pada semua senjata. Stat ini membantu menstabilkan damage dari 0 - 100%.
+
+Magic Stability
+- Sama seperti Stability, tetapi untuk serangan sihir, Rumusnya:
+1. Min Magic Stability Damage = MIN[90%; (100% + total stab%) ÷ 2] : (Minimal magic stab dapat meningkat hingga 90% jika total stab kamu mencapai 80%)
+2. Max Magic Stability Damage = MAX[100%; 100% + (total stab% - 80%) ÷ 2] : (Maximal magic stab defaultnya 100%, akan meningkat mulai dari 80% total stab hingga maksimal 100% = yang membuatmu mencapai 110% Max Magic stab)
+
+Graze
+- Terjadi saat menghadapi musuh dengan Dodge atau Flee yang lebih tinggi dari Accuracy mu. Graze mengurangi setengah total stab setelah dikalkulasi dengan stab dari senjata, equip, stats, dll.
+> Catatan: Graze dapat dikurangi dengan meningkatkan Accuracy. dan Tidak bisa dihindari saat melawan monster di mode kesulitan tinggi.
+
+Short Range Damage/Long Range Damage
+- Short Range Damage (SRD): Meningkatkan damage serangan dalam jarak 0 - 7 meter.
+- Long Range Damage (LRD): Meningkatkan damage serangan dalam jarak 8 - 12 meter ke atas.
+> Catatan: Beberapa skill tidak terpengaruh oleh stat ini.
+
+Guard Break
+- Memungkinkan serangan menembus defense Guard dari monster.
+
+Anticipate
+- Memungkinkan serangan menembus Evasion dari monster.
+
+Absolute Dodge
+- Memberikan kesempatan untuk menghindari serangan monster 100% tanpa terkena hit.
+
+Absolute Accuracy
+- Memberikan kesempatan untuk mengenai monster 100% tanpa miss.
+
+Recoil
+- Memberikan damage kepada diri sendiri setelah menggunakan skill / attack ke target.
+
+Reflect
+- Kebalikan dari Recoil. Jika menerima damage dari target, akan mengembalikan damage ke target berdasarkan jumlah damage yang diterima.
+
+Item Speed
+- Mengurangi cooldown penggunaan item buff (misalnya Revita).
+> Catatan: Cooldown normal adalah 10 detik.
+
+Attack/MATK UP atau DOWN% (stat)
+- Jika UP (stat) n%: Maka memberikan tambahan +(stat) x (n%) ATK atau MATK.
+- Jika DOWN (stat) n%: Maka mengurangi -(stat) x (n%) ATK atau MATK.
+> Catatan: Tambahan atau pengurangan ini bersifat flat dan tidak terpengaruh oleh (M)ATK%.
+
+Invincibility Aid
+- Menambahkan frame kebal kepada palyer saat membangkitkan pemain lain yang mati.
+
+Stun/Tumble/Flinch Unavailable
+- Jika memiliki stat ini, player tidak bisa memberikan efek Stun, Tumble, atau Flinch pada monster.

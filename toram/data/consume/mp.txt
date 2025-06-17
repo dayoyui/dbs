@@ -1,0 +1,24 @@
+Max MP Buffs
+ 
+Mystery Potion (B) (10 min)
+Max MP -100
+Motion Speed % +2
+
+Aggro Tonic (30 min)
+Max MP +100
+Aggro % +20
+
+Mashed Sweet Potato (30 min)
+Max MP +200
+NMPR % +100
+ 
+Magiadd VI (30 min)
+Max MP +600
+
+Potum Beans (10 min)
+Max MP +500
+AMPR +5
+
+Sauteed Lonogo Shrimp(30 min)
+Max MP +300
+CSPD +250

@@ -1,0 +1,44 @@
+Damage to Elements Buffs
+
+Glow Ray Soup (30 min)
+Damage to Fire % +2
+Damage to Water % +2
+Damage to Wind % +2
+Damage to Earth % +2
+Damage to Light % +2
+Damage to Dark % +2
+
+Pumpkin Soup (10 min)
+Damage to Neutral % +5
+ASPD +100
+CSPD +100
+
+Pumpkin Candy (10 min)
+Damage to Light % +5
+ASPD +100
+CSPD +100
+
+Zombie Cake (10 min)
+Damage to Dark % +5
+ASPD +100
+CSPD +100
+
+Barmbrack (10 min)
+Damage to Earth % +5
+ASPD +100
+CSPD +100
+
+Ginger Cake (10 min)
+Damage to Water % +5
+ASPD +100
+CSPD +100
+
+Pumpkin Cookie (10 min)
+Damage to Fire % +5
+ASPD +100
+CSPD +100
+
+Jack Pudding (10 min)
+Damage to Wind % +5
+ASPD +100
+CSPD +100

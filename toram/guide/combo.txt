@@ -1,0 +1,83 @@
+*COMBO*
+Untuk membuka combo sistem kamu harus menyelesaikan emblem
+Character Emblem - Ayo kombinasi skill! > Mempelajari Lebih dari 5 Jenis Skill.
+
+Ketika kamu sudah membuka sistem combo semua karakter memulai level CP (Combo Points) dari 0, dengan 2 poin CP default.
+Meningkatkan level Combo akan menambahkan 1 CP per level sampai level 18 dengan total 20 CP yang tersedia. Untuk menaikkan CP, cukup gunakan combo secara berulang selama battle. (Jika combo terganggu dan gagal diselesaikan, kamu tidak akan mendapatkan exp CP.)
+
+Saat mengatur combo opener dapat menggunakan skill yang sama, tetapi hanya satu combo yang bisa aktif. Jadi, jika kamu memiliki dua combo yang dimulai dengan skill Astute, hanya satu yang bisa aktif. Kamu bisa mengaktifkan atau menonaktifkan combo selama battle, jadi manfaatkan ini dan buat combo yang cocok untuk berbagai situasi.
+
+Terdapat 4 kategori untuk mengklasifikasikan combo, meskipun kategori ini tidak sepenuhnya kaku, dan satu combo bisa memenuhi beberapa peran sekaligus:
+* Opener: combo untuk memulai battle. Biasanya berisi skill buff penting dan bisa digunakan lagi sebagai combo sustain.
+* Sustain: combo yang digunakan untuk mempertahankan buff, prorate, atau memenuhi prasyarat untuk skill lain.
+* Damage: combo yang berfokus pada memberikan damage.
+* Sub-damage: combo yang digunakan di antara combo Damage. Biasanya digunakan ketika combo Damage utama memerlukan skill dengan waktu charge.
+
+
+*MANUAL COMBO TRICK*
+Trik ini memungkinkan kamu untuk melakukan kombo tanpa target.
+
+Cara Melakukan:
+Kamu harus membuat kombo dengan semua skill yang tidak memerlukan target (dijamin berhasil, tapi butuh timing yang tepat), dan kombo harus diatur ke "on" (tidak berfungsi jika diatur ke "off"). Kamu perlu menggunakan skill kombo secara manual, mulai dari opener hingga ender.
+
+Contoh:
+1. Kombo => Meikyo Shishui > Flash Blast (save) > Kairiki Ranshin (swift).
+2. Pertama, gunakan Meikyo (dengan biaya 2 MP). Selama animasi Meikyo, kamu harus menekan Flash Blast sebelum animasi Meikyo berakhir (harus dengan timing yang tepat). Setelah Meikyo selesai, Flash Blast akan otomatis digunakan (biaya 0 MP karena efek save).
+3. Kemudian gunakan Kairiki sebelum animasi skill berakhir, seperti yang dijelaskan di poin 2 di atas. Jika timing tepat, Kairiki akan mendapatkan tag Swift Combo. Kombo berakhir dengan total biaya hanya 2 MP dari Meikyo saja.
+Itulah cara menggunakan Manual Combo Trick.
+
+*Catatan Mengenai Manual Combo Trick dengan Skill Target:*
+Bagaimana jika ada skill target di antara skill non-target? Biasanya, kombo akan berakhir saat mencapai skill target. Namun, ada peluang (sekitar 50%) untuk melanjutkan penggunaan skill target dengan tag kombo jika semua kondisi terpenuhi.
+
+Kondisi:
+* Musuh harus berada di dalam pertempuran (artinya musuh memiliki aggro pada anggota party atau sekutumu).
+* Kamu harus terus menekan skill target selama animasi skill non-target.
+* Musuh berada dalam jangkauan casting skill target.
+Jika gagal, skill target akan digunakan tanpa tag kombo, yang dapat menghabiskan lebih banyak MP atau memberikan efek yang tidak diinginkan. Jika berhasil, skill target akan digunakan dengan tag kombo, dan skill berikutnya dalam kombo akan otomatis digunakan.
+
+Contoh:
+1. Kombo = Ad-Lib > Berserk (Save) > Shield Cannon (Swift) > Impact (Cons) > Guardian (Swift).
+2. Pertama, gunakan Ad-Lib, lalu secara manual gunakan Berserk.
+3. Selama animasi Berserk, pastikan tiga kondisi yang disebutkan sebelumnya terpenuhi. Kamu perlu "spam" Shield Cannon ke musuh yang ingin kamu targetkan.
+4. Jika gagal, kombo akan berakhir di Berserk, dan Shield Cannon akan digunakan dengan biaya 2 MP. Jika berhasil, kombo akan berlanjut, dan Shield Cannon akan digunakan dengan biaya 0 MP karena tag Save, dengan damage 40% (karena penalti save -60%) dan kecepatan gerakan maksimum (karena tag Swift).
+5. Jika berhasil, kamu tidak perlu lagi menggunakan skill secara manual setelah Shield Cannon, karena skill berikutnya (Impact dan Guardian) akan otomatis digunakan sesuai mekanisme kombo biasa.
+
+
+*COMBO TAG*
+*Beruntun*
+Mp cost berkurang sesuai jumlah combo, rumus (jumlah combo - 1) x 100mp. opener > combo 1 > combo 2 > combo 3 > combo 4, combo 2 = -100mp, combo 3 = -200mp, combo 4 = -300mp, dst.
+Selain itu mengurangi jumlah damage dari combo yang diberikan tergantng pada banyaknya jumlah tag beruntun, Pada tag beruntun pertama penalti damage -10%. Pada tag beruntun kedua -20%. tag beruntun ketiga -30% dan seterusnya. hingga lebih dari tag beruntun ke-9 -90% pada maksimal. 
+
+*Mata Batin*
+Jika memakai tag Mata Batin, maka skill tidak akan pernah meleset (kecuali eva), karna tag ini mengatur graze/gores menjadi 100%, decoy dengan tag ini akan selalu graze higga menghilang
+Tag ini juga memiliki Persentase Hit Absolut tergantung pada jumlah combo. Rumusnya = (jumlah combo x 10) Hit Absolut %.
+
+*Isi*
+Mengaktifkan skill tanpa menggunakan mp, namun dmg yang dihasilkan berkurang 80%, dan damage dari 3 skill berikutnya akan dikurangi sebesar 60%, 40%, dan 20%.
+Selain itu, dapat digunakan untuk mengurangi cost MP dari skill berikutnya melalui "tabungan MP". Jadi, jika sebuah skill memiliki tag "Save", maka cost MP skill tersebut menjadi tabungan MP, misalnya cost 100mp = 100mp di tabungan, cost 1600mp = 1600mp di tabungan.
+Contoh: Hard Hit 100MP (Skill Pembuka -100mp) > Berserk 500MP (500mp disimpan di Tabungan) > Trigger Slash 300MP (500mp disimpan - cost 300mp). Kamu harus menggunakan semua 500mp yang disimpan sebelum combo berakhir, jika tidak, sisa tabungan MP akan ditambahkan sebagai penalti cost MP di akhir combo. Tabungan MP tersisa setelah combo berakhir = 200mp disimpan. Jadi, total cost untuk Trigger Slash adalah 300mp (Pembuka 100mp + Sisa Tabungan MP 200mp).
+Jumlah MP yang disimpan tidak dapat ditingkatkan oleh beberapa tag Save (karena tabungan MP baru akan menggantikan tabungan MP sebelumnya), namun efek pengurangan damage masih akan tetap berlaku!
+
+*Cepat*
+Mengatur Motion Speed skill menjadi 150% (nilai maksimum untuk Motion Speed).
+
+*Gebuk*
+Meningkatkan damage yang dihasilkan oleh skill sebesar 50% dan mengurangi damage yang dihasilkan oleh skill berikutnya sebesar 50%. Jika tidak ada skill berikutnya, cost MP untuk skill ini akan digandakan
+
+*Gigih*
+Jika MP saat ini tidak cukup untuk mengaktifkan skill, cost yang tersisa akan menggunakan HP. Setiap 100 MP akan digantikan oleh 10% dari MaxHP, dan damage yang dihasilkan oleh skill akan berkurang sesuai dengan jumlah HP yang digunakan (-10% damage untuk setiap 10% MaxHP yang dikonsumsi).
+
+*Kebal total*
+Memberikan chance invicible  (Kebal Total) tergantung pada jumlah combo, rumus 20% x (jumlah combo -1). Jadi pada combo ke-6 atau lebih, kamu mendapatkan 100% invicible, durasi invincibility sampai animasi skill berakhir, untuk skill yang memiliki cast time, invincibility hanya terjadi di akhir waktu cast hingga animasi berakhir. Jika ada beberapa tag Invincible dalam satu combo, hanya tag Invincible pertama yang akan bekerja.
+
+*Penghisap Darah*
+Memiliki 2 efek: Bloodsucker dan Spirit.
+* Efek Bloodsucker: Saat digunakan pertama kali, memulihkan HP sebesar 10% + (Jumlah combo)% dari damage yang dihasilkan. Cooldown selama 10 detik akan diaktifkan. Jika kamu menggunakan tag ini saat tag tersebut masih dalam cooldown, maka efeknya akan berubah menjadi Spirit. Catatan: Pemulihan HP tidak bisa melebihi MaxHP.
+* Efek Spirit: Mengonsumsi (10 - Jumlah combo)% dari MaxHP dan meningkatkan damage yang dihasilkan sebesar (10 + Jumlah combo)%.
+
+*Tangguh*
+semua damage yang diterima selama animasi skill dikurangi sebesar 50%. Selain itu, semua damage yang diterima selama animasi skill berikutnya dikurangi sebesar 25%. Jika skill berikutnya juga memiliki tag Tangguh, maka skill berikutnya hanya mendapatkan pengurangan 50% dari semua damage yang diterima. Efek ini tidak dapat ditumpuk, pengurangan 50% yang lebih tinggi akan menggantikan pengurangan 25% sebelumnya.
+
+*Refleksi*
+dapat melakukan counter terhadap musuh satu kali saat menerima damage dari musuh tersebut selama animasi skill berlangsung. Damage dari Counter ini setara dengan 100% dari serangan normalmu, dan counter ini memberikan efek Neutral/Auto Attack proration.
+Namun, jika kamu tidak menerima damage hingga animasi skill berakhir, maka biaya MP untuk skill berikutnya dalam combo akan dikurangi sebesar 100mp. Pengurangan MP ini berlaku setelah efek Impact atau skill lain yang mengurangi biaya MP skill menjadi setengah.

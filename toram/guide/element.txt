@@ -1,0 +1,98 @@
+*ELEMENT*  
+Toram memiliki 7 element:  
+🔥 Api  
+🌊 Air  
+⛰️ Tanah  
+🌪️ Angin  
+🌕 Cahaya  
+🌑 Kegelapan  
+⚪ Netral  
+
+Element berinteraksi satu sama lain seperti permainan batu, kertas, gunting: 
+* Air > Api > Tanah > Angin > Air  
+* Cahaya > Kegelapan  
+* Kegelapan > Cahaya  
+Pemain menggunakan sistem ini untuk mengoptimalkan serangan dan pertahanan, seperti memodifikasi element skill serangan atau meningkatkan damage yang diterima oleh Boss.  
+  
+Element umumnya diperoleh melalui senjata utama. Namun, ada beberapa pengecualian:  
+* Beberapa skill mengambil element dari sub senjata.  
+* Beberapa skill memiliki element tetap (misalnya Magic: Finale).  
+* Beberapa skill bergantung pada element target (misalnya Element Slash).  
+* Beberapa skill bisa menggunakan dua element sekaligus (misalnya skill Dual Sword).  
+
+*Element Sebagai Pengganda Damage*  
+element yang lebih kuat akan memberikan bonus 25% damage terhadap element yang lebih lemah. Namun, element yang lemah atau netral tidak akan mengalami penalti damage.  
+Contoh:  
+* Beak memiliki element Angin. Skill storm (element Tanah) akan memberikan 25% lebih banyak damage karena element Tanah lebih kuat dari element Angin.  
+
+*Stat yang terkait Element*  
+Damage to Element
+Stat ini meningkatkan damage ke element tertentu dan dapat ditumpuk.  
+* Damage to Fire  
+* Damage to Water  
+* Damage to Earth  
+* Damage to Wind  
+* Damage to Light  
+* Damage to Dark  
+* Damage to Neutral  
+Tips:  
+* Gabungkan element dan stat Damage to Element pada senjata untuk mendapatkan peningkatan damage yang besar.  
+* Jika skill tidak bergantung pada element senjata utama, jangan menambahkan stat element pada senjata utama karena akan terbuang sia-sia.  
+
+Resistance to Element 
+Stat ini mengurangi damage yang diterima dari serangan berbasis element. Resistensi element dihitung sama seperti Physical dan Magic Resistance, dan ditumpuk secara multiplikatif dengan pengurangan damage dari refinement.
+* Fire Resistance  
+* Water Resistance  
+* Earth Resistance  
+* Wind Resistance  
+* Light Resistance  
+* Dark Resistance  
+* Neutral Resistance  
+Tips:  
+* Sebagian besar Boss memiliki serangan dengan berbagai element, sehingga resistensi element kurang efektif dalam praktiknya.  
+* Lebih baik memaksimalkan Physical dan Magic Resistance, dan hanya menggunakan sumber eksternal (misalnya item buff) untuk resistensi element.  
+
+*Interaksi Magic Damage*  
+Bonus DTE dari INT Stat  
+Stat INT memberikan bonus Damage to Element tersembunyi untuk skill tipe magic, dengan rumus:  
+```INT DTE = FLOOR(INT / 10)```
+* Hanya berlaku saat menggunakan element yang lebih kuat terhadap element yang lebih lemah (tidak berlaku untuk element netral).  
+* Dihitung berdasarkan base INT, bukan total INT.  
+
+*Bonus DTE INT untuk Staff dan Magic Device*
+* Jika menggunakan Staff atau Magic Device sebagai senjata utama, bonus Damage to Element dari INT akan berubah menjadi bonus damage ke semua element tanpa memandang element target, bahkan terhadap element Netral, Bonus ini dapat ditumpuk dengan stat Damage to Element %.  
+
+*Menggunakan Skill element Netral dengan Staff*  
+* Jika menggunakan Staff, ada bonus 25% Magic Critical Rate saat menyerang dengan element netral.  
+
+*Overlimit dan Sorcery Guide*  
+Skill Overlimit dan Sorcery Guide dari Wizard akan memberikan bonus damage ke semua element seperti bonus INT untuk Staff dan Magic Device. Level 10 Overlimit mendapatkan +10% all-element damage bonus dan dapat meningkat menjadi 20% dengan Sorcery Guide lvl 10.
+> Efek ini hanya berlaku jika Staff atau Magic Device memiliki element.  
+
+*Sistem Dual Element*  
+Beberapa senjata memiliki dua element (dari senjata utama dan sekunder). Toram memiliki mekanisme khusus untuk menentukan element mana yang digunakan dalam pertempuran. Skill tertentu dapat memilih antara dua element berdasarkan kelebihannya terhadap element target. Jika tidak ada element yang menguntungkan, skill akan menggunakan element default.
+Contoh: 
+* Aerial Cut (skill dari Dual Sword) memiliki element default Angin dan bisa menggunakan element sekunder dari pedang sub.  
+* Jika menggunakan pedang utama element Air dan pedang sub element Api, maka Aerial Cut akan menggunakan element Api saat menyerang musuh element Tanah, karena Api lebih unggul dari Tanah.  
+
+*Sistem Element untuk Bow dan Bowgun*  
+Auto Attack dengan Bow dan Bowgun  
+* Jika menggunakan Arrow, maka element diambil dari Arrow.  
+* Jika tidak menggunakan Arrow, maka element diambil dari senjata utama.  
+
+Skill Tanpa Sistem element Ganda  
+* Jika skill memiliki element tetap, maka element tidak bisa berubah.  
+* Jika menggunakan Arrow, maka element skill diambil dari Arrow.  
+* Jika tidak menggunakan Arrow, maka element skill diambil dari senjata utama.  
+> Jika memiliki Element Starter dari Partisan Skill, maka sistem berubah menjadi element Ganda antara element skill tetap dan senjata utama.  
+
+Skill dengan Sistem element Ganda  
+* Jika menggunakan Arrow, maka skill bisa menggunakan dua element (element tetap + element Arrow).  
+* Jika tidak menggunakan Arrow, maka element skill tetap.  
+
+*Sistem Element Otomatis untuk Magic Blade Skills*  
+Skill dari Magic Warrior (baris tengah/kedua) tidak bergantung pada element senjata. Skill ini secara otomatis memilih element yang lebih kuat terhadap musuh. Jika musuh Netral, maka skill juga akan menjadi Netral.  
+Tips:  
+* Tidak perlu menambahkan element pada senjata Magic Warrior, karena sistem sudah memilih element terbaik.  
+* Cukup gunakan Damage to Element (DTE) stat untuk meningkatkan damage.  
+* Skill Magic Warrior lemah terhadap musuh Netral, karena tidak bisa menggunakan Magic Critical Rate.

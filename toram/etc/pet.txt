@@ -1,0 +1,60 @@
+*STATUS PET*
+Tipe. : STR, INT,VIT,AGI, DEX
+awam. : 40 ,40 ,40 ,40 ,40
+ahli skill. : 50 ,50 ,50 ,50 ,50
+serba bisa. : 60 ,60 ,60 ,60 ,60
+genius. : 80 ,80 ,80 ,80 ,80
+serangan fisik . : 120 ,10 ,40 ,80 ,50
+serangan sihir : 10 ,120 ,40 ,60 ,70
+penghindar : 40 ,40 ,40 ,120 ,80
+akurat. : 40 ,40 ,40 ,60 ,120
+tahan fisik. : 60 ,30 ,110 ,50 ,50
+tahan sihir. : 30 ,70 ,80 ,50 ,70
+
+*SIFAT & BONUS*
+Antusias (ATK+30%)
+Intelek (MATK+30%)
+Kokoh (ATK&MATK+15%,P&M Resist+15%)
+Heroik (Critical Damage+30)
+Mantap (CriticalRate -100%,HIT +30)
+Proaktif (ASPD+1000, CSPD+500)
+Lincah (Motion Speed Up)
+Adil (AMPR x2)
+Licik (Aggro -30%)
+Setia (P&M Rest +30%,Aggro +400%)
+Kalem (Max HP +30%)
+Penakut (Range Attack Only,MP Regen)
+Lembut (Can't Attack,MP Regen)
+Nekat (Bergerak Di Area Kecil)
+
+
+*LIST ATAU SARAN PET*
+( DPS )
+Fisik:2H/1H,Penyerang Fisik,Antusias
+Bow/BG/1H,Akurat,Antusias
+Sihir:Staff/MD,Penyerang Sihir,Intelek
+
+DPS Bisa Juga Pake Sifat Kokoh
+
+( TANK )
+Tank Type : (Short Range Rage Attack Skill)
+( 1H / 2H / Knuckle / Staff ) (tahan fisik/sihir/setia)
+(P&M Rest +30%,Aggro +400%)
+Tank Type : (Long Range Rage Attack Skill)
+( Bow / BG / MD ) (tahan fisik/sihir/setia)
+(P&M Rest +30%,Aggro +400%)
+
+( SUPPORT )
+Support Buff: All Weapon Nature Bebas Juga Sifat Lembut/Penakut
+Support Heal: Staff/MD Nature Bebas Sifat Lembut/Penakut
+
+
+*LEVELING PET*
+1-40 = Pendekar Bertopeng (Normal)
+40-46 = Pendekar Bertopeng (Hard)
+46-72 = Pendekar Bertopeng (Nightmare)
+72-102 = Pendekar Bertopeng (Ultimate)
+102-160 = Cerberus (Ultimate)
+160-210 = Venena Coenubia (Ultimate) / Finstern (Ultimate)
+210-230 = Kuzto (Ultimate)
+230-260 = Ferzen (Ultimate

@@ -1,0 +1,8 @@
+Ailment Prevention Buffs
+
+Mystery Potion (G) (10 min)
+Ailment Resistance % -10
+Max MP +100
+
+Romanian Eggplant Dip (30 min)
+Ailment Resistance % +5

@@ -1,0 +1,29 @@
+Magic Attack Buffs
+
+Mommy Roll Cake (10 min)
+Magic Pierce % +5
+Critical Rate % +40
+
+Pom's Rice Cake Soup (30 min)
+Magic Pierce % +5
+Weapon ATK % +5
+
+Dried Walnut (3 min)
+MATK % +1
+DEX % +1
+
+Bitter Gelatin (5 min)
+:redown: MATK % -4
+CSPD +800
+
+Sparkly Candy (30 sec)
+MATK % +10
+:redown: Motion Speed % -10
+
+Barrier Analyzer Lithograph (30 min)
+Magic Pierce % +10
+MATK % +3
+
+Sorcerer's Nostrum (30 min)
+MATK % +5
+MATK +50

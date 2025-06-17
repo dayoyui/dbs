@@ -1,0 +1,32 @@
+HP Recovery Buffs
+
+Wedding Wine
+Recover HP +3000
+Recover MP +100
+
+Swordsbear Treasured Sake
+Recover HP +12000
+
+Pomie Castella
+Recover HP % +15
+
+Winter Caffe Latte
+Recover HP +3000
+Recover MP +70
+
+Winter Caffe Mocha
+Recover HP 2000
+Recover MP 80
+
+Winter Macchiato
+Recover HP 7500
+Recover MP 25
+
+Roast Chicken (30 min)
+Recover HP % 10 every 10 seconds
+
+Monkey Energy (1 min)
+Recover HP 3000 every 10 seconds
+
+Healing Mint (13 sec)
+Recover HP 2500 every 3 seconds
