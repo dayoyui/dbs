@@ -1,0 +1,890 @@
+[
+  {
+    "id": "Boost Serangan Fisik",
+    "en": "Physical Attack Boost",
+    "desc": "",
+    "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
+  },
+  {
+    "id": "Boost Serangan Sihir",
+    "en": "Magic Attack Boost",
+    "desc": "",
+    "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
+  },
+  {
+    "id": "Boost Max HP",
+    "en": "Max HP Boost",
+    "desc": "",
+    "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
+  },
+  {
+    "id": "Boost Max MP",
+    "en": "Max MP Boost",
+    "desc": "",
+    "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
+  },
+  {
+    "id": "Boost Ketahanan Fisik",
+    "en": "Physical Defense Boost",
+    "desc": "",
+    "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
+  },
+  {
+    "id": "Boost Ketahanan Sihir",
+    "en": "Magic Defense Boost",
+    "desc": "",
+    "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
+  },
+  {
+    "id": "Boost Akurasi",
+    "en": "Accuracy Boost",
+    "desc": "",
+    "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
+  },
+  {
+    "id": "Boost Hindaran",
+    "en": "Dodge Boost",
+    "desc": "",
+    "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
+  },
+  {
+    "id": "Boost Kecepatan Serang",
+    "en": "Attack Speed Boost",
+    "desc": "",
+    "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
+  },
+  {
+    "id": "Boost Kecepatan Sihir",
+    "en": "Magic Speed Boost",
+    "desc": "",
+    "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
+  },
+  {
+    "id": "Musafir",
+    "en": "Wayfarer",
+    "desc": "",
+    "drop": [10, 30, 50, 90]
+  },
+  {
+    "id": "Basuhan Mentari",
+    "en": "Sunbath",
+    "desc": "",
+    "drop": [10, 30, 50, 220]
+  },
+  {
+    "id": "Penguat Tebasan Kuat",
+    "en": "Hard Hit Enhancer",
+    "desc": "",
+    "drop": [30, 50, 90, 110, 130]
+  },
+  {
+    "id": "Ekstender Pedang Sonik",
+    "en": "Sonic Blade Extender",
+    "desc": "",
+    "drop": [30, 50, 90, 110, 130]
+  },
+  {
+    "id": "Penguat Tembakan Kuat",
+    "en": "Power Shot Boost",
+    "desc": "",
+    "drop": [30, 50, 90, 110, 130]
+  },
+  {
+    "id": "Penguat Tepat Sasaran",
+    "en": "Bullseye Enhancer",
+    "desc": "",
+    "drop": [30, 50, 90, 110, 130]
+  },
+  {
+    "id": "Penguat Sihir: Panah",
+    "en": "Magic: Arrows Enhancer",
+    "desc": "",
+    "drop": [30, 50, 90, 110, 130, 220]
+  },
+  {
+    "id": "Penguat Sihir: Tembok",
+    "en": "Magic: Wall Enhancer",
+    "desc": "",
+    "drop": [30, 50, 90, 110, 130]
+  },
+  {
+    "id": "Penguat Smash",
+    "en": "Smash Enhancer",
+    "desc": "",
+    "drop": [30, 50, 90, 110, 130]
+  },
+  {
+    "id": "Penguat Gelombang Sonik",
+    "en": "Sonic Wave Enhancer",
+    "desc": "",
+    "drop": [30, 50, 90, 110, 130]
+  },
+  {
+    "id": "Penguat Twin Slash",
+    "en": "Twin Slash Enhancer",
+    "desc": "",
+    "drop": [30, 50, 90, 110, 130]
+  },
+  {
+    "id": "Penguat Cross Parry",
+    "en": "Cross Parry Enhancer",
+    "desc": "",
+    "drop": [30, 50, 90, 110, 130]
+  },
+  {
+    "id": "Penguat Flash Stab",
+    "en": "Flash Stab Enhancer",
+    "desc": "",
+    "drop": [30, 50, 90, 110, 130]
+  },
+  {
+    "id": "Penguat Cannon Spear",
+    "en": "Cannon Spear Enhancer",
+    "desc": "",
+    "drop": [30, 50, 90, 110, 130]
+  },
+  {
+    "id": "Penguat Issen",
+    "en": "Issen Enhancer",
+    "desc": "",
+    "drop": [30, 50, 90, 110, 130]
+  },
+  {
+    "id": "Penguat Pukulan Pangkal",
+    "en": "Pommel Strike Enhancer",
+    "desc": "",
+    "drop": [30, 50, 90, 110, 130, 220]
+  },
+  {
+    "id": "Penawar Racun",
+    "en": "Poison Heal",
+    "desc": "",
+    "drop": [30, 50]
+  },
+  {
+    "id": "Mata Kucing",
+    "en": "Cat's Eye",
+    "desc": "",
+    "drop": [30, 220]
+  },
+  {
+    "id": "Pemulih HP Darurat",
+    "en": "Emergency HP Heal",
+    "desc": "",
+    "drop": [30, 150]
+  },
+  {
+    "id": "Kendali Saraf",
+    "en": "Neural Control",
+    "desc": "",
+    "drop": [50, 250]
+  },
+  {
+    "id": "Pemulih MP Darurat",
+    "en": "Emergency MP Heal",
+    "desc": "",
+    "drop": [50, 150]
+  },
+  {
+    "id": "Perlawanan Terakhir",
+    "en": "Final Resistance",
+    "desc": "",
+    "drop": [50, 170, 220]
+  },
+  {
+    "id": "Pengunsur Tebasan Pemicu",
+    "en": "Elemental Trigger Slash",
+    "desc": "",
+    "drop": [70, 90, 110, 130, 150, 220]
+  },
+  {
+    "id": "Penguat Udara Spiral",
+    "en": "Spiral Air Enhancer",
+    "desc": "",
+    "drop": [70, 90, 110, 130, 150]
+  },
+  {
+    "id": "Penguat Hujan Panah",
+    "en": "Arrow Rain Enhancer",
+    "desc": "",
+    "drop": [70, 90, 110, 130, 150, 220]
+  },
+  {
+    "id": "Tembakan Paralisis Lama",
+    "en": "Paralysis Shot Extender",
+    "desc": "",
+    "drop": [70, 90, 110, 130, 150]
+  },
+  {
+    "id": "Katalis Sihir: Tombak",
+    "en": "Magic: Lances Catalyst",
+    "desc": "",
+    "drop": [70, 90, 110, 130, 150, 220]
+  },
+  {
+    "id": "Katalis Sihir: Ledakan",
+    "en": "Magic: Blast Catalyst",
+    "desc": "",
+    "drop": [70, 90, 110, 130, 150, 220]
+  },
+  {
+    "id": "Konverter Gelombang Kuat",
+    "en": "Power Wave Modifier",
+    "desc": "",
+    "drop": [70, 90, 110, 130, 150]
+  },
+  {
+    "id": "Penguat Penghancur Zirah",
+    "en": "Shell Break Enhancer",
+    "desc": "",
+    "drop": [70, 90, 110, 130, 150, 220]
+  },
+  {
+    "id": "Penguat Guncang Bumi",
+    "en": "Earthbind Enhancer",
+    "desc": "",
+    "drop": [70, 90, 110, 130, 150]
+  },
+  {
+    "id": "Kompresor Spinning Slash",
+    "en": "Spinning Slash Compress",
+    "desc": "",
+    "drop": [70, 90, 110, 130, 150]
+  },
+  {
+    "id": "Charging Slash Kritis",
+    "en": "Critical Charging Slash",
+    "desc": "",
+    "drop": [70, 90, 110, 130, 150]
+  },
+  {
+    "id": "Penguat Dragon Tail",
+    "en": "Dragon Tail Enhancer",
+    "desc": "",
+    "drop": [70, 90, 110, 130, 150]
+  },
+  {
+    "id": "Mega War Cry of Struggle",
+    "en": "Mega War Cry of Struggle",
+    "desc": "",
+    "drop": [70, 90, 110, 130, 150]
+  },
+  {
+    "id": "Triple Thrust Statis",
+    "en": "Static Triple Thrust",
+    "desc": "",
+    "drop": [70, 90, 110, 130, 150, 220]
+  },
+  {
+    "id": "Jimat Magadachi",
+    "en": "Magadachi Amulet",
+    "desc": "",
+    "drop": [70, 90, 110, 130, 150, 220]
+  },
+  {
+    "id": "Cagar Meikyo Shisui",
+    "en": "Meikyo Shisui Preserver",
+    "desc": "",
+    "drop": [70, 90, 110, 130, 150, 220]
+  },
+  {
+    "id": "Diri Teguh",
+    "en": "Steady Stance",
+    "desc": "",
+    "drop": [70, 90]
+  },
+  {
+    "id": "Senasib Seperjuangan",
+    "en": "Shared Destiny",
+    "desc": "",
+    "drop": [70, 190, 220]
+  },
+  {
+    "id": "Tidur Singkat",
+    "en": "Forty Winks",
+    "desc": "",
+    "drop": [90, 220]
+  },
+  {
+    "id": "Piaraan Defender",
+    "en": "Tanker's Pet",
+    "desc": "",
+    "drop": [90, 230]
+  },
+  {
+    "id": "Pahlawan Terakhir",
+    "en": "Last Hero",
+    "desc": "",
+    "drop": [90, 190]
+  },
+  {
+    "id": "Monofobia",
+    "en": "Monophobia",
+    "desc": "",
+    "drop": [90, 170, 220]
+  },
+  {
+    "id": "Hipertermia",
+    "en": "Pyrexia",
+    "desc": "",
+    "drop": [110]
+  },
+  {
+    "id": "Pacu",
+    "en": "Impetus",
+    "desc": "",
+    "drop": [110, 130]
+  },
+  {
+    "id": "Silent Recharge",
+    "en": "Silent Recharge",
+    "desc": "",
+    "drop": [110, 230]
+  },
+  {
+    "id": "Piaraan Penyerang",
+    "en": "Attacker's Pet",
+    "desc": "",
+    "drop": [110, 250]
+  },
+  {
+    "id": "Hantaman Mana",
+    "en": "Mana Thrash",
+    "desc": "",
+    "drop": [110, 220, 230]
+  },
+  {
+    "id": "Penghemat",
+    "en": "Parsimony",
+    "desc": "",
+    "drop": [110, 250]
+  },
+  {
+    "id": "Reparasi Darurat",
+    "en": "Emergency Repair",
+    "desc": "",
+    "drop": [130, 250]
+  },
+  {
+    "id": "Penjinak Mana",
+    "en": "Mana Defuser",
+    "desc": "",
+    "drop": [130, 150, 220]
+  },
+  {
+    "id": "Rehat Kopi",
+    "en": "Coffee Break",
+    "desc": "",
+    "drop": [130, 230]
+  },
+  {
+    "id": "Mata Elang",
+    "en": "Eagle Eye",
+    "desc": "",
+    "drop": [130, 230]
+  },
+  {
+    "id": "Penyelamat",
+    "en": "Savior",
+    "desc": "",
+    "drop": [130, 220]
+  },
+  {
+    "id": "Penambah Badai Pedang",
+    "en": "Sword Tempest Extender",
+    "desc": "",
+    "drop": [150, 170, 190, 210, 220]
+  },
+  {
+    "id": "Rampage Pemulih",
+    "en": "Remedial Rampage",
+    "desc": "",
+    "drop": [150, 170, 190, 210]
+  },
+  {
+    "id": "Ekstender Asap",
+    "en": "Smoke Dust Extender",
+    "desc": "",
+    "drop": [150, 170, 190, 210]
+  },
+  {
+    "id": "Smash Dahsyat Menusuk",
+    "en": "Piercing Heavy Smash",
+    "desc": "",
+    "drop": [150, 170, 190, 210]
+  },
+  {
+    "id": "Penguat Phantom Slash",
+    "en": "Phantom Slash Enhancer",
+    "desc": "",
+    "drop": [150, 170, 190, 210]
+  },
+  {
+    "id": "Dive Impact Terfokus",
+    "en": "Focus Dive Impact",
+    "desc": "",
+    "drop": [150, 170, 190, 210, 220]
+  },
+  {
+    "id": "Peringan Pukulan Susulan",
+    "en": "Pursuit Relief",
+    "desc": "",
+    "drop": [150, 250]
+  },
+  {
+    "id": "Bara Semangat",
+    "en": "Burning Spirit",
+    "desc": "",
+    "drop": [150, 230]
+  },
+  {
+    "id": "Prajurit Berlumur Darah",
+    "en": "Bloody Warrior",
+    "desc": "",
+    "drop": [150]
+  },
+  {
+    "id": "Pemburu Monster",
+    "en": "Monster Hunter",
+    "desc": "",
+    "drop": [150, 250]
+  },
+  {
+    "id": "Panik",
+    "en": "Panic",
+    "desc": "",
+    "drop": [150, 230]
+  },
+  {
+    "id": "Transfer",
+    "en": "Transfer",
+    "desc": "",
+    "drop": [150, 250]
+  },
+  {
+    "id": "Pengendali Berserk",
+    "en": "Berserk Control",
+    "desc": "",
+    "drop": [170, 190, 210, 220]
+  },
+  {
+    "id": "Kompres Tembak Pengumpan",
+    "en": "Decoy Shot Compress",
+    "desc": "",
+    "drop": [170, 190, 210]
+  },
+  {
+    "id": "Tabokan Perisai Ekonomis",
+    "en": "Frugal Shield Bash",
+    "desc": "",
+    "drop": [170, 230]
+  },
+  {
+    "id": "Recovery Ekstra",
+    "en": "Extra Recovery",
+    "desc": "",
+    "drop": [170, 190, 210, 220]
+  },
+  {
+    "id": "Heal Ekonomis",
+    "en": "Frugal Heal",
+    "desc": "",
+    "drop": [170, 190, 210, 220]
+  },
+  {
+    "id": "Gebuk Ekstrem",
+    "en": "Extreme Whack",
+    "desc": "",
+    "drop": [170, 190, 210, 220]
+  },
+  {
+    "id": "Konsentrasi Ekstrem",
+    "en": "Extreme Concentrate",
+    "desc": "",
+    "drop": [170, 190, 210, 220]
+  },
+  {
+    "id": "Penguat Serbuan Muslihat",
+    "en": "Secret Chase ATK Boost",
+    "desc": "",
+    "drop": [170, 190, 210, 220]
+  },
+  {
+    "id": "Resonansi Daya",
+    "en": "Power Resonance",
+    "desc": "",
+    "drop": [170, 230]
+  },
+  {
+    "id": "Ekstender Suar Eter",
+    "en": "Ether Flare Extender",
+    "desc": "",
+    "drop": [170, 190, 210, 220]
+  },
+  {
+    "id": "Penguat Gigitan Berdarah",
+    "en": "Bloody Bite Enhancer",
+    "desc": "",
+    "drop": [170, 190, 210]
+  },
+  {
+    "id": "Jeritan Perang Dominan",
+    "en": "Dominant War Cry",
+    "desc": "",
+    "drop": [170, 190, 210, 220]
+  },
+  {
+    "id": "Isi Energi Chi Pol",
+    "en": "Full Power Qi Charge",
+    "desc": "",
+    "drop": [170, 230]
+  },
+  {
+    "id": "Hantaman Meteor Tunggal",
+    "en": "Single Meteor Strike",
+    "desc": "",
+    "drop": [170, 220, 230]
+  },
+  {
+    "id": "Tancapan Awal",
+    "en": "Start Dash",
+    "desc": "",
+    "drop": [170, 220]
+  },
+  {
+    "id": "Combo Rahasia",
+    "en": "Secret Combo",
+    "desc": "",
+    "drop": [170, 230]
+  },
+  {
+    "id": "Siaga Nol",
+    "en": "Zero Stance",
+    "desc": "",
+    "drop": [170, 250]
+  },
+  {
+    "id": "Assault Attack Ekspres",
+    "en": "Express Assault Attack",
+    "desc": "",
+    "drop": [190, 250]
+  },
+  {
+    "id": "Resonansi Laju",
+    "en": "Speed Resonance",
+    "desc": "",
+    "drop": [190, 250]
+  },
+  {
+    "id": "Penguat Rage Sword",
+    "en": "Rage Sword Enhancer",
+    "desc": "",
+    "drop": [190, 250]
+  },
+  {
+    "id": "Familia Seperjuangan",
+    "en": "Comrade Familia",
+    "desc": "",
+    "drop": [190, 220, 250]
+  },
+  {
+    "id": "Shadow Walk Muslihat",
+    "en": "Tricky Shadow Walk",
+    "desc": "",
+    "drop": [190, 220]
+  },
+  {
+    "id": "Mega Royal Heal",
+    "en": "Mega Royal Heal",
+    "desc": "",
+    "drop": [190, 230]
+  },
+  {
+    "id": "Pertunjukan Singkat",
+    "en": "Short Performance",
+    "desc": "",
+    "drop": [190, 220]
+  },
+  {
+    "id": "Katalis Kristal Mana",
+    "en": "Mana Crystal Catalyst",
+    "desc": "",
+    "drop": [210, 220]
+  },
+  {
+    "id": "Penguat Assassin Stab",
+    "en": "Assassin Stab Enhancer",
+    "desc": "",
+    "drop": [210, 230]
+  },
+  {
+    "id": "Kisas Holy Light",
+    "en": "Holy Light Retribution",
+    "desc": "",
+    "drop": [210, 250]
+  },
+  {
+    "id": "Resonansi Fokus",
+    "en": "Focus Resonance",
+    "desc": "",
+    "drop": [210]
+  },
+  {
+    "id": "Cakar Iblis Terfokus",
+    "en": "Focus Demon Claw",
+    "desc": "",
+    "drop": [210, 220, 250]
+  },
+  {
+    "id": "P. Defense Bungkam",
+    "en": "Silent P. Defense",
+    "desc": "",
+    "drop": [210]
+  },
+  {
+    "id": "Konverter Bind Strike",
+    "en": "Binding Strike Modifier",
+    "desc": "",
+    "drop": [210, 220]
+  },
+  {
+    "id": "Heal Cadangan",
+    "en": "Heal Bank",
+    "desc": "",
+    "drop": [210, 230]
+  },
+  {
+    "id": "Perangkap Genting",
+    "en": "Chancy Trap",
+    "desc": "",
+    "drop": [210, 220]
+  },
+  {
+    "id": "Gitaris",
+    "en": "Guitarist",
+    "desc": "",
+    "drop": [210, 220, 250]
+  },
+  {
+    "id": "Sihir: Impak Petarung",
+    "en": "Fighter's Magic: Impact",
+    "desc": "",
+    "drop": [220, 250]
+  },
+  {
+    "id": "Pengalih Maximizer",
+    "en": "Maximizer Converter",
+    "desc": "",
+    "drop": [220]
+  },
+  {
+    "id": "Triple Thrust Sempurna",
+    "en": "Perfect Triple Thrust",
+    "desc": "",
+    "drop": [220]
+  },
+  {
+    "id": "Tendangan Layang Evasif",
+    "en": "Evasive Floating Kick",
+    "desc": "",
+    "drop": [220]
+  },
+  {
+    "id": "Shuriken Iblis Angin Kuat",
+    "en": "Mega Demon Wind Shuriken",
+    "desc": "",
+    "drop": [220]
+  },
+  {
+    "id": "Jutsu Api Naga",
+    "en": "Dragon Fire Release",
+    "desc": "",
+    "drop": [220, 250]
+  },
+  {
+    "id": "Proteksi Aegis",
+    "en": "Protection Aegis",
+    "desc": "",
+    "drop": [220]
+  },
+  {
+    "id": "Olah Napas Ekonomis",
+    "en": "Frugal Breathwork",
+    "desc": "",
+    "drop": [220]
+  },
+  {
+    "id": "Talenta Api",
+    "en": "Fire Talent",
+    "desc": "",
+    "drop": [220]
+  },
+  {
+    "id": "Talenta Air",
+    "en": "Water Talent",
+    "desc": "",
+    "drop": [220]
+  },
+  {
+    "id": "Talenta Angin",
+    "en": "Wind Talent",
+    "desc": "",
+    "drop": [220]
+  },
+  {
+    "id": "Talenta Bumi",
+    "en": "Earth Talent",
+    "desc": "",
+    "drop": [220]
+  },
+  {
+    "id": "Perawatan Darurat",
+    "en": "Emergency Care",
+    "desc": "",
+    "drop": [220]
+  },
+  {
+    "id": "Tikam Sonik Langsung",
+    "en": "Direct Sonic Thrust",
+    "desc": "",
+    "drop": [230]
+  },
+  {
+    "id": "Penyarung Katana Pasif",
+    "en": "Sprint Sheathe Remover",
+    "desc": "",
+    "drop": [230]
+  },
+  {
+    "id": "Jutsu Angin Penghunus",
+    "en": "Unsheather Wind Release",
+    "desc": "",
+    "drop": [230]
+  },
+  {
+    "id": "Chronos Shift Ekstrem",
+    "en": "Extreme Chronos Shift",
+    "desc": "",
+    "drop": [230]
+  },
+  {
+    "id": "Sihir: Tukik Meteor",
+    "en": "Meteor Magic: Crash",
+    "desc": "",
+    "drop": [230]
+  },
+  {
+    "id": "Sabel Sabit Sinar Bulan",
+    "en": "Moonlight Crescent Saber",
+    "desc": "",
+    "drop": [230]
+  },
+  {
+    "id": "Hipertemia",
+    "en": "Pyrexia",
+    "desc": "",
+    "drop": [230]
+  },
+  {
+    "id": "Talenta Cahaya",
+    "en": "Light Talent",
+    "desc": "",
+    "drop": [230]
+  },
+  {
+    "id": "Deklarasi Target",
+    "en": "Target Declaration",
+    "desc": "",
+    "drop": [230]
+  },
+  {
+    "id": "Laporan Pulker",
+    "en": "Check Out Notice",
+    "desc": "",
+    "drop": [230]
+  },
+  {
+    "id": "Instruktur",
+    "en": "Instructor",
+    "desc": "",
+    "drop": [230]
+  },
+  {
+    "id": "Tangan Penyembuh",
+    "en": "Healing Hands",
+    "desc": "",
+    "drop": [230]
+  },
+  {
+    "id": "Tinju Besi",
+    "en": "Iron Fist",
+    "desc": "",
+    "drop": [230]
+  },
+  {
+    "id": "Ekstender Sihir: Badai",
+    "en": "Magic: Storm Extender",
+    "desc": "",
+    "drop": [250]
+  },
+  {
+    "id": "Gempuran Badai Penangkis",
+    "en": "Parrier Storm Blaze",
+    "desc": "",
+    "drop": [250]
+  },
+  {
+    "id": "Timer Tembakan Tersembunyi",
+    "en": "Sneak Attack Timer",
+    "desc": "",
+    "drop": [250]
+  },
+  {
+    "id": "Tekanan Pedang Aura",
+    "en": "Aura Blade Force",
+    "desc": "",
+    "drop": [250]
+  },
+  {
+    "id": "Tombak Pemburu Jauh",
+    "en": "Distant Buster Lance",
+    "desc": "",
+    "drop": [250]
+  },
+  {
+    "id": "Gigih Perkasa",
+    "en": "Invincible Dauntless",
+    "desc": "",
+    "drop": [250]
+  },
+  {
+    "id": "Evasion Set",
+    "en": "Evasion Set",
+    "desc": "",
+    "drop": [250]
+  },
+  {
+    "id": "Talenta Gelap",
+    "en": "Dark Talent",
+    "desc": "",
+    "drop": [250]
+  },
+  {
+    "id": "Tes Dampak",
+    "en": "Damage Check",
+    "desc": "",
+    "drop": [250]
+  },
+  {
+    "id": "Teladan",
+    "en": "Role Model",
+    "desc": "",
+    "drop": [250]
+  },
+  {
+    "id": "Intuisi Ksatria",
+    "en": "Knight's Intuition",
+    "desc": "",
+    "drop": [250]
+  }
+]
