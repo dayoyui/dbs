@@ -80,7 +80,7 @@
   {
     "id": "Ekstender Pedang Sonik",
     "en": "Sonic Blade Extender",
-    "desc": "\n Memperpanjang waktu skill Pedang Sonik harus dipakai ulang agar berubah menjadi Pedang Super Sonik sebanyak 1 detik.\n- Max lvl 20.",
+    "desc": "- Memperpanjang waktu skill Pedang Sonik harus dipakai ulang agar berubah menjadi Pedang Super Sonik sebanyak 1 detik.\n- Max lvl 20.",
     "drop": [30, 50, 90, 110, 130]
   },
   {
