@@ -68,7 +68,7 @@
   {
     "id": "Basuhan Mentari",
     "en": "Sunbath",
-    "desc": "",
+    "desc": "- Mendapat tambahan 25% jumlah MP yang pulih saat ekspresi yang menambah Natural Regen dipakai.\n- Max lvl 4.",
     "drop": [10, 30, 50, 220]
   },
   {
@@ -80,7 +80,7 @@
   {
     "id": "Ekstender Pedang Sonik",
     "en": "Sonic Blade Extender",
-    "desc": "",
+    "desc": "\n Memperpanjang waktu skill Pedang Sonik harus dipakai ulang agar berubah menjadi Pedang Super Sonik sebanyak 1 detik.\n- Max lvl 20.",
     "drop": [30, 50, 90, 110, 130]
   },
   {
@@ -92,43 +92,43 @@
   {
     "id": "Penguat Tepat Sasaran",
     "en": "Bullseye Enhancer",
-    "desc": "",
+    "desc": "- Menambah 5% daya skill \"Tepat Sasaran\".\n- Max lvl 20.",
     "drop": [30, 50, 90, 110, 130]
   },
   {
     "id": "Penguat Sihir: Panah",
     "en": "Magic: Arrows Enhancer",
-    "desc": "",
+    "desc": "- Menambah 1 tembakan pada skill \"Sihir: Panah\".\n- Max lvl 4.",
     "drop": [30, 50, 90, 110, 130, 220]
   },
   {
     "id": "Penguat Sihir: Tembok",
     "en": "Magic: Wall Enhancer",
-    "desc": "",
+    "desc": "- Menambah 5% daya skill \"Sihir: Tembok\".\n- Max lvl 20.",
     "drop": [30, 50, 90, 110, 130]
   },
   {
     "id": "Penguat Smash",
     "en": "Smash Enhancer",
-    "desc": "",
+    "desc": "- Menambah 5% daya skill \"Smash\" bila dipakai dengan sarung tinju.\n- Max lvl 20.",
     "drop": [30, 50, 90, 110, 130]
   },
   {
     "id": "Penguat Gelombang Sonik",
     "en": "Sonic Wave Enhancer",
-    "desc": "",
+    "desc": "- Menambah 5% daya skill \"Gelombang Sonik\" bila dipakai dengan sarung tinju.\n- Max lvl 20.",
     "drop": [30, 50, 90, 110, 130]
   },
   {
     "id": "Penguat Twin Slash",
     "en": "Twin Slash Enhancer",
-    "desc": "",
+    "desc": "- Menambah 2% luka kritis dari skill \"Twin Slash\".\n- Max lvl 20.",
     "drop": [30, 50, 90, 110, 130]
   },
   {
     "id": "Penguat Cross Parry",
     "en": "Cross Parry Enhancer",
-    "desc": "",
+    "desc": "- Menambah 5% daya skill \"Cross Parry\".\n- Max lvl 20.",
     "drop": [30, 50, 90, 110, 130]
   },
   {
@@ -146,7 +146,7 @@
   {
     "id": "Penguat Issen",
     "en": "Issen Enhancer",
-    "desc": "",
+    "desc": "- Menambah 5% daya pukulan kedua skill \"Issen\".\n- Max lvl 20.",
     "drop": [30, 50, 90, 110, 130]
   },
   {
@@ -176,7 +176,7 @@
   {
     "id": "Kendali Saraf",
     "en": "Neural Control",
-    "desc": "",
+    "desc": "- Mengurangi penurunan ASPD karena Lumpuh sebesar 2%.\n- Max lvl 30.",
     "drop": [50, 250]
   },
   {
@@ -194,13 +194,13 @@
   {
     "id": "Pengunsur Tebasan Pemicu",
     "en": "Elemental Trigger Slash",
-    "desc": "",
+    "desc": "- Mengubah skill \"Tebasan Pemicu\" dari unsur api menjadi unsur senjata yang dipasang.\n- Max lvl 20.",
     "drop": [70, 90, 110, 130, 150, 220]
   },
   {
     "id": "Penguat Udara Spiral",
     "en": "Spiral Air Enhancer",
-    "desc": "",
+    "desc": "- Menambah 2% daya skill \"Udara Spiral\".\n- Max lvl 20.",
     "drop": [70, 90, 110, 130, 150]
   },
   {
@@ -254,7 +254,7 @@
   {
     "id": "Charging Slash Kritis",
     "en": "Critical Charging Slash",
-    "desc": "",
+    "desc": "- Mengurangi 100% daya skill \"Charging Slash\" dan menjamin critical hit.\n- Max lvl 10.",
     "drop": [70, 90, 110, 130, 150]
   },
   {
@@ -272,7 +272,7 @@
   {
     "id": "Triple Thrust Statis",
     "en": "Static Triple Thrust",
-    "desc": "",
+    "desc": "- Tidak terjadi perpindahan dengan skill \"Triple Thrust\".\n- Max lvl 1.",
     "drop": [70, 90, 110, 130, 150, 220]
   },
   {
@@ -302,7 +302,7 @@
   {
     "id": "Tidur Singkat",
     "en": "Forty Winks",
-    "desc": "",
+    "desc": "- Mengurangi waktu Tidur sebanyak 10%.\n- Max lvl 5.",
     "drop": [90, 220]
   },
   {
@@ -326,7 +326,7 @@
   {
     "id": "Hipertermia",
     "en": "Pyrexia",
-    "desc": "",
+    "desc": "- Berpeluang 5% menghilangkan status Beku jika melakukan serangan biasa saat sedang Beku.\n- Max lvl 20.",
     "drop": [110]
   },
   {
@@ -338,13 +338,13 @@
   {
     "id": "Silent Recharge",
     "en": "Silent Recharge",
-    "desc": "",
+    "desc": "- Menambah jumlah MP yang pulih sebanyak 5% jika \"MP Charge\" dipakai selama Bisu.\n- Max lvl 20.",
     "drop": [110, 230]
   },
   {
     "id": "Piaraan Penyerang",
     "en": "Attacker's Pet",
-    "desc": "",
+    "desc": "- Luka yang diberikan piaraan bertambah 3%, tapi luka yang diberikan majikannya berkurang drastis.\n- Max lvl 10.",
     "drop": [110, 250]
   },
   {
@@ -356,19 +356,19 @@
   {
     "id": "Penghemat",
     "en": "Parsimony",
-    "desc": "",
+    "desc": "- Item tak terkuras saat auto item aktif.\n- Sebagai gantinya cooldown item jadi 2x lipat.\n- Cooldown: 39 detik.\n- Max lvl 10.",
     "drop": [110, 250]
   },
   {
     "id": "Reparasi Darurat",
     "en": "Emergency Repair",
-    "desc": "",
+    "desc": "- Berpeluang 5% menghilangkan status Pecah Zirah saat besar luka yang diterima bertambah karenanya.\n- Max lvl 20.",
     "drop": [130, 250]
   },
   {
     "id": "Penjinak Mana",
     "en": "Mana Defuser",
-    "desc": "",
+    "desc": "- 100 MP dipulihkan seketika bila selamat dari Ledakan Mana.\n- Max lvl 1.",
     "drop": [130, 150, 220]
   },
   {
@@ -386,7 +386,7 @@
   {
     "id": "Penyelamat",
     "en": "Savior",
-    "desc": "",
+    "desc": "- Memberikan kekebalan total selama 10 detik jika kamu bangkit saat semua anggota regu sudah KO.\n- Max lvl 1.",
     "drop": [130, 220]
   },
   {
@@ -398,7 +398,7 @@
   {
     "id": "Rampage Pemulih",
     "en": "Remedial Rampage",
-    "desc": "",
+    "desc": "- Menghilangkan serangan finishing dari skill \"Rampage\" dan sebagai gantinya 50 HP dipulihkan.\n- Max lvl 10.",
     "drop": [150, 170, 190, 210]
   },
   {
@@ -416,7 +416,7 @@
   {
     "id": "Penguat Phantom Slash",
     "en": "Phantom Slash Enhancer",
-    "desc": "",
+    "desc": "- Menambah 5% daya skill \"Phantom Slash\".\n- Max lvl 20.",
     "drop": [150, 170, 190, 210]
   },
   {
@@ -536,13 +536,13 @@
   {
     "id": "Isi Energi Chi Pol",
     "en": "Full Power Qi Charge",
-    "desc": "",
+    "desc": "- Saat skill \"Isi Energi Chi\" tidak berefek, jumlah chi akan naik 10% bila skill diaktifkan dengan 2000 MP.\n- Max lvl 10.",
     "drop": [170, 230]
   },
   {
     "id": "Hantaman Meteor Tunggal",
     "en": "Single Meteor Strike",
-    "desc": "",
+    "desc": "- Jumlah meteorit dari skill \"Hantaman Meteor\" yang dijatuhkan jadi 1 dan status buruk tak lagi diberikan, namun titik jatuhnya bukan random lagi.\n- Max lvl 1.",
     "drop": [170, 220, 230]
   },
   {
@@ -554,7 +554,7 @@
   {
     "id": "Combo Rahasia",
     "en": "Secret Combo",
-    "desc": "",
+    "desc": "- Mengurangi 1% aggro per 1 combo.\n- Makin panjang combonya makin besar efeknya.\n- Max lvl 10",
     "drop": [170, 230]
   },
   {
@@ -584,7 +584,7 @@
   {
     "id": "Familia Seperjuangan",
     "en": "Comrade Familia",
-    "desc": "",
+    "desc": "- Peluang familiar yang dipanggil dengan skill \"Familia\" kabur berkurang 1%. Gerakan jadi lebih cepat 1 detik untuk Familia Lanjutan.\n- Max lvl 1.",
     "drop": [190, 220, 250]
   },
   {
@@ -596,7 +596,7 @@
   {
     "id": "Mega Royal Heal",
     "en": "Mega Royal Heal",
-    "desc": "",
+    "desc": "- Jarak jangkauan efek skill \"Royal Heal\" bertambah 1m, namun jumlah HP yang dipulihkan jadi setengah.\n- Max lvl 8.",
     "drop": [190, 230]
   },
   {
@@ -644,13 +644,13 @@
   {
     "id": "Konverter Bind Strike",
     "en": "Binding Strike Modifier",
-    "desc": "",
+    "desc": "- Menghapus efek \"Berhenti\" dari skill \"Bind Strike\" dan mengubahnya agar status buruk \"Pingsan\" diberikan ke target saja.\n- Max lvl 1.",
     "drop": [210, 220]
   },
   {
     "id": "Heal Cadangan",
     "en": "Heal Bank",
-    "desc": "",
+    "desc": "- Jumlah HP yang dipulihkan oleh skill \"Mini Heal\" dan \"Heal\" jadi setengah.\n- Buff diakumulasi hingga 1 stack per 3 detik. Jika skill dipakai untuk memulihkan teman, buff dikuras sebagai ganti MP untuk mengaktifkannya.\n- Max lvl 10.",
     "drop": [210, 230]
   },
   {
@@ -662,7 +662,7 @@
   {
     "id": "Gitaris",
     "en": "Guitarist",
-    "desc": "",
+    "desc": "- Efek skill tembang naik 1 detik lebih cepat saat dipakai terus-menerus. Tapi aggro dan luka yang diterima bertambah 10% selama dinyanyikan.\n- *Tak berlaku untuk Tembang Fantasi.*\n- Max lvl 6.",
     "drop": [210, 220, 250]
   },
   {
@@ -674,7 +674,7 @@
   {
     "id": "Pengalih Maximizer",
     "en": "Maximizer Converter",
-    "desc": "",
+    "desc": "- Mengubah skill \"Maximizer\" untuk mengaktifkan MP Charge saat skill dipakai sendiri dan syarat aktivasi seketika tidak terpenuhi.\n- Max lvl 1.",
     "drop": [220]
   },
   {
@@ -692,7 +692,7 @@
   {
     "id": "Shuriken Iblis Angin Kuat",
     "en": "Mega Demon Wind Shuriken",
-    "desc": "",
+    "desc": "- MP Cost skill \"Shuriken Iblis Angin\" bertambah 200 dan sebagai gantinya kekerapan daya naik +1.\n- Max lvl 2",
     "drop": [220]
   },
   {
@@ -704,7 +704,7 @@
   {
     "id": "Proteksi Aegis",
     "en": "Protection Aegis",
-    "desc": "",
+    "desc": "- Bila skill "Proteksi" aktif, maka "Aegis" yang dikuasai juga akan aktif bersamaan.\n- *Berlaku juga sebaliknya.*\n- Max lvl 1.",
     "drop": [220]
   },
   {
@@ -716,25 +716,25 @@
   {
     "id": "Talenta Api",
     "en": "Fire Talent",
-    "desc": "",
+    "desc": "- Menetapkan efek skill yang berubah berdasarkan unsur ke unsur api.\n- Max lvl 1.",
     "drop": [220]
   },
   {
     "id": "Talenta Air",
     "en": "Water Talent",
-    "desc": "",
+    "desc": "- Menetapkan efek skill yang berubah berdasarkan unsur ke unsur air.\n- Max lvl 1.",
     "drop": [220]
   },
   {
     "id": "Talenta Angin",
     "en": "Wind Talent",
-    "desc": "",
+    "desc": "- Menetapkan efek skill yang berubah berdasarkan unsur ke unsur angin.\n- Max lvl 1.",
     "drop": [220]
   },
   {
     "id": "Talenta Bumi",
     "en": "Earth Talent",
-    "desc": "",
+    "desc": "- Menetapkan efek skill yang berubah berdasarkan unsur ke unsur bumi.\n- Max lvl 1.",
     "drop": [220]
   },
   {
@@ -746,13 +746,13 @@
   {
     "id": "Tikam Sonik Langsung",
     "en": "Direct Sonic Thrust",
-    "desc": "",
+    "desc": "- Skill \"Tikam Sonik\" kehilangan efek tangkasnya, namun sebagai gantinya skill memperoleh efek pengabai Evasion.\n- Max lvl 1.",
     "drop": [230]
   },
   {
     "id": "Penyarung Katana Pasif",
     "en": "Sprint Sheathe Remover",
-    "desc": "",
+    "desc": "- Pergerakan sambil menyarungkan katana takkan terjadi terjadi.\n- Max lvl 1.",
     "drop": [230]
   },
   {
@@ -794,7 +794,7 @@
   {
     "id": "Deklarasi Target",
     "en": "Target Declaration",
-    "desc": "",
+    "desc": "- Membuat pernyataan di Chat Regu saat perhatian musuh (aggro) teralihkan padamu.\n- Untuk Guild RAID, pernyataan dibuat di Chat Ucap.\n- Max lvl 1.",
     "drop": [230]
   },
   {
@@ -842,7 +842,7 @@
   {
     "id": "Tekanan Pedang Aura",
     "en": "Aura Blade Force",
-    "desc": "",
+    "desc": "- Mengeluarkan serangan gelombang kejut (sasaran tunggal) dan memberikan luka 10% bila monster sasaran skill Pedang Aura ada di luar jangkauan.\n- Max lvl 8.",
     "drop": [250]
   },
   {
