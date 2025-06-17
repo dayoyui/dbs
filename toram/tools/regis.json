@@ -2,61 +2,61 @@
   {
     "id": "Boost Serangan Fisik",
     "en": "Physical Attack Boost",
-    "desc": "",
+    "desc": "- ATK +1\n- Max lvl 30.",
     "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
     "id": "Boost Serangan Sihir",
     "en": "Magic Attack Boost",
-    "desc": "",
+    "desc": "- MATK +1\n Max lvl 30.",
     "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
     "id": "Boost Max HP",
     "en": "Max HP Boost",
-    "desc": "",
+    "desc": "- MAX HP +10\n- Max lvl 100.",
     "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
     "id": "Boost Max MP",
     "en": "Max MP Boost",
-    "desc": "",
+    "desc": "- MAX MP +1\n- Max lvl 100.",
     "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
     "id": "Boost Ketahanan Fisik",
     "en": "Physical Defense Boost",
-    "desc": "",
+    "desc": "- DEF +1\n- Max lvl 50.",
     "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
     "id": "Boost Ketahanan Sihir",
     "en": "Magic Defense Boost",
-    "desc": "",
+    "desc": "- MDEF +1\n Max lvl 50.",
     "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
     "id": "Boost Akurasi",
     "en": "Accuracy Boost",
-    "desc": "",
+    "desc": "- Accuracy +1\n- Max lvl 10.",
     "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
     "id": "Boost Hindaran",
     "en": "Dodge Boost",
-    "desc": "",
+    "desc": "- Dodge +1\n- Max lvl 10.",
     "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
     "id": "Boost Kecepatan Serang",
     "en": "Attack Speed Boost",
-    "desc": "",
+    "desc": "- ASPD +1\n- Max lvl 100.",
     "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
     "id": "Boost Kecepatan Sihir",
     "en": "Magic Speed Boost",
-    "desc": "",
+    "desc": "- Kecepatan Merapal +1\n Max lvl 100.",
     "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
@@ -74,7 +74,7 @@
   {
     "id": "Penguat Tebasan Kuat",
     "en": "Hard Hit Enhancer",
-    "desc": "",
+    "desc": "- Menambah 5% daya skill \"Tebasan Kuat\".\n",
     "drop": [30, 50, 90, 110, 130]
   },
   {
@@ -182,13 +182,13 @@
   {
     "id": "Pemulih MP Darurat",
     "en": "Emergency MP Heal",
-    "desc": "",
+    "desc": "- 10 MP pulih seketika jika MP kurang.\n Max lvl 10.",
     "drop": [50, 150]
   },
   {
     "id": "Perlawanan Terakhir",
     "en": "Final Resistance",
-    "desc": "",
+    "desc": "- Bila kamu ialah anggota regu yang KO terakhir, kamu akan mengerahkan tenagamu hingga titik darah penghabisan untuk segera bangkit.\n Max lvl 5.",
     "drop": [50, 170, 220]
   },
   {
@@ -236,7 +236,7 @@
   {
     "id": "Penguat Penghancur Zirah",
     "en": "Shell Break Enhancer",
-    "desc": "",
+    "desc": "- Menambah peluang untuk memberikan status Pecah Zirah dengan skill \"Penghancur Zirah\" sebesar 5%\n- Max lvl 5",
     "drop": [70, 90, 110, 130, 150, 220]
   },
   {
@@ -260,13 +260,13 @@
   {
     "id": "Penguat Dragon Tail",
     "en": "Dragon Tail Enhancer",
-    "desc": "",
+    "desc": "- Menambah 5% daya pukulan kedua skill \"Dragon Tail\".\n- Max lvl 20.",
     "drop": [70, 90, 110, 130, 150]
   },
   {
     "id": "Mega War Cry of Struggle",
     "en": "Mega War Cry of Struggle",
-    "desc": "",
+    "desc": "- Menambah jumlah aggro yang dihasilkan oleh skill \"War Cry of Struggle\" sebanyak 300. (+300 per level)\n- Max lvl 10.",
     "drop": [70, 90, 110, 130, 150]
   },
   {
@@ -278,7 +278,7 @@
   {
     "id": "Jimat Magadachi",
     "en": "Magadachi Amulet",
-    "desc": "",
+    "desc": "- Menambah pengurangan luka sihir oleh skill \"Magadachi\" sebesar 5%.\n- Max lvl 6.",
     "drop": [70, 90, 110, 130, 150, 220]
   },
   {
@@ -290,7 +290,7 @@
   {
     "id": "Diri Teguh",
     "en": "Steady Stance",
-    "desc": "",
+    "desc": "- Mengurangi 3% luka yang diterima selama Berhenti apabila berdiri diam di tempat.\n Max lvl 10.",
     "drop": [70, 90]
   },
   {
@@ -314,7 +314,7 @@
   {
     "id": "Pahlawan Terakhir",
     "en": "Last Hero",
-    "desc": "",
+    "desc": "- 11% HP dan MP pulih per anggota regu yang KO saat tinggal kamu sendiri yang hidup.\n- Cooldown: 300 detik\n- Max lvl 10.",
     "drop": [90, 190]
   },
   {
@@ -332,7 +332,7 @@
   {
     "id": "Pacu",
     "en": "Impetus",
-    "desc": "",
+    "desc": "- Mengurangi penurunan kecepatan gerak akibat status Lambat sebesar 5%.\n- Max lvl 10.",
     "drop": [110, 130]
   },
   {
@@ -380,7 +380,7 @@
   {
     "id": "Mata Elang",
     "en": "Eagle Eye",
-    "desc": "",
+    "desc": "- Mengurangi 1% luka yang diterima dari arah belakang (melawan arah kamera). Jika luka diterima tepat dari belakang, maka pengurangannya akan lebih banyak.\n- Max lvl 10.",
     "drop": [130, 230]
   },
   {
@@ -422,43 +422,43 @@
   {
     "id": "Dive Impact Terfokus",
     "en": "Focus Dive Impact",
-    "desc": "",
+    "desc": "- Mengubah skill \"Dive Impact\" menjadi serangan yang menusuk tembus target tunggal.\n- Max lvl 5.",
     "drop": [150, 170, 190, 210, 220]
   },
   {
     "id": "Peringan Pukulan Susulan",
     "en": "Pursuit Relief",
-    "desc": "",
+    "desc": "- Mengurangi 1% (+1% per level) luka yang diterima saat tidak bisa bergerak karena Bergidik, Jatuh, atau Pingsan.\n- Max lvl 20.",
     "drop": [150, 250]
   },
   {
     "id": "Bara Semangat",
     "en": "Burning Spirit",
-    "desc": "",
+    "desc": "- Sebanyak 5% MP dari Attack MP Recorvery pulih saat terluka akibat Terbakar.\n- Max lvl 10.",
     "drop": [150, 230]
   },
   {
     "id": "Prajurit Berlumur Darah",
     "en": "Bloody Warrior",
-    "desc": "",
+    "desc": "- Menambah 5% daya serangan biasa dan Attack MP Recorvery selama Berdarah.\n- Max lvl 20",
     "drop": [150]
   },
   {
     "id": "Pemburu Monster",
     "en": "Monster Hunter",
-    "desc": "",
+    "desc": "- 100 MP pulih ketika monster dikalahkan.\n- Cooldown: 29 detik\n- Max lvl 10.",
     "drop": [150, 250]
   },
   {
     "id": "Panik",
     "en": "Panic",
-    "desc": "",
+    "desc": "- 11 MP pulih tiap 3 detik, tetapi bila menerima aggro, semua MP akan terkuras dan Registlet ini akan berhenti bekerja selama 30 detik.\n- Max lvl 10.",
     "drop": [150, 230]
   },
   {
     "id": "Transfer",
     "en": "Transfer",
-    "desc": "",
+    "desc": "- MaxMP berkurang 1000, tapi saat kamu KO, sisa MP akan dibagikan ke anggota regu.\n- *Pemain yang MP-nya terisi berkat efek ini takkan dapat menerima efek yang sama selama 180 detik.*\n- Max lvl 10.",
     "drop": [150, 250]
   },
   {
