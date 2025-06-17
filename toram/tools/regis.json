@@ -8,7 +8,7 @@
   {
     "id": "Boost Serangan Sihir",
     "en": "Magic Attack Boost",
-    "desc": "- MATK +1\n Max lvl 30.",
+    "desc": "- MATK +1\n- Max lvl 30.",
     "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
@@ -32,7 +32,7 @@
   {
     "id": "Boost Ketahanan Sihir",
     "en": "Magic Defense Boost",
-    "desc": "- MDEF +1\n Max lvl 50.",
+    "desc": "- MDEF +1\n- Max lvl 50.",
     "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
@@ -56,7 +56,7 @@
   {
     "id": "Boost Kecepatan Sihir",
     "en": "Magic Speed Boost",
-    "desc": "- CSPD +1\n Max lvl 100.",
+    "desc": "- CSPD +1\n- Max lvl 100.",
     "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
@@ -74,7 +74,7 @@
   {
     "id": "Penguat Tebasan Kuat",
     "en": "Hard Hit Enhancer",
-    "desc": "- Menambah 5% daya skill \"Tebasan Kuat\".\n",
+    "desc": "- Menambah 5% daya skill \"Tebasan Kuat\".\n- Max lvl 20.",
     "drop": [30, 50, 90, 110, 130]
   },
   {
@@ -170,7 +170,7 @@
   {
     "id": "Pemulih HP Darurat",
     "en": "Emergency HP Heal",
-    "desc": "",
+    "desc": "- 11% HP pulih seketika saat HP tinggal 25% atau kurang karena luka dari monster.\n- Cooldown: 60 detik\n- Max lvl 10.",
     "drop": [30, 150]
   },
   {
@@ -182,13 +182,13 @@
   {
     "id": "Pemulih MP Darurat",
     "en": "Emergency MP Heal",
-    "desc": "- 10 MP pulih seketika jika MP kurang.\n Max lvl 10.",
+    "desc": "- 10 MP pulih seketika jika MP kurang.\n- Max lvl 10.",
     "drop": [50, 150]
   },
   {
     "id": "Perlawanan Terakhir",
     "en": "Final Resistance",
-    "desc": "- Bila kamu ialah anggota regu yang KO terakhir, kamu akan mengerahkan tenagamu hingga titik darah penghabisan untuk segera bangkit.\n Max lvl 5.",
+    "desc": "- Bila kamu ialah anggota regu yang KO terakhir, kamu akan mengerahkan tenagamu hingga titik darah penghabisan untuk segera bangkit.\n- Max lvl 5.",
     "drop": [50, 170, 220]
   },
   {
@@ -206,13 +206,13 @@
   {
     "id": "Penguat Hujan Panah",
     "en": "Arrow Rain Enhancer",
-    "desc": "",
+    "desc": "- Menambah jumlah serangan skill \"Hujan Panah\" sebesar 1x.\n- Max lvl 2.",
     "drop": [70, 90, 110, 130, 150, 220]
   },
   {
     "id": "Tembakan Paralisis Lama",
     "en": "Paralysis Shot Extender",
-    "desc": "",
+    "desc": "- Memperpanjang durasi efek penguatan dari skill \"Tembakan Paralisis\" sebanyak 1 detik.\n- Max lvl 10.",
     "drop": [70, 90, 110, 130, 150]
   },
   {
@@ -230,13 +230,13 @@
   {
     "id": "Konverter Gelombang Kuat",
     "en": "Power Wave Modifier",
-    "desc": "",
+    "desc": "- Menghapus efek penambah jangkauan dari skill \"Gelombang Kuat\" dan sebagai gantinya daya serangan biasa naik 0.5%\n- *Kenaikannya tergantung pada level skill.*\n- Max lvl 10.",
     "drop": [70, 90, 110, 130, 150]
   },
   {
     "id": "Penguat Penghancur Zirah",
     "en": "Shell Break Enhancer",
-    "desc": "- Menambah peluang untuk memberikan status Pecah Zirah dengan skill \"Penghancur Zirah\" sebesar 5%\n- Max lvl 5",
+    "desc": "- Menambah peluang untuk memberikan status Pecah Zirah dengan skill \"Penghancur Zirah\" sebesar 5%\n- Max lvl 5.",
     "drop": [70, 90, 110, 130, 150, 220]
   },
   {
@@ -290,13 +290,13 @@
   {
     "id": "Diri Teguh",
     "en": "Steady Stance",
-    "desc": "- Mengurangi 3% luka yang diterima selama Berhenti apabila berdiri diam di tempat.\n Max lvl 10.",
+    "desc": "- Mengurangi 3% luka yang diterima selama Berhenti apabila berdiri diam di tempat.\n- Max lvl 10.",
     "drop": [70, 90]
   },
   {
     "id": "Senasib Seperjuangan",
     "en": "Shared Destiny",
-    "desc": "- Tiap anggota regu kecuali dirimu akan menambah 1% ATK dan MATK-mu, tapi kamu akan kehilangan 100% HP setiap kali ada anggota yang KO.\n -*Pengurasan HP ini bisa membuatmu KO.*\n- Max lvl 2.",
+    "desc": "- Tiap anggota regu kecuali dirimu akan menambah 1% ATK dan MATK-mu, tapi kamu akan kehilangan 100% HP setiap kali ada anggota yang KO.\n- *Pengurasan HP ini bisa membuatmu KO.*\n- Max lvl 2.",
     "drop": [70, 190, 220]
   },
   {
@@ -350,7 +350,7 @@
   {
     "id": "Hantaman Mana",
     "en": "Mana Thrash",
-    "desc": "",
+    "desc": "- Menambah daya serangan biasa sebagai ganti hilangnya Attack MP Recovery.\n- *Makin tinggi Attack MP Recovery, makin besar daya yang ditambah.*\n- Max lvl 1.",
     "drop": [110, 220, 230]
   },
   {
@@ -440,7 +440,7 @@
   {
     "id": "Prajurit Berlumur Darah",
     "en": "Bloody Warrior",
-    "desc": "- Menambah 5% daya serangan biasa dan Attack MP Recorvery selama Berdarah.\n- Max lvl 20",
+    "desc": "- Menambah 5% daya serangan biasa dan Attack MP Recorvery selama Berdarah.\n- Max lvl 20.",
     "drop": [150]
   },
   {
@@ -494,13 +494,13 @@
   {
     "id": "Gebuk Ekstrem",
     "en": "Extreme Whack",
-    "desc": "",
+    "desc": "- Peluang skill \"Gebuk\" aktif bertambah 1%.\n- Max lvl 5.",
     "drop": [170, 190, 210, 220]
   },
   {
     "id": "Konsentrasi Ekstrem",
     "en": "Extreme Concentrate",
-    "desc": "",
+    "desc": "- Peluang skill \"Konsentrasi\" aktif bertambah 1%.\n- Max lvl 5.",
     "drop": [170, 190, 210, 220]
   },
   {
@@ -512,7 +512,7 @@
   {
     "id": "Resonansi Daya",
     "en": "Power Resonance",
-    "desc": "",
+    "desc": "- Skill \"Resonansi\" hanya akan meningkatkan status yang memengaruhi daya serang, namun nilai penguatannya turun 95%.\n- Max lvl 9.",
     "drop": [170, 230]
   },
   {
@@ -530,7 +530,7 @@
   {
     "id": "Jeritan Perang Dominan",
     "en": "Dominant War Cry",
-    "desc": "",
+    "desc": "- Aktivasi skill \"Jeritan Perang\" takkan lagi terganggu oleh status \"Takut\".\n- Max lvl 1.",
     "drop": [170, 190, 210, 220]
   },
   {
@@ -554,13 +554,13 @@
   {
     "id": "Combo Rahasia",
     "en": "Secret Combo",
-    "desc": "- Mengurangi 1% aggro per 1 combo.\n- Makin panjang combonya makin besar efeknya.\n- Max lvl 10",
+    "desc": "- Mengurangi 1% aggro per 1 combo.\n- Makin panjang combonya makin besar efeknya.\n- Max lvl 10.",
     "drop": [170, 230]
   },
   {
     "id": "Siaga Nol",
     "en": "Zero Stance",
-    "desc": "",
+    "desc": "- Luka dari skill yang aktif tanpa menggunakan combo diperbesar 1.01x lipat.\n- Tak berlaku untuk sebagian skill seperti skill charge.\n- Max lvl 10.",
     "drop": [170, 250]
   },
   {
@@ -572,13 +572,13 @@
   {
     "id": "Resonansi Laju",
     "en": "Speed Resonance",
-    "desc": "",
+    "desc": "- Skill \"Resonansi\" hanya akan meningkatkan status yang memengaruhi percepatan, namun nilai penguatannya turun 95%.\n- Max lvl 9.",
     "drop": [190, 250]
   },
   {
     "id": "Penguat Rage Sword",
     "en": "Rage Sword Enhancer",
-    "desc": "",
+    "desc": "- Menambah 10% daya skill \"Rage Sword\". Jumlah aggro jadi 2x lipat bila target memusuhimu.\n- Max lvl 10.",
     "drop": [190, 250]
   },
   {
@@ -602,19 +602,19 @@
   {
     "id": "Pertunjukan Singkat",
     "en": "Short Performance",
-    "desc": "",
+    "desc": "- Efek skill tarian jadi 5 detik lebih singkat.\n- *Tak berlaku untuk Tarian Semangat.*\n- Max lvl 1.",
     "drop": [190, 220]
   },
   {
     "id": "Katalis Kristal Mana",
     "en": "Mana Crystal Catalyst",
-    "desc": "",
+    "desc": "- Jumlah MP pulih dari skill \"Kristal Mana\" berkurang 100, tapi waktu rapal jadi lebih cepat 10%.\n- Max lvl 5.",
     "drop": [210, 220]
   },
   {
     "id": "Penguat Assassin Stab",
     "en": "Assassin Stab Enhancer",
-    "desc": "",
+    "desc": "- Daya skill \"Assassin Stab\" naik 1% selain itu untuk Tikam Belakang akurasi naik 10%.\n- Max lvl 10.",
     "drop": [210, 230]
   },
   {
@@ -626,7 +626,7 @@
   {
     "id": "Resonansi Fokus",
     "en": "Focus Resonance",
-    "desc": "",
+    "desc": "- Skill \"Resonansi\" hanya akan meningkatkan status yang memengaruhi konsentrasi dan ketepatan, namun nilai penguatannya turun 95%.\n- Max lvl 9.",
     "drop": [210]
   },
   {
@@ -656,7 +656,7 @@
   {
     "id": "Perangkap Genting",
     "en": "Chancy Trap",
-    "desc": "- Memungkinkan pemasangan skill perangkap pada kaki sasaran. Namun bila skill aktif seketika, kamu juga akan terkena efeknya.\n Max lvl 1.",
+    "desc": "- Memungkinkan pemasangan skill perangkap pada kaki sasaran. Namun bila skill aktif seketika, kamu juga akan terkena efeknya.\n- Max lvl 1.",
     "drop": [210, 220]
   },
   {
@@ -668,7 +668,7 @@
   {
     "id": "Sihir: Impak Petarung",
     "en": "Fighter's Magic: Impact",
-    "desc": "",
+    "desc": "- Mengubah prorasi skill \"Sihir: Impak\" menjadi prorasi fisik.\n- Max lvl 1.",
     "drop": [220, 250]
   },
   {
@@ -680,7 +680,7 @@
   {
     "id": "Triple Thrust Sempurna",
     "en": "Perfect Triple Thrust",
-    "desc": "",
+    "desc": "- 10 mp pulih jika berhasil mengaktifkan skill \"Triple Thrust\" tanpa mendapat luka saat skill dipakai sendiri.\n- Max lvl 10.",
     "drop": [220]
   },
   {
@@ -692,13 +692,13 @@
   {
     "id": "Shuriken Iblis Angin Kuat",
     "en": "Mega Demon Wind Shuriken",
-    "desc": "- MP Cost skill \"Shuriken Iblis Angin\" bertambah 200 dan sebagai gantinya kekerapan daya naik +1.\n- Max lvl 2",
+    "desc": "- MP Cost skill \"Shuriken Iblis Angin\" bertambah 200 dan sebagai gantinya kekerapan daya naik +1.\n- Max lvl 2.",
     "drop": [220]
   },
   {
     "id": "Jutsu Api Naga",
     "en": "Dragon Fire Release",
-    "desc": "",
+    "desc": "- Waktu rapal skill \"Jutsu Api\" bertambah 1 detik, tapi 2,5% Penetrasi Sihir diperoleh.\n- Pertambahan Penetrasi Sihir jadi 2x lipat saat skill berubah.\n- Max lvl 10.",
     "drop": [220, 250]
   },
   {
@@ -710,7 +710,7 @@
   {
     "id": "Olah Napas Ekonomis",
     "en": "Frugal Breathwork",
-    "desc": "",
+    "desc": "- Mengurangi MP Cost skill \"Olah Napas\" sebesar 100.\n- Max lvl 1.",
     "drop": [220]
   },
   {
@@ -758,7 +758,7 @@
   {
     "id": "Jutsu Angin Penghunus",
     "en": "Unsheather Wind Release",
-    "desc": "",
+    "desc": "- Menambahkan sifat Penetrasi Sihir 5% ke skill \"Jutsu Angin\" dan saat skillnya berubah, sifat serangan hunus ditambahkan.\n- Max lvl 10.",
     "drop": [230]
   },
   {
@@ -788,7 +788,7 @@
   {
     "id": "Talenta Cahaya",
     "en": "Light Talent",
-    "desc": "",
+    "desc": "- Menetapkan efek skill yang berubah berdasarkan unsur ke unsur cahaya.\n- Max lvl 1.",
     "drop": [230]
   },
   {
@@ -824,7 +824,7 @@
   {
     "id": "Ekstender Sihir: Badai",
     "en": "Magic: Storm Extender",
-    "desc": "",
+    "desc": "- Mengurangi 50% daya skill \"Sihir : Badai\" untuk memperpanjang efek skill selama 1 detik.\n- Max lvl 5.",
     "drop": [250]
   },
   {
@@ -848,13 +848,13 @@
   {
     "id": "Tombak Pemburu Jauh",
     "en": "Distant Buster Lance",
-    "desc": "",
+    "desc": "- Menambah daya \"Tombak Pemburu\" sebesar 10%. Memperpanjang jangkauan dan jarak dimana penurunan daya dimulai agar selalu menjadi serangan jarak jauh.\n- Max lvl 10.",
     "drop": [250]
   },
   {
     "id": "Gigih Perkasa",
     "en": "Invincible Dauntless",
-    "desc": "",
+    "desc": "- Gigih akan terakumulasi 1 detik lebih cepat, tapi hitungannya akan berkurang 9 bila mendapat luka.\n- Namun pengurangan takkan terjadi bila luka ditangkis dengan Guard atau skill Samurai tertentu.\n- Max lvl 3.",
     "drop": [250]
   },
   {
@@ -866,13 +866,13 @@
   {
     "id": "Talenta Gelap",
     "en": "Dark Talent",
-    "desc": "",
+    "desc": "- Menetapkan efek skill yang berubah berdasarkan unsur ke unsur gelap.\n- Max lvl 1.",
     "drop": [250]
   },
   {
     "id": "Tes Dampak",
     "en": "Damage Check",
-    "desc": "",
+    "desc": "- Menampilkan pesan peringatan tambahan saat menginjak area peringatan bila luka dari serangannya melebihi 50% HP saat ini.\n- Max lvl 1.",
     "drop": [250]
   },
   {
