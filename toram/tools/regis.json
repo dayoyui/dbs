@@ -284,7 +284,7 @@
   {
     "id": "Cagar Meikyo Shisui",
     "en": "Meikyo Shisui Preserver",
-    "desc": "",
+    "desc": "- Efek dari skill \"Meikyo Shisui\" tidak hilang saat suatu skill digunakan.\n- Max lvl 1.",
     "drop": [70, 90, 110, 130, 150, 220]
   },
   {
@@ -296,7 +296,7 @@
   {
     "id": "Senasib Seperjuangan",
     "en": "Shared Destiny",
-    "desc": "",
+    "desc": "- Tiap anggota regu kecuali dirimu akan menambah 1% ATK dan MATK-mu, tapi kamu akan kehilangan 100% HP setiap kali ada anggota yang KO.\n -*Pengurasan HP ini bisa membuatmu KO.*\n- Max lvl 2.",
     "drop": [70, 190, 220]
   },
   {
@@ -392,7 +392,7 @@
   {
     "id": "Penambah Badai Pedang",
     "en": "Sword Tempest Extender",
-    "desc": "",
+    "desc": "- Menambah 1 hit pada skill \"Badai Pedang\".\n- Max lvl 1.",
     "drop": [150, 170, 190, 210, 220]
   },
   {
@@ -404,13 +404,13 @@
   {
     "id": "Ekstender Asap",
     "en": "Smoke Dust Extender",
-    "desc": "",
+    "desc": "- Memperpanjang durasi efek penguat dari skill \"Asap\" sebanyak 1 detik.\n- Max lvl 10.",
     "drop": [150, 170, 190, 210]
   },
   {
     "id": "Smash Dahsyat Menusuk",
     "en": "Piercing Heavy Smash",
-    "desc": "",
+    "desc": "- Memberikan Penetrasi Fisik sebesar 5% pada skill \"Smash Dahsyat\" sebagai tambahan bila dipakai dengan sarung tinju\n- Max lvl 10.",
     "drop": [150, 170, 190, 210]
   },
   {
@@ -464,7 +464,7 @@
   {
     "id": "Pengendali Berserk",
     "en": "Berserk Control",
-    "desc": "",
+    "desc": "- Status Rampage berpeluang 10% tidak hilang per level skill \"Berserk\" yang dikuasai.\n- Max lvl 1.",
     "drop": [170, 190, 210, 220]
   },
   {
@@ -488,7 +488,7 @@
   {
     "id": "Heal Ekonomis",
     "en": "Frugal Heal",
-    "desc": "",
+    "desc": "- MP Cost skill \"Heal\" berkurang 100.\n- Max lvl 1.",
     "drop": [170, 190, 210, 220]
   },
   {
@@ -590,7 +590,7 @@
   {
     "id": "Shadow Walk Muslihat",
     "en": "Tricky Shadow Walk",
-    "desc": "",
+    "desc": "- Serangan tambahan skill \"Shadow Walk\" tak lagi menyebabkan prorasi.\n- Max lvl 1.",
     "drop": [190, 220]
   },
   {
@@ -632,7 +632,7 @@
   {
     "id": "Cakar Iblis Terfokus",
     "en": "Focus Demon Claw",
-    "desc": "",
+    "desc": "- Daya skill \"Cakar Iblis\" berkurang 100%, namun skill akan fokus menyerang satu target.\n- Max lvl 1.",
     "drop": [210, 220, 250]
   },
   {
@@ -656,7 +656,7 @@
   {
     "id": "Perangkap Genting",
     "en": "Chancy Trap",
-    "desc": "",
+    "desc": "- Memungkinkan pemasangan skill perangkap pada kaki sasaran. Namun bila skill aktif seketika, kamu juga akan terkena efeknya.\n Max lvl 1.",
     "drop": [210, 220]
   },
   {
@@ -878,7 +878,7 @@
   {
     "id": "Teladan",
     "en": "Role Model",
-    "desc": "",
+    "desc": "- Menahan output luka dari diri sendiri secara signifikan untuk menambah 1% perolehan EXP anggota regu.\n- Max lvl 1.",
     "drop": [250]
   },
   {
