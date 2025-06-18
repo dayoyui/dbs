@@ -3,157 +3,157 @@
     "id": "Boost Serangan Fisik",
     "en": "Physical Attack Boost",
     "desc": "- ATK +1.\n- Max Lv. 30",
-    "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
+    "drop": [10, 30, 50, 70, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
     "id": "Boost Serangan Sihir",
     "en": "Magic Attack Boost",
     "desc": "- MATK +1.\n- Max Lv. 30",
-    "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
+    "drop": [10, 30, 50, 70, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
     "id": "Boost Max HP",
     "en": "Max HP Boost",
     "desc": "- MAX HP +10.\n- Max Lv. 100",
-    "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
+    "drop": [10, 30, 50, 70, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
     "id": "Boost Max MP",
     "en": "Max MP Boost",
     "desc": "- MAX MP +1.\n- Max Lv. 100",
-    "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
+    "drop": [10, 30, 50, 70, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
     "id": "Boost Ketahanan Fisik",
     "en": "Physical Defense Boost",
     "desc": "- DEF +1.\n- Max Lv. 50",
-    "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
+    "drop": [10, 30, 50, 70, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
     "id": "Boost Ketahanan Sihir",
     "en": "Magic Defense Boost",
     "desc": "- MDEF +1.\n- Max Lv. 50",
-    "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
+    "drop": [10, 30, 50, 70, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
     "id": "Boost Akurasi",
     "en": "Accuracy Boost",
     "desc": "- Accuracy +1.\n- Max Lv. 10",
-    "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
+    "drop": [10, 30, 50, 70, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
     "id": "Boost Hindaran",
     "en": "Dodge Boost",
     "desc": "- Dodge +1.\n- Max Lv. 10",
-    "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
+    "drop": [10, 30, 70, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
     "id": "Boost Kecepatan Serang",
     "en": "Attack Speed Boost",
     "desc": "- ASPD +1.\n- Max Lv. 100",
-    "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
+    "drop": [10, 30, 50, 70, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
     "id": "Boost Kecepatan Sihir",
     "en": "Magic Speed Boost",
     "desc": "- CSPD +1.\n- Max Lv. 100",
-    "drop": [10, 30, 50, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
+    "drop": [10, 30, 50, 70, 90, 110, 130, 150, 170, 190, 210, 220, 230, 250]
   },
   {
     "id": "Musafir",
     "en": "Wayfarer",
     "desc": "",
-    "drop": [10, 30, 50, 90]
+    "drop": [10, 30,50, 70, 90]
   },
   {
     "id": "Basuhan Mentari",
     "en": "Sunbath",
     "desc": "- Mendapat tambahan 25% jumlah MP yang pulih saat ekspresi yang menambah Natural Regen dipakai.\n- Max Lv. 4",
-    "drop": [10, 30, 50, 220]
+    "drop": [10, 30, 50, 70, 220]
   },
   {
     "id": "Penguat Tebasan Kuat",
     "en": "Hard Hit Enhancer",
     "desc": "- Menambah 5% daya skill \"Tebasan Kuat\".\n- Max Lv. 20",
-    "drop": [30, 50, 90, 110, 130]
+    "drop": [30, 50, 70, 90, 110, 130]
   },
   {
     "id": "Ekstender Pedang Sonik",
     "en": "Sonic Blade Extender",
     "desc": "- Memperpanjang waktu skill Pedang Sonik harus dipakai ulang agar berubah menjadi Pedang Super Sonik sebanyak 1 detik.\n- Max Lv. 20",
-    "drop": [30, 50, 90, 110, 130]
+    "drop": [30, 50, 70, 90, 110, 130]
   },
   {
     "id": "Penguat Tembakan Kuat",
     "en": "Power Shot Boost",
     "desc": "- Menambah 15% daya skill \"Tembakan Kuat\" saat target berhasil dibuat Jatuh.\n- Max Lv. 20",
-    "drop": [30, 50, 90, 110, 130]
+    "drop": [30, 50, 70, 90, 110, 130]
   },
   {
     "id": "Penguat Tepat Sasaran",
     "en": "Bullseye Enhancer",
     "desc": "- Menambah 5% daya skill \"Tepat Sasaran\".\n- Max Lv. 20",
-    "drop": [30, 50, 90, 110, 130]
+    "drop": [30, 50, 70, 90, 110, 130]
   },
   {
     "id": "Penguat Sihir: Panah",
     "en": "Magic: Arrows Enhancer",
     "desc": "- Menambah 1 tembakan pada skill \"Sihir: Panah\".\n- Max Lv. 4",
-    "drop": [30, 50, 90, 110, 130, 220]
+    "drop": [30, 50, 70, 90, 110, 130, 220]
   },
   {
     "id": "Penguat Sihir: Tembok",
     "en": "Magic: Wall Enhancer",
     "desc": "- Menambah 5% daya skill \"Sihir: Tembok\".\n- Max Lv. 20",
-    "drop": [30, 50, 90, 110, 130]
+    "drop": [30, 50, 70, 90, 110, 130]
   },
   {
     "id": "Penguat Smash",
     "en": "Smash Enhancer",
     "desc": "- Menambah 5% daya skill \"Smash\" bila dipakai dengan sarung tinju.\n- Max Lv. 20",
-    "drop": [30, 50, 90, 110, 130]
+    "drop": [30, 50, 70, 90, 110, 130]
   },
   {
     "id": "Penguat Gelombang Sonik",
     "en": "Sonic Wave Enhancer",
     "desc": "- Menambah 5% daya skill \"Gelombang Sonik\" bila dipakai dengan sarung tinju.\n- Max Lv. 20",
-    "drop": [30, 50, 90, 110, 130]
+    "drop": [30, 50, 70, 90, 110, 130]
   },
   {
     "id": "Penguat Twin Slash",
     "en": "Twin Slash Enhancer",
     "desc": "- Menambah 2% luka kritis dari skill \"Twin Slash\".\n- Max Lv. 20",
-    "drop": [30, 50, 90, 110, 130]
+    "drop": [30, 50, 70, 90, 110, 130]
   },
   {
     "id": "Penguat Cross Parry",
     "en": "Cross Parry Enhancer",
     "desc": "- Menambah 5% daya skill \"Cross Parry\".\n- Max Lv. 20",
-    "drop": [30, 50, 90, 110, 130]
+    "drop": [30, 50, 70, 90, 110, 130]
   },
   {
     "id": "Penguat Flash Stab",
     "en": "Flash Stab Enhancer",
     "desc": "",
-    "drop": [30, 50, 90, 110, 130]
+    "drop": [30, 50, 70, 90, 110, 130]
   },
   {
     "id": "Penguat Cannon Spear",
     "en": "Cannon Spear Enhancer",
     "desc": "- Peluang memberikan status \"Bergidik\" sebesar 10% ditambahkan ke serangan pertama skill \"Cannon Spear\".\n- Max Lv. 10",
-    "drop": [30, 50, 90, 110, 130]
+    "drop": [30, 50, 70, 90, 110, 130]
   },
   {
     "id": "Penguat Issen",
     "en": "Issen Enhancer",
     "desc": "- Menambah 5% daya pukulan kedua skill \"Issen\".\n- Max Lv. 20",
-    "drop": [30, 50, 90, 110, 130]
+    "drop": [30, 50, 70, 90, 110, 130]
   },
   {
     "id": "Penguat Pukulan Pangkal",
     "en": "Pommel Strike Enhancer",
     "desc": "- Memperpanjang durasi status Lumpuh yang diberikan oleh skill \"Pukulan Pangkal\" sebanyak 1 detik.\n- Max Lv. 5",
-    "drop": [30, 50, 90, 110, 130, 220]
+    "drop": [30, 50, 70, 90, 110, 130, 220]
   },
   {
     "id": "Penawar Racun",
@@ -165,7 +165,7 @@
     "id": "Mata Kucing",
     "en": "Cat's Eye",
     "desc": "",
-    "drop": [30, 220]
+    "drop": [30, 70, 220]
   },
   {
     "id": "Pemulih HP Darurat",
@@ -177,7 +177,7 @@
     "id": "Kendali Saraf",
     "en": "Neural Control",
     "desc": "- Mengurangi penurunan ASPD karena Lumpuh sebesar 2%.\n- Max Lv. 30",
-    "drop": [50, 250]
+    "drop": [50, 70, 250]
   },
   {
     "id": "Pemulih MP Darurat",
