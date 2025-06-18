@@ -266,7 +266,7 @@
   {
     "id": "Mega War Cry of Struggle",
     "en": "Mega War Cry of Struggle",
-    "desc": "- Menambah jumlah aggro yang dihasilkan oleh skill \"War Cry of Struggle\" sebanyak 300. (+300 per level)\n- Max lvl 10.",
+    "desc": "- Menambah jumlah aggro yang dihasilkan oleh skill \"War Cry of Struggle\" sebanyak 300.\n- Max lvl 10.",
     "drop": [70, 90, 110, 130, 150]
   },
   {
@@ -380,7 +380,7 @@
   {
     "id": "Mata Elang",
     "en": "Eagle Eye",
-    "desc": "- Mengurangi 1% luka yang diterima dari arah belakang (melawan arah kamera). Jika luka diterima tepat dari belakang, maka pengurangannya akan lebih banyak.\n- Max lvl 10.",
+    "desc": "- Mengurangi 1% luka yang diterima dari arah belakang (melawan arah kamera).\n- Jika luka diterima tepat dari belakang, maka pengurangannya akan lebih banyak.\n- Max lvl 10.",
     "drop": [130, 230]
   },
   {
@@ -578,13 +578,13 @@
   {
     "id": "Penguat Rage Sword",
     "en": "Rage Sword Enhancer",
-    "desc": "- Menambah 10% daya skill \"Rage Sword\". Jumlah aggro jadi 2x lipat bila target memusuhimu.\n- Max lvl 10.",
+    "desc": "- Menambah 10% daya skill \"Rage Sword\".\n- Jumlah aggro jadi 2x lipat bila target memusuhimu.\n- Max lvl 10.",
     "drop": [190, 250]
   },
   {
     "id": "Familia Seperjuangan",
     "en": "Comrade Familia",
-    "desc": "- Peluang familiar yang dipanggil dengan skill \"Familia\" kabur berkurang 1%. Gerakan jadi lebih cepat 1 detik untuk Familia Lanjutan.\n- Max lvl 1.",
+    "desc": "- Peluang familiar yang dipanggil dengan skill \"Familia\" kabur berkurang 1%.\n- Gerakan jadi lebih cepat 1 detik untuk Familia Lanjutan.\n- Max lvl 1.",
     "drop": [190, 220, 250]
   },
   {
@@ -650,19 +650,19 @@
   {
     "id": "Heal Cadangan",
     "en": "Heal Bank",
-    "desc": "- Jumlah HP yang dipulihkan oleh skill \"Mini Heal\" dan \"Heal\" jadi setengah.\n- Buff diakumulasi hingga 1 stack per 3 detik. Jika skill dipakai untuk memulihkan teman, buff dikuras sebagai ganti MP untuk mengaktifkannya.\n- Max lvl 10.",
+    "desc": "- Jumlah HP yang dipulihkan oleh skill \"Mini Heal\" dan \"Heal\" jadi setengah.\n- Buff diakumulasi hingga 1 stack per 3 detik.\n- Jika skill dipakai untuk memulihkan teman, buff dikuras sebagai ganti MP untuk mengaktifkannya.\n- Max lvl 10.",
     "drop": [210, 230]
   },
   {
     "id": "Perangkap Genting",
     "en": "Chancy Trap",
-    "desc": "- Memungkinkan pemasangan skill perangkap pada kaki sasaran. Namun bila skill aktif seketika, kamu juga akan terkena efeknya.\n- Max lvl 1.",
+    "desc": "- Memungkinkan pemasangan skill perangkap pada kaki sasaran.\n- Namun bila skill aktif seketika, kamu juga akan terkena efeknya.\n- Max lvl 1.",
     "drop": [210, 220]
   },
   {
     "id": "Gitaris",
     "en": "Guitarist",
-    "desc": "- Efek skill tembang naik 1 detik lebih cepat saat dipakai terus-menerus. Tapi aggro dan luka yang diterima bertambah 10% selama dinyanyikan.\n- *Tak berlaku untuk Tembang Fantasi.*\n- Max lvl 6.",
+    "desc": "- Efek skill tembang naik 1 detik lebih cepat saat dipakai terus-menerus.\n- Tapi aggro dan luka yang diterima bertambah 10% selama dinyanyikan.\n- *Tak berlaku untuk Tembang Fantasi.*\n- Max lvl 6.",
     "drop": [210, 220, 250]
   },
   {
@@ -848,7 +848,7 @@
   {
     "id": "Tombak Pemburu Jauh",
     "en": "Distant Buster Lance",
-    "desc": "- Menambah daya \"Tombak Pemburu\" sebesar 10%. Memperpanjang jangkauan dan jarak dimana penurunan daya dimulai agar selalu menjadi serangan jarak jauh.\n- Max lvl 10.",
+    "desc": "- Menambah daya \"Tombak Pemburu\" sebesar 10%.\n- Memperpanjang jangkauan dan jarak dimana penurunan daya dimulai agar selalu menjadi serangan jarak jauh.\n- Max lvl 10.",
     "drop": [250]
   },
   {
