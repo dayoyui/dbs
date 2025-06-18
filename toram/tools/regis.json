@@ -230,7 +230,7 @@
   {
     "id": "Konverter Gelombang Kuat",
     "en": "Power Wave Modifier",
-    "desc": "- Menghapus efek penambah jangkauan dari skill \"Gelombang Kuat\" dan sebagai gantinya daya serangan biasa naik 0.5%.\n- *Kenaikannya tergantung pada level skill.*.\n- Max Lv. 10",
+    "desc": "- Menghapus efek penambah jangkauan dari skill \"Gelombang Kuat\" dan sebagai gantinya daya serangan biasa naik 0.5%.\n- *Kenaikannya tergantung pada level skill.*\n- Max Lv. 10",
     "drop": [70, 90, 110, 130, 150]
   },
   {
@@ -296,7 +296,7 @@
   {
     "id": "Senasib Seperjuangan",
     "en": "Shared Destiny",
-    "desc": "- Tiap anggota regu kecuali dirimu akan menambah 1% ATK dan MATK-mu, tapi kamu akan kehilangan 100% HP setiap kali ada anggota yang KO.\n- *Pengurasan HP ini bisa membuatmu KO.*.\n- Max Lv. 2",
+    "desc": "- Tiap anggota regu kecuali dirimu akan menambah 1% ATK dan MATK-mu, tapi kamu akan kehilangan 100% HP setiap kali ada anggota yang KO.\n- *Pengurasan HP ini bisa membuatmu KO.*\n- Max Lv. 2",
     "drop": [70, 190, 220]
   },
   {
@@ -320,7 +320,7 @@
   {
     "id": "Monofobia",
     "en": "Monophobia",
-    "desc": "- 100 HP pulih per 10 detik saat berada di dekat anggota regu, saat tidak, 100 HP akan terkuras.\n- *Pengurasan HP ini takkan membuat pemain KO.*.\n- Max Lv. 5",
+    "desc": "- 100 HP pulih per 10 detik saat berada di dekat anggota regu, saat tidak, 100 HP akan terkuras.\n- *Pengurasan HP ini takkan membuat pemain KO.*\n- Max Lv. 5",
     "drop": [90, 170, 220]
   },
   {
@@ -350,7 +350,7 @@
   {
     "id": "Hantaman Mana",
     "en": "Mana Thrash",
-    "desc": "- Menambah daya serangan biasa sebagai ganti hilangnya Attack MP Recovery.\n- *Makin tinggi Attack MP Recovery, makin besar daya yang ditambah.*.\n- Max Lv. 1",
+    "desc": "- Menambah daya serangan biasa sebagai ganti hilangnya Attack MP Recovery.\n- *Makin tinggi Attack MP Recovery, makin besar daya yang ditambah.*\n- Max Lv. 1",
     "drop": [110, 220, 230]
   },
   {
@@ -458,7 +458,7 @@
   {
     "id": "Transfer",
     "en": "Transfer",
-    "desc": "- MaxMP berkurang 1000, tapi saat kamu KO, sisa MP akan dibagikan ke anggota regu.\n- *Pemain yang MP-nya terisi berkat efek ini takkan dapat menerima efek yang sama selama 180 detik.*.\n- Max Lv. 10",
+    "desc": "- MaxMP berkurang 1000, tapi saat kamu KO, sisa MP akan dibagikan ke anggota regu.\n- *Pemain yang MP-nya terisi berkat efek ini takkan dapat menerima efek yang sama selama 180 detik.*\n- Max Lv. 10",
     "drop": [150, 250]
   },
   {
@@ -602,7 +602,7 @@
   {
     "id": "Pertunjukan Singkat",
     "en": "Short Performance",
-    "desc": "- Efek skill tarian jadi 5 detik lebih singkat.\n- *Tak berlaku untuk Tarian Semangat.*.\n- Max Lv. 1",
+    "desc": "- Efek skill tarian jadi 5 detik lebih singkat.\n- *Tak berlaku untuk Tarian Semangat.*\n- Max Lv. 1",
     "drop": [190, 220]
   },
   {
@@ -662,7 +662,7 @@
   {
     "id": "Gitaris",
     "en": "Guitarist",
-    "desc": "- Efek skill tembang naik 1 detik lebih cepat saat dipakai terus-menerus.\n- Tapi aggro dan luka yang diterima bertambah 10% selama dinyanyikan.\n- *Tak berlaku untuk Tembang Fantasi.*.\n- Max Lv. 6",
+    "desc": "- Efek skill tembang naik 1 detik lebih cepat saat dipakai terus-menerus.\n- Tapi aggro dan luka yang diterima bertambah 10% selama dinyanyikan.\n- *Tak berlaku untuk Tembang Fantasi.*\n- Max Lv. 6",
     "drop": [210, 220, 250]
   },
   {
@@ -704,7 +704,7 @@
   {
     "id": "Proteksi Aegis",
     "en": "Protection Aegis",
-    "desc": "- Bila skill \"Proteksi\" aktif, maka \"Aegis\" yang dikuasai juga akan aktif bersamaan.\n- *Berlaku juga sebaliknya.*.\n- Max Lv. 1",
+    "desc": "- Bila skill \"Proteksi\" aktif, maka \"Aegis\" yang dikuasai juga akan aktif bersamaan.\n- *Berlaku juga sebaliknya.*\n- Max Lv. 1",
     "drop": [220]
   },
   {
@@ -740,7 +740,7 @@
   {
     "id": "Perawatan Darurat",
     "en": "Emergency Care",
-    "desc": "- Mengurangi Aggro MP dari aktivasi skill \"First Aid\" sebanyak 1.\n- *Paling rendah hingga MP Cost 100.*.\n- Max Lv. 10",
+    "desc": "- Mengurangi Aggro MP dari aktivasi skill \"First Aid\" sebanyak 1.\n- *Paling rendah hingga MP Cost 100.*\n- Max Lv. 10",
     "drop": [220]
   },
   {
