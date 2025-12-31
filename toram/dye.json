@@ -1,454 +1,446 @@
 [
     {
         "Boss Name":"Boss colon",
-        "Color":"B70"
+        "Color":"B56"
     },
     {
         "Boss Name":"Black Knight of delusion",
-        "Color":"B63"
-    },
-    {
-        "Boss Name":"Mom fluck",
-        "Color":"A56"
-    },
-    {
-        "Boss Name":"Oculasignio",
-        "Color":"C83"
-    },
-    {
-        "Boss Name":"Zega",
-        "Color":"B48"
-    },
-    {
-        "Boss Name":"Excavated golem",
-        "Color":"C21"
-    },
-    {
-        "Boss Name":"Evil crystal beaat",
-        "Color":"A60"
-    },
-    {
-        "Boss Name":"Zelbuse",
-        "Color":"A26"
-    },
-    {
-        "Boss Name":"Gordel",
-        "Color":"C1"
-    },
-    {
-        "Boss Name":"Gespenst",
-        "Color":"A56"
-    },
-    {
-        "Boss Name":"Inzanio of dark knight",
-        "Color":"C19"
-    },
-    {
-        "Boss Name":"Mardula",
-        "Color":"Hidden"
-    },
-    {
-        "Boss Name":"Guard golem",
-        "Color":"B33"
-    },
-    {
-        "Boss Name":"Eerie crystal",
-        "Color":"A67"
-    },
-    {
-        "Boss Name":"Twilight dragon",
-        "Color":"B65"
-    },
-    {
-        "Boss Name":"Selle zauga",
-        "Color":"B68"
-    },
-    {
-        "Boss Name":"Barning dragon igneus",
-        "Color":"B5"
-    },
-    {
-        "Boss Name":"Forest wolf",
-        "Color":"B50"
-    },
-    {
-        "Boss Name":"Cerberus",
-        "Color":"A24"
-    },
-    {
-        "Boss Name":"King piton",
-        "Color":"B81"
-    },
-    {
-        "Boss Name":"Trickster dragon mimyugon",
-        "Color":"A78"
-    },
-    {
-        "Boss Name":"Minotaur",
-        "Color":"C75"
-    },
-    {
-        "Boss Name":"Zolban",
-        "Color":"A2"
-    },
-    {
-        "Boss Name":"Finstern the dark dragon",
-        "Color":"C54"
-    },
-    {
-        "Boss Name":"Filrocas",
-        "Color":"C64"
-    },
-    {
-        "Boss Name":"Boss goblin",
-        "Color":"A28"
-    },
-    {
-        "Boss Name":"Aranea",
-        "Color":"A67"
-    },
-    {
-        "Boss Name":"Tuscog",
-        "Color":"A29"
-    },
-    {
-        "Boss Name":"Wicked dragon fazzino",
-        "Color":"C58"
-    },
-    {
-        "Boss Name":"Brutal dragon decel",
-        "Color":"C64"
-    },
-    {
-        "Boss Name":"Bexiz",
-        "Color":"B61"
-    },
-    {
-        "Boss Name":"Eroded pilz",
-        "Color":"A53"
-    },
-    {
-        "Boss Name":"Walican",
-        "Color":"C71"
-    },
-    {
-        "Boss Name":"Mochelo",
-        "Color":"A39"
-    },
-    {
-        "Boss Name":"Imitator",
-        "Color":"B66"
-    },
-    {
-        "Boss Name":"Pyxtica",
-        "Color":"B58"
-    },
-    {
-        "Boss Name":"Brass dragon reguita",
-        "Color":"B27"
-    },
-    {
-        "Boss Name":"Flare volg",
-        "Color":"B1"
-    },
-    {
-        "Boss Name":"Imitacia",
-        "Color":"A63"
-    },
-    {
-        "Boss Name":"Kuzto",
-        "Color":"B30"
-    },
-    {
-        "Boss Name":"Dominaredor",
-        "Color":"A78"
-    },
-    {
-        "Boss Name":"Ruin golem",
-        "Color":"B63"
-    },
-    {
-        "Boss Name":"Memecoleolus",
-        "Color":"C17"
-    },
-    {
-        "Boss Name":"Sapphire roga",
-        "Color":"A62"
-    },
-    {
-        "Boss Name":"Zapo",
-        "Color":"A29"
-    },
-    {
-        "Boss Name":"Forestia",
-        "Color":"A44"
-    },
-    {
-        "Boss Name":"Iconos",
-        "Color":"C11"
-    },
-    {
-        "Boss Name":"Gravicep",
-        "Color":"B13"
-    },
-    {
-        "Boss Name":"RedAshDragonRudis",
-        "Color":"B77"
-    },
-    {
-        "Boss Name":"Astol",
-        "Color":"Hidden"
-    },
-    {
-        "Boss Name":"Tapir",
-        "Color":"B49"
-    },
-    {
-        "Boss Name":"Demonic quasar",
-        "Color":"A2"
-    },
-    {
-        "Boss Name":"DonProfundo",
-        "Color":"A14"
-    },
-    {
-        "Boss Name":"Ooze",
-        "Color":"B38"
-    },
-    {
-        "Boss Name":"Ifrid",
-        "Color":"A22"
-    },
-    {
-        "Boss Name":"Repthon",
-        "Color":"B61"
-    },
-    {
-        "Boss Name":"Vatudo",
-        "Color":"A51"
-    },
-    {
-        "Boss Name":"Warmongger",
-        "Color":"B27"
-    },
-    {
-        "Boss Name":"Prot leon",
-        "Color":"B51"
-    },
-    {
-        "Boss Name":"Vulture",
-        "Color":"C55"
-    },
-    {
-        "Boss Name":"RagingDragonBovinari",
-        "Color":"C40"
-    },
-    {
-        "Boss Name":"Mauez",
-        "Color":"C13"
-    },
-    {
-        "Boss Name":"York",
-        "Color":"B64"
-    },
-    {
-        "Boss Name":"Venena metacoenubia",
-        "Color":"B65"
-    },
-    {
-        "Boss Name":"Humida",
         "Color":"B80"
     },
     {
-        "Boss Name":"Ganglef",
-        "Color":"A40"
+        "Boss Name":"Mom fluck",
+        "Color":"B51"
     },
     {
-        "Boss Name":"Tyrant machina",
-        "Color":"C61"
+        "Boss Name":"Oculasignio",
+        "Color":"Hidden"
     },
     {
-        "Boss Name":"Pisteus",
-        "Color":"A73"
+        "Boss Name":"Excavated golem",
+        "Color":"A69"
     },
     {
-        "Boss Name":"Torexesa",
-        "Color":"C83"
+        "Boss Name":"Evil crystal beaat",
+        "Color":"C53"
     },
     {
-        "Boss Name":"Demon's gate",
-        "Color":"A48"
+        "Boss Name":"Zelbuse",
+        "Color":"A13"
     },
     {
-        "Boss Name":"Mozto machina",
-        "Color":"A55"
-    },
-    {
-        "Boss Name":"Arachnidemon",
-        "Color":"B72"
-    },
-    {
-        "Boss Name":"Mugloon",
-        "Color":"A77"
-    },
-    {
-        "Boss Name":"Boss roga",
-        "Color":"C7"
-    },
-    {
-        "Boss Name":"Lalvada",
-        "Color":"B30"
-    },
-    {
-        "Boss Name":"Black shadow",
-        "Color":"A33"
-    },
-    {
-        "Boss Name":"Deformis",
-        "Color":"Unknown"
-    },
-    {
-        "Boss Name":"B.B.goblin",
-        "Color":"C26"
-    },
-    {
-        "Boss Name":"Zahhak machina",
-        "Color":"A19"
-    },
-    {
-        "Boss Name":"Hexter",
-        "Color":"C60"
-    },
-    {
-        "Boss Name":"Menti",
-        "Color":"C27"
-    },
-    {
-        "Boss Name":"Ancient empress",
-        "Color":"B58"
-    },
-    {
-        "Boss Name":"Guignol",
+        "Boss Name":"Gordel",
         "Color":"A32"
     },
     {
-        "Boss Name":"Irestida",
-        "Color":"C43"
+        "Boss Name":"Gespenst",
+        "Color":"C41"
     },
     {
-        "Boss Name":"Byskiva",
-        "Color":"B5"
+        "Boss Name":"Inzanio of dark knight",
+        "Color":"B70"
     },
     {
-        "Boss Name":"Masked warrior",
-        "Color":"B6"
+        "Boss Name":"Mardula",
+        "Color":"A52"
     },
     {
-        "Boss Name":"Gwaimol",
-        "Color":"B75"
+        "Boss Name":"Guard golem",
+        "Color":"B44"
     },
     {
-        "Boss Name":"Reliza",
+        "Boss Name":"Eerie crystal",
+        "Color":"C29"
+    },
+    {
+        "Boss Name":"Twilight dragon",
+        "Color":"C71"
+    },
+    {
+        "Boss Name":"Selle zauga",
+        "Color":"C20"
+    },
+    {
+        "Boss Name":"Barning dragon igneus",
+        "Color":"B40"
+    },
+    {
+        "Boss Name":"Forest wolf",
+        "Color":"A83"
+    },
+    {
+        "Boss Name":"Cerberus",
+        "Color":"C4"
+    },
+    {
+        "Boss Name":"King piton",
+        "Color":"A42"
+    },
+    {
+        "Boss Name":"Trickster dragon mimyugon",
+        "Color":"C11"
+    },
+    {
+        "Boss Name":"Minotaur",
+        "Color":"C74"
+    },
+    {
+        "Boss Name":"Zolban",
+        "Color":"A54"
+    },
+    {
+        "Boss Name":"Finstern the dark dragon",
         "Color":"A48"
     },
     {
-        "Boss Name":"Piscruva",
-        "Color":"A50"
+        "Boss Name":"Filrocas",
+        "Color":"B22"
     },
     {
-        "Boss Name":"Pillar golem",
-        "Color":"C63"
+        "Boss Name":"Boss goblin",
+        "Color":"C6"
     },
     {
-        "Boss Name":"Ultimate machina",
-        "Color":"C61"
-    },
-    {
-        "Boss Name":"Gemma",
-        "Color":"B2"
-    },
-    {
-        "Boss Name":"Goldoon",
-        "Color":"C5"
-    },
-    {
-        "Boss Name":"Glass dragon yelb",
-        "Color":"C65"
-    },
-    {
-        "Boss Name":"Ornlarf",
+        "Boss Name":"Aranea",
         "Color":"B21"
     },
     {
-        "Boss Name":"Ferzen the rock dragon",
+        "Boss Name":"Tuscog",
+        "Color":"A71"
+    },
+    {
+        "Boss Name":"Wicked dragon fazzino",
+        "Color":"C52"
+    },
+    {
+        "Boss Name":"Brutal dragon decel",
+        "Color":"C2"
+    },
+    {
+        "Boss Name":"Bexiz",
+        "Color":"A77"
+    },
+    {
+        "Boss Name":"Eroded pilz",
+        "Color":"A38"
+    },
+    {
+        "Boss Name":"Walican",
+        "Color":"A74"
+    },
+    {
+        "Boss Name":"Mochelo",
+        "Color":"C25"
+    },
+    {
+        "Boss Name":"Imitator",
+        "Color":"B11"
+    },
+    {
+        "Boss Name":"Pyxtica",
+        "Color":"B15"
+    },
+    {
+        "Boss Name":"Brass dragon reguita",
+        "Color":"B47"
+    },
+    {
+        "Boss Name":"Flare volg",
+        "Color":"A69"
+    },
+    {
+        "Boss Name":"Imitacia",
+        "Color":"B27"
+    },
+    {
+        "Boss Name":"Kuzto",
+        "Color":"B11"
+    },
+    {
+        "Boss Name":"Dominaredor",
+        "Color":"A25"
+    },
+    {
+        "Boss Name":"Ruin golem",
+        "Color":"B62"
+    },
+    {
+        "Boss Name":"Memecoleolus",
+        "Color":"A67"
+    },
+    {
+        "Boss Name":"Sapphire roga",
+        "Color":"C23"
+    },
+    {
+        "Boss Name":"Zapo",
+        "Color":"C81"
+    },
+    {
+        "Boss Name":"Forestia",
+        "Color":"A2"
+    },
+    {
+        "Boss Name":"Iconos",
         "Color":"C39"
     },
     {
-        "Boss Name":"Evil Magic Soldier [Goldoon]",
-        "Color":"C26"
+        "Boss Name":"Gravicep",
+        "Color":"B79"
     },
     {
-        "Boss Name":"Nurethoth",
+        "Boss Name":"RedAshDragonRudis",
+        "Color":"C32"
+    },
+    {
+        "Boss Name":"Astol",
+        "Color":"C45"
+    },
+    {
+        "Boss Name":"Tapir",
+        "Color":"A79"
+    },
+    {
+        "Boss Name":"Demonic quasar",
+        "Color":"B7"
+    },
+    {
+        "Boss Name":"DonProfundo",
+        "Color":"A15"
+    },
+    {
+        "Boss Name":"Ooze",
+        "Color":"C15"
+    },
+    {
+        "Boss Name":"Ifrid",
+        "Color":"B44"
+    },
+    {
+        "Boss Name":"Repthon",
         "Color":"B30"
     },
     {
-        "Boss Name":"Maton sword",
-        "Color":"C49"
+        "Boss Name":"Vatudo",
+        "Color":"B45"
     },
     {
-        "Boss Name":"Junior dragon zyvio",
-        "Color":"A55"
+        "Boss Name":"Warmongger",
+        "Color":"C70"
     },
     {
-        "Boss Name":"Baphomela",
-        "Color":"A44"
+        "Boss Name":"Prot leon",
+        "Color":"C29"
     },
     {
-        "Boss Name":"Jade bird",
+        "Boss Name":"Vulture",
+        "Color":"A2"
+    },
+    {
+        "Boss Name":"RagingDragonBovinari",
+        "Color":"C16"
+    },
+    {
+        "Boss Name":"Mauez",
+        "Color":"B38"
+    },
+    {
+        "Boss Name":"York",
         "Color":"A51"
     },
     {
-        "Boss Name":"Shampy",
-        "Color":"C8"
+        "Boss Name":"Venena metacoenubia",
+        "Color":"C81"
     },
     {
-        "Boss Name":"War dragon turba",
-        "Color":"C33"
+        "Boss Name":"Humida",
+        "Color":"A73"
     },
     {
-        "Boss Name":"Noeliel the Ice Statue",
-        "Color":"A50"
+        "Boss Name":"Ganglef",
+        "Color":"A49"
     },
     {
-        "Boss Name":"Goovua",
-        "Color":"B26"
-    },
-    {
-        "Boss Name":"Venena coenubia",
-        "Color":"B20"
-    },
-    {
-        "Boss Name":"Vlam the frame dragon",
-        "Color":"C46"
-    },
-    {
-        "Boss Name":"Noeliel the Ice Statue-Raid",
-        "Color":"B53"
-    },
-    {
-        "Boss Name":"Scrader",
-        "Color":"C31"
-    },
-    {
-        "Boss Name":"Crystal titan",
+        "Boss Name":"Tyrant machina",
         "Color":"A24"
     },
     {
-        "Boss Name":"Velum",
-        "Color":"B13"
+        "Boss Name":"Pisteus",
+        "Color":"C42"
+    },
+    {
+        "Boss Name":"Torexesa",
+        "Color":"B74"
+    },
+    {
+        "Boss Name":"Demon's gate",
+        "Color":"A10"
+    },
+    {
+        "Boss Name":"Mozto machina",
+        "Color":"A80"
+    },
+    {
+        "Boss Name":"Arachnidemon",
+        "Color":"B49"
+    },
+    {
+        "Boss Name":"Mugloon",
+        "Color":"A46"
+    },
+    {
+        "Boss Name":"Boss roga",
+        "Color":"A27"
+    },
+    {
+        "Boss Name":"Lalvada",
+        "Color":"C19"
+    },
+    {
+        "Boss Name":"Black shadow",
+        "Color":"C83"
+    },
+    {
+        "Boss Name":"Deformis",
+        "Color":"B52"
+    },
+    {
+        "Boss Name":"B.B.goblin",
+        "Color":"C60"
+    },
+    {
+        "Boss Name":"Zahhak machina",
+        "Color":"A31"
+    },
+    {
+        "Boss Name":"Hexter",
+        "Color":"B10"
+    },
+    {
+        "Boss Name":"Menti",
+        "Color":"C8"
+    },
+    {
+        "Boss Name":"Ancient empress",
+        "Color":"C5"
+    },
+    {
+        "Boss Name":"Guignol",
+        "Color":"A53"
+    },
+    {
+        "Boss Name":"Irestida",
+        "Color":"B78"
+    },
+    {
+        "Boss Name":"Byskiva",
+        "Color":"A75"
+    },
+    {
+        "Boss Name":"Masked warrior",
+        "Color":"C17"
+    },
+    {
+        "Boss Name":"Gwaimol",
+        "Color":"C80"
+    },
+    {
+        "Boss Name":"Reliza",
+        "Color":"C12"
+    },
+    {
+        "Boss Name":"Piscruva",
+        "Color":"C66"
+    },
+    {
+        "Boss Name":"Pillar golem",
+        "Color":"A66"
+    },
+    {
+        "Boss Name":"Ultimate machina",
+        "Color":"C38"
+    },
+    {
+        "Boss Name":"Gemma",
+        "Color":"A11"
+    },
+    {
+        "Boss Name":"Goldoon",
+        "Color":"C24"
+    },
+    {
+        "Boss Name":"Glass dragon yelb",
+        "Color":"C40"
+    },
+    {
+        "Boss Name":"Ornlarf",
+        "Color":"B34"
+    },
+    {
+        "Boss Name":"Ferzen the rock dragon",
+        "Color":"B41"
+    },
+    {
+        "Boss Name":"Evil Magic Soldier [Goldoon]",
+        "Color":"B52"
+    },
+    {
+        "Boss Name":"Nurethoth",
+        "Color":"C1"
+    },
+    {
+        "Boss Name":"Maton sword",
+        "Color":"C83"
+    },
+    {
+        "Boss Name":"Junior dragon zyvio",
+        "Color":"C47"
     },
     {
         "Boss Name":"Megiston(All)",
-        "Color":"C25"
+        "Color":"C73"
+    },
+    {
+        "Boss Name":"Jade bird",
+        "Color":"A68"
+    },
+    {
+        "Boss Name":"Shampy",
+        "Color":"B16"
+    },
+    {
+        "Boss Name":"War dragon turba",
+        "Color":"A30"
+    },
+    {
+        "Boss Name":"Zega",
+        "Color":"B41"
+    },
+    {
+        "Boss Name":"Goovua",
+        "Color":"A7"
+    },
+    {
+        "Boss Name":"Venena coenubia",
+        "Color":"B55"
+    },
+    {
+        "Boss Name":"Vlam the frame dragon",
+        "Color":"B9"
+    },
+    {
+        "Boss Name":"Supreme Evil Crystal Beast",
+        "Color":"Unknown"
+    },
+    {
+        "Boss Name":"Scrader",
+        "Color":"A25"
+    },
+    {
+        "Boss Name":"Crystal titan",
+        "Color":"C22"
+    },
+    {
+        "Boss Name":"Velum",
+        "Color":"A71"
     }
 ]
