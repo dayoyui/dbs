@@ -1,4 +1,9 @@
 {
-  "content": "",
-  "attachments": []
+  "content": "Orb Shard ×100\nFairy Sewing Tool ×3\n``Watch the livestream`` [here](<https://www.youtube.com/live/ZArteNDVd_M?si=HEilujYS3MI4pdYJ>)!\n@Verified Member",
+  "attachments": [
+    {
+      "url": "https://cdn.discordapp.com/attachments/1512443919013646396/1518277700991713310/image.png?ex=6a3955cc&is=6a38044c&hm=ea23b8415884e19c0c482ddfb64c81912d8d50086a80b4dfa0effdb0fe034b9e&",
+      "name": "image.png"
+    }
+  ]
 }
