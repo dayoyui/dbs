@@ -1,4 +1,4 @@
 {
-  "content": "asdasds",
+  "content": "",
   "attachments": []
 }
