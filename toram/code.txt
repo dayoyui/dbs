@@ -1,4 +1,9 @@
 {
-  "content": "asdad",
-  "attachments": []
+  "content": "Orb Shard ×100\nFairy Sewing Tool ×3",
+  "attachments": [
+    {
+      "url": "https://cdn.discordapp.com/attachments/1512443919013646396/1518278598350602260/image.png?ex=6a3956a2&is=6a380522&hm=b989f25db4434e23b286e95c8fcdfddb10fc9bb00febf57c7f5721407571d99f&",
+      "name": "image.png"
+    }
+  ]
 }
