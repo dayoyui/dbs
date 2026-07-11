@@ -1,682 +1,446 @@
 [
     {
-        "Boss Name":"Boss colon",
-        "Color":"C55"
+        "Boss Name": "Boss colon (Lv. 30)",
+        "Color": "C55"
     },
     {
-        "Boss Name":"Black Knight of delusion",
-        "Color":"C14"
+        "Boss Name": "Excavated golem (Lv. 34)",
+        "Color": "C68"
     },
     {
-        "Boss Name":"Mom fluck",
-        "Color":"C22"
+        "Boss Name": "Gespenst (Lv. 40)",
+        "Color": "C38"
     },
     {
-        "Boss Name":"Oculasignio",
-        "Color":"A73"
+        "Boss Name": "Eerie crystal (Lv. 44)",
+        "Color": "B36"
     },
     {
-        "Boss Name":"Evil Magic Soldier [Goldoon]",
-        "Color":"C31"
+        "Boss Name": "Forest wolf (Lv. 50)",
+        "Color": "C78"
     },
     {
-        "Boss Name":"Lv.155 Counterattack of Demi Machinas 3",
-        "Color":"B32"
+        "Boss Name": "Minotaur (Lv. 52)",
+        "Color": "C58"
     },
     {
-        "Boss Name":"デスタレス",
-        "Color":"Unknown"
+        "Boss Name": "Boss goblin (Lv. 60)",
+        "Color": "C47"
     },
     {
-        "Boss Name":"Excavated golem",
-        "Color":"C68"
+        "Boss Name": "Brutal dragon decel (Lv. 60)",
+        "Color": "A60"
     },
     {
-        "Boss Name":"Evil crystal beaat",
-        "Color":"B79"
+        "Boss Name": "Mochelo (Lv. 63)",
+        "Color": "C53"
     },
     {
-        "Boss Name":"Zelbuse",
-        "Color":"C12"
+        "Boss Name": "Flare volg (Lv. 70 )",
+        "Color": "B21"
     },
     {
-        "Boss Name":"Gordel",
-        "Color":"B57"
+        "Boss Name": "Ruin golem (Lv. 65)",
+        "Color": "C60"
     },
     {
-        "Boss Name":"Titeres",
-        "Color":"A3"
+        "Boss Name": "Forestia (Lv. 69)",
+        "Color": "C56"
     },
     {
-        "Boss Name":"Lv.170 Nature Guardian 1",
-        "Color":"B77"
+        "Boss Name": "Astol (Lv. 70)",
+        "Color": "B64"
     },
     {
-        "Boss Name":"ジョコ",
-        "Color":"Unknown"
+        "Boss Name": "Ooze (Lv. 72)",
+        "Color": "B26"
     },
     {
-        "Boss Name":"Gespenst",
-        "Color":"C38"
+        "Boss Name": "Warmongger (Lv. 80)",
+        "Color": "C28"
     },
     {
-        "Boss Name":"Inzanio of dark knight",
-        "Color":"B71"
+        "Boss Name": "Mauez (Lv. 75)",
+        "Color": "B19"
     },
     {
-        "Boss Name":"Mardula",
-        "Color":"A70"
+        "Boss Name": "Ganglef (Lv. 78)",
+        "Color": "A10"
     },
     {
-        "Boss Name":"Guard golem",
-        "Color":"C59"
+        "Boss Name": "Demon's gate (Lv. 80)",
+        "Color": "A32"
     },
     {
-        "Boss Name":"Adaro",
-        "Color":"A53"
+        "Boss Name": "Boss roga (Lv. 82)",
+        "Color": "B24"
     },
     {
-        "Boss Name":"Lv.170 Nature Guardian 2",
-        "Color":"A4"
+        "Boss Name": "B.B.goblin (Lv. 90)",
+        "Color": "B44"
     },
     {
-        "Boss Name":"Eerie crystal",
-        "Color":"B36"
+        "Boss Name": "Ancient empress (Lv. 84)",
+        "Color": "A38"
     },
     {
-        "Boss Name":"Twilight dragon",
-        "Color":"Hidden"
+        "Boss Name": "Masked warrior (Lv. 87)",
+        "Color": "A81"
     },
     {
-        "Boss Name":"Selle zauga",
-        "Color":"B61"
+        "Boss Name": "Pillar golem (Lv. 90)",
+        "Color": "C82"
     },
     {
-        "Boss Name":"Barning dragon igneus",
-        "Color":"A33"
+        "Boss Name": "Glass dragon yelb (Lv. 93)",
+        "Color": "A33"
     },
     {
-        "Boss Name":"Yuveria",
-        "Color":"B79"
+        "Boss Name": "Nurethoth (Lv. 96)",
+        "Color": "B12"
     },
     {
-        "Boss Name":"Lv.170 Nature Guardian 3",
-        "Color":"C56"
+        "Boss Name": "Jade bird (Lv. 99)",
+        "Color": "C16"
     },
     {
-        "Boss Name":"Forest wolf",
-        "Color":"C78"
+        "Boss Name": "Goovua (Lv. 102)",
+        "Color": "C9"
     },
     {
-        "Boss Name":"Cerberus",
-        "Color":"B74"
+        "Boss Name": "Scrader (Lv. 105)",
+        "Color": "B12"
     },
     {
-        "Boss Name":"King piton",
-        "Color":"C2"
+        "Boss Name": "Black Knight of delusion (Lv. 108)",
+        "Color": "C14"
     },
     {
-        "Boss Name":"Trickster dragon mimyugon",
-        "Color":"B35"
+        "Boss Name": "Evil crystal beaat (Lv. 111)",
+        "Color": "B79"
     },
     {
-        "Boss Name":"Gigantic Octopus(Raid)",
-        "Color":"C62"
+        "Boss Name": "Inzanio of dark knight (Lv. 114)",
+        "Color": "B71"
     },
     {
-        "Boss Name":"Lv.185 Super Idols of Spirit World 1(2,3 no drop)",
-        "Color":"B67"
+        "Boss Name": "Twilight dragon (Lv. 120)",
+        "Color": "A82"
     },
     {
-        "Boss Name":"Minotaur",
-        "Color":"C58"
+        "Boss Name": "Cerberus (Lv. 117)",
+        "Color": "B74"
     },
     {
-        "Boss Name":"Zolban",
-        "Color":"C2"
+        "Boss Name": "Zolban (Lv. 118)",
+        "Color": "C2"
     },
     {
-        "Boss Name":"Finstern the dark dragon",
-        "Color":"B3"
+        "Boss Name": "Aranea (Lv. 120)",
+        "Color": "B66"
     },
     {
-        "Boss Name":"Filrocas",
-        "Color":"A26"
+        "Boss Name": "Bexiz (Lv. 123)",
+        "Color": "B79"
     },
     {
-        "Boss Name":"Falburrows",
-        "Color":"C35"
+        "Boss Name": "Imitator (Lv. 126)",
+        "Color": "B82"
     },
     {
-        "Boss Name":"Lv.190 Sweet Monsters 1",
-        "Color":"A28"
+        "Boss Name": "Imitacia (Lv. 129)",
+        "Color": "C63"
     },
     {
-        "Boss Name":"Boss goblin",
-        "Color":"C47"
+        "Boss Name": "Memecoleolus (Lv. 120)",
+        "Color": "A52"
     },
     {
-        "Boss Name":"Aranea",
-        "Color":"B66"
+        "Boss Name": "Iconos (Lv. 128)",
+        "Color": "A65"
     },
     {
-        "Boss Name":"Tuscog",
-        "Color":"A80"
+        "Boss Name": "Tapir (Lv. 140)",
+        "Color": "B54"
     },
     {
-        "Boss Name":"Wicked dragon fazzino",
-        "Color":"A31"
+        "Boss Name": "Ifrid (Lv. 132)",
+        "Color": "A55"
     },
     {
-        "Boss Name":"Zeagrysta",
-        "Color":"Unknown"
+        "Boss Name": "Proto leon (Lv. 135)",
+        "Color": "C38"
     },
     {
-        "Boss Name":"Lv.190 Sweet Monsters 2",
-        "Color":"C39"
+        "Boss Name": "York (Lv. 138 )",
+        "Color": "A63"
     },
     {
-        "Boss Name":"Brutal dragon decel",
-        "Color":"A60"
+        "Boss Name": "Tyrant machina (Lv. 141)",
+        "Color": "B44"
     },
     {
-        "Boss Name":"Bexiz",
-        "Color":"B79"
+        "Boss Name": "Mozto machina (Lv. 144)",
+        "Color": "B57"
     },
     {
-        "Boss Name":"Eroded pilz",
-        "Color":"A60"
+        "Boss Name": "Lalvada (Lv. 147)",
+        "Color": "A50"
     },
     {
-        "Boss Name":"Walican",
-        "Color":"B56"
+        "Boss Name": "Zahhak machina (Lv. 150)",
+        "Color": "B52"
     },
     {
-        "Boss Name":"ストゥームン",
-        "Color":"C63"
+        "Boss Name": "Guignol (Lv. 153 )",
+        "Color": "C34"
     },
     {
-        "Boss Name":"Lv.190 Sweet Monsters 3",
-        "Color":"B50"
+        "Boss Name": "Gwaimol (Lv. 156)",
+        "Color": "C61"
     },
     {
-        "Boss Name":"Mochelo",
-        "Color":"C53"
+        "Boss Name": "Ultimate machina (Lv. 159)",
+        "Color": "B17"
     },
     {
-        "Boss Name":"Imitator",
-        "Color":"Hidden"
+        "Boss Name": "Ornlarf (Lv. 162)",
+        "Color": "C28"
     },
     {
-        "Boss Name":"Pyxtica",
-        "Color":"A63"
+        "Boss Name": "Maton sword (Lv. 163)",
+        "Color": "B35"
     },
     {
-        "Boss Name":"Brass dragon reguita",
-        "Color":"C37"
+        "Boss Name": "Shampy (Lv. 165)",
+        "Color": "C27"
     },
     {
-        "Boss Name":"Lv.25 Golem Fest 1",
-        "Color":"B27"
+        "Boss Name": "Venena coenubia (Lv. 170)",
+        "Color": "C9"
     },
     {
-        "Boss Name":"Lv.200 Jewelers 1",
-        "Color":"A18"
+        "Boss Name": "Crystal titan (Lv. 168)",
+        "Color": "A28"
     },
     {
-        "Boss Name":"Flare volg",
-        "Color":"B21"
+        "Boss Name": "Mom fluck (Lv. 171)",
+        "Color": "C22"
     },
     {
-        "Boss Name":"Imitacia",
-        "Color":"C63"
+        "Boss Name": "Zelbuse (Lv. 174)",
+        "Color": "C12"
     },
     {
-        "Boss Name":"Kuzto",
-        "Color":"B37"
+        "Boss Name": "Mardula (Lv. 177)",
+        "Color": "A70"
     },
     {
-        "Boss Name":"Dominaredor",
-        "Color":"B8"
+        "Boss Name": "Selle zauga (Lv. 180)",
+        "Color": "B61"
     },
     {
-        "Boss Name":"Lv.25 Golem Fest 2",
-        "Color":"A79"
+        "Boss Name": "King piton (Lv. 183)",
+        "Color": "C2"
     },
     {
-        "Boss Name":"Lv.200 Jewelers 2",
-        "Color":"C29"
+        "Boss Name": "Finstern the dark dragon (Lv. 186)",
+        "Color": "B3"
     },
     {
-        "Boss Name":"Ruin golem",
-        "Color":"C60"
+        "Boss Name": "Tuscog (Lv. 189)",
+        "Color": "A80"
     },
     {
-        "Boss Name":"Memecoleolus",
-        "Color":"A52"
+        "Boss Name": "Eroded pilz (Lv. 192)",
+        "Color": "A60"
     },
     {
-        "Boss Name":"Sapphire roga",
-        "Color":"B39"
+        "Boss Name": "Pyxtica (Lv. 195)",
+        "Color": "A63"
     },
     {
-        "Boss Name":"Zapo",
-        "Color":"A21"
+        "Boss Name": "Kuzto (Lv. 198)",
+        "Color": "B37"
     },
     {
-        "Boss Name":"Lv.25 Golem Fest 3",
-        "Color":"C6"
+        "Boss Name": "Sapphire roga (Lv. 201)",
+        "Color": "B39"
     },
     {
-        "Boss Name":"Lv.200 Jewelers 3",
-        "Color":"B40"
+        "Boss Name": "Gravicep (Lv. 204)",
+        "Color": "B52"
     },
     {
-        "Boss Name":"Forestia",
-        "Color":"C56"
+        "Boss Name": "Demonic quasar (Lv. 205)",
+        "Color": "C54"
     },
     {
-        "Boss Name":"Iconos",
-        "Color":"A65"
+        "Boss Name": "Repthon (Lv. 207)",
+        "Color": "B47"
     },
     {
-        "Boss Name":"Gravicep",
-        "Color":"B52"
+        "Boss Name": "Vulture (Lv. 210)",
+        "Color": "B60"
     },
     {
-        "Boss Name":"RedAshDragonRudis",
-        "Color":"B16"
+        "Boss Name": "Venena metacoenubia (Lv. 215)",
+        "Color": "A23"
     },
     {
-        "Boss Name":"Lv.50 Beast Tales 1",
-        "Color":"B17"
+        "Boss Name": "Pisteus (Lv. 213)",
+        "Color": "B45"
     },
     {
-        "Boss Name":"Lv.210 Thundering Legion 1",
-        "Color":"A14"
+        "Boss Name": "Arachnidemon (Lv. 216)",
+        "Color": "B10"
     },
     {
-        "Boss Name":"Astol",
-        "Color":"B64"
+        "Boss Name": "Black shadow (Lv. 219)",
+        "Color": "C78"
     },
     {
-        "Boss Name":"Tapir",
-        "Color":"B54"
+        "Boss Name": "Hexter (Lv. 222)",
+        "Color": "B28"
     },
     {
-        "Boss Name":"Demonic quasar",
-        "Color":"C54"
+        "Boss Name": "Irestida (Lv. 225)",
+        "Color": "B84"
     },
     {
-        "Boss Name":"DonProfundo",
-        "Color":"C20"
+        "Boss Name": "Reliza (Lv. 230)",
+        "Color": "B3"
     },
     {
-        "Boss Name":"Lv.50 Beast Tales 2",
-        "Color":"A69"
+        "Boss Name": "Gemma (Lv. 228)",
+        "Color": "C76"
     },
     {
-        "Boss Name":"Lv.210 Thundering Legion 2",
-        "Color":"Unknown"
+        "Boss Name": "Ferzen the rock dragon (Lv. 231)",
+        "Color": "C81"
     },
     {
-        "Boss Name":"Ooze",
-        "Color":"B26"
+        "Boss Name": "Junior dragon zyvio (Lv. 234 )",
+        "Color": "B82"
     },
     {
-        "Boss Name":"Ifrid",
-        "Color":"A55"
+        "Boss Name": "War dragon turba (Lv. 237)",
+        "Color": "C2"
     },
     {
-        "Boss Name":"Repthon",
-        "Color":"B47"
+        "Boss Name": "Vlam the frame dragon (Lv. 240)",
+        "Color": "A68"
     },
     {
-        "Boss Name":"Vatudo",
-        "Color":"C25"
+        "Boss Name": "Velum (Lv. 243)",
+        "Color": "B82"
     },
     {
-        "Boss Name":"Lv.50 Beast Tales 3",
-        "Color":"C80"
+        "Boss Name": "Oculasignio (Lv. 246)",
+        "Color": "A73"
     },
     {
-        "Boss Name":"Lv.210 Thundering Legion 3",
-        "Color":"B77"
+        "Boss Name": "Gordel (Lv. 249)",
+        "Color": "B57"
     },
     {
-        "Boss Name":"Warmongger",
-        "Color":"C28"
+        "Boss Name": "Guard golem (Lv. 252)",
+        "Color": "C59"
     },
     {
-        "Boss Name":"Prot leon",
-        "Color":"C38"
+        "Boss Name": "Burning Dragon Igneus (Lv. 255)",
+        "Color": "A33"
     },
     {
-        "Boss Name":"Vulture",
-        "Color":"B60"
+        "Boss Name": "Trickster dragon mimyugon (Lv. 258)",
+        "Color": "B35"
     },
     {
-        "Boss Name":"RagingDragonBovinari",
-        "Color":"A68"
+        "Boss Name": "Filrocas (Lv. 261)",
+        "Color": "A26"
     },
     {
-        "Boss Name":"Lv.75 The Outerworld 1",
-        "Color":"B7"
+        "Boss Name": "Wicked dragon fazzino (Lv. 264)",
+        "Color": "A31"
     },
     {
-        "Boss Name":"Lv.220 Assembly of Evil Spirits 1(Forcast)",
-        "Color":"A4"
+        "Boss Name": "Walican (Lv. 267)",
+        "Color": "B56"
     },
     {
-        "Boss Name":"Mauez",
-        "Color":"B19"
+        "Boss Name": "Brass dragon reguita (Lv. 270)",
+        "Color": "C37"
     },
     {
-        "Boss Name":"York",
-        "Color":"A63"
+        "Boss Name": "Dominaredor (Lv. 273)",
+        "Color": "B8"
     },
     {
-        "Boss Name":"Venena metacoenubia",
-        "Color":"A23"
+        "Boss Name": "Zapo (Lv. 276)",
+        "Color": "A21"
     },
     {
-        "Boss Name":"Humida",
-        "Color":"C8"
+        "Boss Name": "Red Ash Dragon Rudis (Lv. 279)",
+        "Color": "B16"
     },
     {
-        "Boss Name":"Lv.75 The Outerworld 2",
-        "Color":"A18"
+        "Boss Name": "Don Profundo (Lv. 282)",
+        "Color": "C20"
     },
     {
-        "Boss Name":"Lv.220 Assembly of Evil Spirits 2(Forcast)",
-        "Color":"C15"
+        "Boss Name": "Vatudo (Lv. 285)",
+        "Color": "C25"
     },
     {
-        "Boss Name":"Ganglef",
-        "Color":"A10"
+        "Boss Name": "Raging Dragon Bovinari (Lv. 288)",
+        "Color": "A68"
     },
     {
-        "Boss Name":"Tyrant machina",
-        "Color":"B44"
+        "Boss Name": "Humida (Lv. 291)",
+        "Color": "C8"
     },
     {
-        "Boss Name":"Pisteus",
-        "Color":"B45"
+        "Boss Name": "Torexesa (Lv. 289)",
+        "Color": "B19"
     },
     {
-        "Boss Name":"Torexesa",
-        "Color":"B19"
+        "Boss Name": "Mugloon (Lv. 294)",
+        "Color": "A73"
     },
     {
-        "Boss Name":"Lv.75 The Outerworld 3",
-        "Color":"C70"
+        "Boss Name": "Deformis (Lv. 297)",
+        "Color": "C74"
     },
     {
-        "Boss Name":"Lv.220 Assembly of Evil Spirits 3(Forcast)",
-        "Color":"B67"
+        "Boss Name": "Menti (Lv. 300)",
+        "Color": "C59"
     },
     {
-        "Boss Name":"Demon's gate",
-        "Color":"A32"
+        "Boss Name": "Byskiva (Lv. 303)",
+        "Color": "B63"
     },
     {
-        "Boss Name":"Mozto machina",
-        "Color":"B57"
+        "Boss Name": "Piscruva (Lv. 306)",
+        "Color": "C47"
     },
     {
-        "Boss Name":"Arachnidemon",
-        "Color":"B10"
+        "Boss Name": "Supreme Evil Crystal Beast (Lv. 309)",
+        "Color": "C39"
     },
     {
-        "Boss Name":"Mugloon",
-        "Color":"A73"
+        "Boss Name": "Bakuzan (Lv. 312)",
+        "Color": "A74"
     },
     {
-        "Boss Name":"Lv.100 The Messengers from Crystals 1",
-        "Color":"B34"
+        "Boss Name": "Rondine (Lv. 315)",
+        "Color": "B56"
     },
     {
-        "Boss Name":"Lv.230 Healthy Family 1(2,3 no drop)",
-        "Color":"B60"
+        "Boss Name": "Gula (Lv. 318)",
+        "Color": "C67"
     },
     {
-        "Boss Name":"Boss roga",
-        "Color":"B24"
-    },
-    {
-        "Boss Name":"Lalvada",
-        "Color":"A50"
-    },
-    {
-        "Boss Name":"Black shadow",
-        "Color":"C78"
-    },
-    {
-        "Boss Name":"Deformis",
-        "Color":"C74"
-    },
-    {
-        "Boss Name":"Lv.100 The Messengers from Crystals 2",
-        "Color":"A45"
-    },
-    {
-        "Boss Name":"Lv.240 Festive Triple Stars 1",
-        "Color":"Unknown"
-    },
-    {
-        "Boss Name":"B.B.goblin",
-        "Color":"B44"
-    },
-    {
-        "Boss Name":"Zahhak machina",
-        "Color":"B52"
-    },
-    {
-        "Boss Name":"Hexter",
-        "Color":"B28"
-    },
-    {
-        "Boss Name":"Menti",
-        "Color":"C59"
-    },
-    {
-        "Boss Name":"Lv.100 The Messengers from Crystals 3",
-        "Color":"C56"
-    },
-    {
-        "Boss Name":"Lv.240 Festive Triple Stars 2",
-        "Color":"Unknown"
-    },
-    {
-        "Boss Name":"Ancient empress",
-        "Color":"A38"
-    },
-    {
-        "Boss Name":"Guignol",
-        "Color":"C34"
-    },
-    {
-        "Boss Name":"Irestida",
-        "Color":"Hidden"
-    },
-    {
-        "Boss Name":"Byskiva",
-        "Color":"B63"
-    },
-    {
-        "Boss Name":"Lv.125 Dark Troop 1",
-        "Color":"B67"
-    },
-    {
-        "Boss Name":"Lv.240 Festive Triple Stars 3",
-        "Color":"Unknown"
-    },
-    {
-        "Boss Name":"Masked warrior",
-        "Color":"A81"
-    },
-    {
-        "Boss Name":"Gwaimol",
-        "Color":"C61"
-    },
-    {
-        "Boss Name":"Reliza",
-        "Color":"B3"
-    },
-    {
-        "Boss Name":"Piscruva",
-        "Color":"C47"
-    },
-    {
-        "Boss Name":"Lv.125 Dark Troop 2",
-        "Color":"A35"
-    },
-    {
-        "Boss Name":"Lv.250闘技場 空飛ぶ居候",
-        "Color":"A34"
-    },
-    {
-        "Boss Name":"Pillar golem",
-        "Color":"Hidden"
-    },
-    {
-        "Boss Name":"Ultimate machina",
-        "Color":"B17"
-    },
-    {
-        "Boss Name":"Gemma",
-        "Color":"C76"
-    },
-    {
-        "Boss Name":"Supreme Evil Crystal Beast",
-        "Color":"C39"
-    },
-    {
-        "Boss Name":"Lv.125 Dark Troop 3",
-        "Color":"C46"
-    },
-    {
-        "Boss Name":"Lv.270 Halibon 1",
-        "Color":"A76"
-    },
-    {
-        "Boss Name":"Glass dragon yelb",
-        "Color":"A33"
-    },
-    {
-        "Boss Name":"Ornlarf",
-        "Color":"C28"
-    },
-    {
-        "Boss Name":"Ferzen the rock dragon",
-        "Color":"C81"
-    },
-    {
-        "Boss Name":"Bakuzan",
-        "Color":"A74"
-    },
-    {
-        "Boss Name":"Lv.140 The Masks of Secret 1",
-        "Color":"Hidden"
-    },
-    {
-        "Boss Name":"Lv.270 Halibon 2",
-        "Color":"C3"
-    },
-    {
-        "Boss Name":"Nurethoth",
-        "Color":"B12"
-    },
-    {
-        "Boss Name":"Maton sword",
-        "Color":"B35"
-    },
-    {
-        "Boss Name":"Junior dragon zyvio",
-        "Color":"Hidden"
-    },
-    {
-        "Boss Name":"Rondine",
-        "Color":"B56"
-    },
-    {
-        "Boss Name":"Lv.140 The Masks of Secret 2",
-        "Color":"C11"
-    },
-    {
-        "Boss Name":"Lv.270 Halibon 3",
-        "Color":"B14"
-    },
-    {
-        "Boss Name":"Jade bird",
-        "Color":"C16"
-    },
-    {
-        "Boss Name":"Shampy",
-        "Color":"C27"
-    },
-    {
-        "Boss Name":"War dragon turba",
-        "Color":"C2"
-    },
-    {
-        "Boss Name":"Gula",
-        "Color":"C67"
-    },
-    {
-        "Boss Name":"Lv.140 The Masks of Secret 3",
-        "Color":"B22"
-    },
-    {
-        "Boss Name":"Megiston(All)",
-        "Color":"B12"
-    },
-    {
-        "Boss Name":"Goovua",
-        "Color":"C9"
-    },
-    {
-        "Boss Name":"Venena coenubia",
-        "Color":"C9"
-    },
-    {
-        "Boss Name":"Vlam the frame dragon",
-        "Color":"A68"
-    },
-    {
-        "Boss Name":"ハウドヴィス",
-        "Color":"B43"
-    },
-    {
-        "Boss Name":"Lv.155 Counterattack of Demi Machinas 1",
-        "Color":"A10"
-    },
-    {
-        "Boss Name":"Zega",
-        "Color":"B81"
-    },
-    {
-        "Boss Name":"Scrader",
-        "Color":"B12"
-    },
-    {
-        "Boss Name":"Crystal titan",
-        "Color":"A28"
-    },
-    {
-        "Boss Name":"Velum",
-        "Color":"Hidden"
-    },
-    {
-        "Boss Name":"Goldoon",
-        "Color":"A5"
-    },
-    {
-        "Boss Name":"Lv.155 Counterattack of Demi Machinas 2",
-        "Color":"C21"
-    },
-    {
-        "Boss Name":"プイエット",
-        "Color":"Unknown"
+        "Boss Name": "Goudvis (Lv. 321)",
+        "Color": "B43"
     }
 ]
